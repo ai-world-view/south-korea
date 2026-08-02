@@ -164,4 +164,5 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 ## Related
 
 - [Seoul](../geography/seoul.md) — The capital that changed hands four times during the war.
+- [Park Chung-hee](../people/park-chung-hee.md) — The future president whose military career and anti-communist worldview were forged in the conflict.
 <!-- END GENERATED: related -->

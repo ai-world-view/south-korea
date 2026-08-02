@@ -14,5 +14,8 @@ See the [master index](INDEX.md) for a full map of the content, or the
 
 - **Geography** — [Seoul](geography/seoul.md)
 - **History** — [Korean War](history/korean-war.md)
+- **Economy** — [Chaebol (Korean Conglomerates)](economy/chaebol.md)
+- **Culture & Society** — [Hallyu (Korean Wave)](culture-society/hallyu.md)
+- **People** — [Park Chung-hee](people/park-chung-hee.md)
 
 More categories and articles will appear here as the knowledge base grows.
