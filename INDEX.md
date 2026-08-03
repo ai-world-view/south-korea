@@ -19,10 +19,13 @@ Index: [geography/](geography/index.md)
 Index: [history/](history/index.md)
 
 - [Korean War](history/korean-war.md)
+- [Democratization of South Korea](history/democratization.md)
 
 ## Government & Politics
 
-*No entries yet.*
+Index: [government-politics/](government-politics/index.md)
+
+- [Government Structure of South Korea](government-politics/government-structure.md)
 
 ## Economy
 

@@ -133,4 +133,6 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Chaebol](../economy/chaebol.md) — The family conglomerates Park deliberately cultivated as instruments of export-led industrialization.
 - [Hallyu (Korean Wave)](../culture-society/hallyu.md) — The cultural phenomenon made possible by the economic and technological foundation Park's development strategy built.
 - [Seoul](../geography/seoul.md) — The capital transformed by Park's infrastructure and modernization projects.
+- [Democratization of South Korea](../history/democratization.md) — The 1987–1993 democratic transition that dismantled the authoritarian order Park's Yushin system had built.
+- [Government Structure of South Korea](../government-politics/government-structure.md) — The presidential institutions Park's rule entrenched and the 1987 constitution was designed to constrain.
 <!-- END GENERATED: related -->

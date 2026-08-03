@@ -105,6 +105,14 @@ The human toll of the Korean War is staggering and difficult to tabulate precise
 
 Approximately **3.5 million to 4 million** Korean refugees were displaced internally; millions of family members were separated by the DMZ. The first officially sanctioned **inter-Korean family reunions** did not take place until **1985**, 32 years after the armistice, and the program has operated only intermittently.
 
+### Prisoner of War Camps
+
+South Korea held tens of thousands of North Korean and Chinese prisoners at camps on the southern coast and offshore islands. The largest was the **Geoje Island Prisoner of War Camp** (거제도 포로수용소), which held up to 173,000 prisoners at its peak in 1951–1952. On **May 7, 1952**, organized communist prisoners at Geoje seized the camp commandant, Brigadier General Francis Dodd, and coerced a propaganda statement from him — a significant embarrassment to the UN Command. The incident highlighted the intense ideological warfare within the POW camps: North Korean political officers organized prisoners into cells, directed hunger strikes and riots, and orchestrated propaganda aimed at undermining the UN position in armistice negotiations. The repatriation dispute, which stalled negotiations for two years, was directly fueled by the visibility of prisoners who publicly refused repatriation — a spectacle of mass defection that the communist side could not accept.
+
+### The Air Campaign
+
+The UN air campaign over Korea was unprecedented in intensity. Operations **Strangle** (1951) and **Saturate** (1952) sought to interdict North Korean supply lines by destroying roads, bridges, and rail junctions. Despite dropping well over 600,000 tons of bombs, the interdiction campaigns never succeeded in severing logistics entirely: North Korean and Chinese laborers repaired bridges overnight and moved supplies on foot or bicycle during daylight blackouts. The air war's greatest success was against North Korean urban and industrial infrastructure: by 1952, **78 of North Korea's 85 cities** had been destroyed or severely damaged. The Hwacheon Dam was bombed repeatedly; the Suiho hydroelectric complex on the Yalu was struck in June 1952, cutting power to much of Manchuria and North Korea. The campaign's scale — exceeding the total bomb tonnage dropped in the Pacific War — reflected the frustration of UN commanders unable to achieve decisive results on the ground.
+
 ## International Dimension
 
 The UN force in Korea ultimately included contingents from **21 nations**. Significant non-U.S. contributors included:
@@ -131,7 +139,11 @@ The **Mutual Defense Treaty between the United States and the Republic of Korea*
 
 Paradoxically, the war catalyzed the conditions for South Korea's **"economic miracle" (Han River Miracle)**. U.S. military and economic aid flowing into the country from 1953 onward, combined with the Mutual Defense Treaty security umbrella, allowed South Korean governments to direct domestic resources toward industrialization rather than defense buildup. Under **Park Chung-hee** (1961–1979), state-directed export-led industrial policy transformed South Korea from one of the world's poorest countries (GDP per capita ~$80 in 1953) to a significant industrial economy. By 1996, South Korea joined the OECD.
 
-The war also defined South Korean political identity and military culture. The memory of near-national annihilation in 1950 — the complete loss of the country in just weeks — shaped a **mandatory military service** system (currently 18–21 months for men), an intense national commitment to U.S. alliance, and a vigilant security establishment that has remained central to South Korean politics.
+The war also provided the institutional and ideological foundation for the **chaebol** system — the massive family-owned conglomerates that dominate the Korean economy. Post-war U.S. aid and Japan's war-related procurement contracts (Japan supplied material during both the Korean and Vietnam wars) injected capital into nascent Korean firms. Park Chung-hee systematically converted these wartime enterprises into state-sponsored conglomerates under a state-directed industrial policy. The security umbrella provided by the U.S.-ROK Mutual Defense Treaty freed South Korea to pursue export-led growth rather than arms spending. (See **[Chaebol](../economy/chaebol.md)**.)
+
+The war also defined South Korean political identity and military culture. The memory of near-national annihilation in 1950 — the complete loss of the country in just weeks — shaped a **mandatory military service** system (currently 18–21 months for men), an intense national commitment to U.S. alliance, and a vigilant security establishment that has remained central to South Korean politics. It also enabled authoritarian justification: for three decades after the armistice, military governments invoked the existential threat from North Korea to justify emergency powers, press censorship, and the suppression of political opposition — a dynamic that the 1987 democratic transition ultimately broke. (See **[Democratization of South Korea](./democratization.md)**.)
+
+The war's veterans became a defining generation in South Korean life. Officers who fought in the Korean War — including Park Chung-hee himself — dominated the political, military, and bureaucratic elite for decades. The ROK Army that emerged from the war, retrained, reequipped, and rebuilt with U.S. assistance, grew into one of Asia's largest and most capable militaries, with standing forces exceeding 600,000 troops.
 
 ### Cold War Template
 
@@ -165,4 +177,7 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 
 - [Seoul](../geography/seoul.md) — The capital that changed hands four times during the war.
 - [Park Chung-hee](../people/park-chung-hee.md) — The future president whose military career and anti-communist worldview were forged in the conflict.
+- [Democratization of South Korea](./democratization.md) — The 1987 transition that ended the authoritarian governance the war's security imperatives had justified.
+- [Chaebol](../economy/chaebol.md) — The conglomerates whose rise was enabled by post-war U.S. aid and Park's state-directed industrial policy.
+- [Government Structure of South Korea](../government-politics/government-structure.md) — The constitutional and institutional framework whose authoritarian character was partly shaped by post-war security imperatives.
 <!-- END GENERATED: related -->

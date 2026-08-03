@@ -10,4 +10,5 @@ Topics on the events and eras that shaped South Korea, from the ancient kingdoms
 
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
 - [Korean War](korean-war.md) — The 1950–1953 conflict that divided the Korean peninsula and shaped modern South Korea.
+- [Democratization of South Korea](democratization.md) — The 1987–1993 transition from military-authoritarian rule to competitive democracy.
 <!-- END GENERATED: category-index -->

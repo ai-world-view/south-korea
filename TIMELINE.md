@@ -25,6 +25,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1950-09-28 | UN forces recapture Seoul | History | [Korean War](history/korean-war.md) |
 | 1950-10-19 | Chinese People's Volunteer Army enters the war across the Yalu | History | [Korean War](history/korean-war.md) |
 | 1951-03-14 | Seoul retaken by UN forces for the final time | History | [Korean War](history/korean-war.md) |
+| 1952-05-07 | Communist POWs seize Geoje Island camp commandant Gen. Francis Dodd | History | [Korean War](history/korean-war.md) |
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
@@ -33,17 +34,33 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1974-08-15 | Seoul Metro Line 1 opens | Geography | [Seoul](geography/seoul.md) |
 | 1974-08-15 | First Lady Yuk Young-soo killed in an assassination attempt on Park | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1979-10-26 | Park Chung-hee assassinated by KCIA director Kim Jae-gyu | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1979-12-12 | Chun Doo-hwan seizes military control in the December 12 coup | History | [Democratization](history/democratization.md) |
+| 1980-05-18 | Gwangju Uprising begins; paratroopers suppress pro-democracy protests | History | [Democratization](history/democratization.md) |
+| 1987-01-14 | Student Park Jong-chul dies under police torture, galvanizing dissent | History | [Democratization](history/democratization.md) |
+| 1987-04-13 | Chun Doo-hwan rejects direct elections in the "April 13 measure" | History | [Democratization](history/democratization.md) |
+| 1987-06-10 | June Democratic Struggle erupts in nationwide mass protests | History | [Democratization](history/democratization.md) |
+| 1987-06-29 | Roh Tae-woo's June 29 Declaration accepts direct presidential elections | History | [Democratization](history/democratization.md) |
+| 1987-12-16 | Roh Tae-woo wins the first direct presidential election in 16 years | History | [Democratization](history/democratization.md) |
+| 1988-02-25 | Roh Tae-woo inaugurated, opening the Sixth Republic | History | [Democratization](history/democratization.md) |
 | 1988-09-17 | Seoul hosts the Summer Olympic Games | Geography | [Seoul](geography/seoul.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
+| 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
+| 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
 | 1999 | Daewoo Group collapses in the largest corporate bankruptcy of its time | Economy | [Chaebol](economy/chaebol.md) |
+| 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
 | 2002 | "Winter Sonata" airs, fueling the early Korean Wave across Asia | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
+| 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
+| 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2018-04-27 | Panmunjom Declaration between the two Koreas | History | [Korean War](history/korean-war.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2021 | "Squid Game" becomes a global Netflix phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |
+| 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2025-04-04 | Constitutional Court unanimously removes Yoon Suk-yeol from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 <!-- END GENERATED: timeline -->

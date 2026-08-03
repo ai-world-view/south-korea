@@ -13,7 +13,8 @@ See the [master index](INDEX.md) for a full map of the content, or the
 ## Contents
 
 - **Geography** — [Seoul](geography/seoul.md)
-- **History** — [Korean War](history/korean-war.md)
+- **History** — [Korean War](history/korean-war.md), [Democratization of South Korea](history/democratization.md)
+- **Government & Politics** — [Government Structure of South Korea](government-politics/government-structure.md)
 - **Economy** — [Chaebol (Korean Conglomerates)](economy/chaebol.md)
 - **Culture & Society** — [Hallyu (Korean Wave)](culture-society/hallyu.md)
 - **People** — [Park Chung-hee](people/park-chung-hee.md)
