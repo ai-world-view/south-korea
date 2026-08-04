@@ -122,4 +122,5 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Chaebol](../economy/chaebol.md) — The family conglomerates whose headquarters and centers of economic power cluster in the capital.
 - [Hallyu (Korean Wave)](../culture-society/hallyu.md) — The cultural phenomenon produced from the city's entertainment industry, centered on the Gangnam district.
 - [Park Chung-hee](../people/park-chung-hee.md) — The president whose infrastructure and modernization projects transformed the city.
+- [Korean Cuisine and Food Culture](../culture-society/korean-cuisine.md) — The markets, café districts, and delivery networks that define the capital's food geography.
 <!-- END GENERATED: related -->

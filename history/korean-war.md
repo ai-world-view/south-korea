@@ -180,4 +180,5 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 - [Democratization of South Korea](./democratization.md) — The 1987 transition that ended the authoritarian governance the war's security imperatives had justified.
 - [Chaebol](../economy/chaebol.md) — The conglomerates whose rise was enabled by post-war U.S. aid and Park's state-directed industrial policy.
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The constitutional and institutional framework whose authoritarian character was partly shaped by post-war security imperatives.
+- [Japanese Colonial Period](./japanese-colonial-period.md) — The era whose 1945 end and the peninsula's division at the 38th parallel set the stage for the war.
 <!-- END GENERATED: related -->

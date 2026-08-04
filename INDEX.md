@@ -18,6 +18,7 @@ Index: [geography/](geography/index.md)
 
 Index: [history/](history/index.md)
 
+- [Japanese Colonial Period](history/japanese-colonial-period.md)
 - [Korean War](history/korean-war.md)
 - [Democratization of South Korea](history/democratization.md)
 
@@ -32,12 +33,14 @@ Index: [government-politics/](government-politics/index.md)
 Index: [economy/](economy/index.md)
 
 - [Chaebol (Korean Conglomerates)](economy/chaebol.md)
+- [Semiconductors and Technology Leadership](economy/semiconductors.md)
 
 ## Culture & Society
 
 Index: [culture-society/](culture-society/index.md)
 
 - [Hallyu (Korean Wave)](culture-society/hallyu.md)
+- [Korean Cuisine and Food Culture](culture-society/korean-cuisine.md)
 
 ## People
 

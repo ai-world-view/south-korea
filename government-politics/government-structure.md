@@ -214,4 +214,6 @@ The **National Security Law** (국가보안법), inherited from the authoritaria
 - **[Korean War](../history/korean-war.md)** — The conflict that divided the peninsula and created the security imperatives and anti-communist ideology that shaped South Korean governance for decades.
 - **[Chaebol](../economy/chaebol.md)** — The conglomerates whose political donations, crony capitalism, and close ties to successive presidents have shaped governance, triggered scandals (Park Geun-hye's 2016–2017 scandal involving Samsung), and fueled reform demands.
 - **[Hallyu](../culture-society/hallyu.md)** — Cultural soft power emerging from a politically stable, internationally recognized democracy.
+- **[Semiconductors and Technology Leadership](../economy/semiconductors.md)** — The strategic industry advanced through the state-guided industrial policy this government framework enables.
+- **[Japanese Colonial Period](../history/japanese-colonial-period.md)** — The colonial authoritarian rule against which the republic's later democratic institutions were defined.
 

@@ -173,4 +173,5 @@ The democratization was neither inevitable nor irreversible — it emerged from 
 - **[Seoul](../geography/seoul.md)** — The capital city at the center of the democratic uprising, site of the June 1987 demonstrations and the 1988 Olympics.
 - **[Chaebol](../economy/chaebol.md)** — The conglomerates whose wealth and political access shaped the democratization process and whose reform became a central demand of the democracy movement.
 - **[Hallyu](../culture-society/hallyu.md)** — The cultural soft power whose global emergence was enabled by the stable, internationally integrated democracy that 1987 consolidated.
+- **[Japanese Colonial Period](./japanese-colonial-period.md)** — The era whose anti-colonial tradition of popular sovereignty fed the later democracy movement.
 

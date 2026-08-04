@@ -231,4 +231,6 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Park Chung-hee](../people/park-chung-hee.md) — The president who strategically cultivated chaebols as instruments of economic development.
 - [Hallyu (Korean Wave)](../culture-society/hallyu.md) — South Korea's cultural export phenomenon, whose entertainment conglomerates (HYBE, SM, YG, JYP) replicate the chaebol model of vertical integration and concentrated control.
 - [Seoul](../geography/seoul.md) — The capital housing chaebol headquarters and centers of economic power.
+- [Semiconductors and Technology Leadership](semiconductors.md) — The memory-chip industry led by the chaebol giants Samsung and SK Hynix.
+- [Korean Cuisine and Food Culture](../culture-society/korean-cuisine.md) — The food companies (CJ CheilJedang, Nongshim, Lotte) that operate as chaebol affiliates.
 <!-- END GENERATED: related -->

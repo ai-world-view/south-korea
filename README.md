@@ -13,10 +13,10 @@ See the [master index](INDEX.md) for a full map of the content, or the
 ## Contents
 
 - **Geography** — [Seoul](geography/seoul.md)
-- **History** — [Korean War](history/korean-war.md), [Democratization of South Korea](history/democratization.md)
+- **History** — [Japanese Colonial Period](history/japanese-colonial-period.md), [Korean War](history/korean-war.md), [Democratization of South Korea](history/democratization.md)
 - **Government & Politics** — [Government Structure of South Korea](government-politics/government-structure.md)
-- **Economy** — [Chaebol (Korean Conglomerates)](economy/chaebol.md)
-- **Culture & Society** — [Hallyu (Korean Wave)](culture-society/hallyu.md)
+- **Economy** — [Chaebol (Korean Conglomerates)](economy/chaebol.md), [Semiconductors and Technology Leadership](economy/semiconductors.md)
+- **Culture & Society** — [Hallyu (Korean Wave)](culture-society/hallyu.md), [Korean Cuisine and Food Culture](culture-society/korean-cuisine.md)
 - **People** — [Park Chung-hee](people/park-chung-hee.md)
 
 More categories and articles will appear here as the knowledge base grows.
