@@ -27,6 +27,7 @@ Index: [history/](history/index.md)
 Index: [government-politics/](government-politics/index.md)
 
 - [Government Structure of South Korea](government-politics/government-structure.md)
+- [South Korea–North Korea Relations and Inter-Korean Diplomacy](government-politics/north-korea-relations.md)
 
 ## Economy
 
@@ -41,6 +42,8 @@ Index: [culture-society/](culture-society/index.md)
 
 - [Hallyu (Korean Wave)](culture-society/hallyu.md)
 - [Korean Cuisine and Food Culture](culture-society/korean-cuisine.md)
+- [Education and Universities in South Korea](culture-society/education-and-universities.md)
+- [K-pop Industry and Global Music Market](culture-society/kpop-industry.md)
 
 ## People
 

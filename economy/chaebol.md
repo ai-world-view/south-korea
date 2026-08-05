@@ -233,4 +233,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Seoul](../geography/seoul.md) — The capital housing chaebol headquarters and centers of economic power.
 - [Semiconductors and Technology Leadership](semiconductors.md) — The memory-chip industry led by the chaebol giants Samsung and SK Hynix.
 - [Korean Cuisine and Food Culture](../culture-society/korean-cuisine.md) — The food companies (CJ CheilJedang, Nongshim, Lotte) that operate as chaebol affiliates.
+- [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The elite universities from which the chaebol recruit their managerial and engineering workforce.
 <!-- END GENERATED: related -->

@@ -14,9 +14,9 @@ See the [master index](INDEX.md) for a full map of the content, or the
 
 - **Geography** — [Seoul](geography/seoul.md)
 - **History** — [Japanese Colonial Period](history/japanese-colonial-period.md), [Korean War](history/korean-war.md), [Democratization of South Korea](history/democratization.md)
-- **Government & Politics** — [Government Structure of South Korea](government-politics/government-structure.md)
+- **Government & Politics** — [Government Structure of South Korea](government-politics/government-structure.md), [South Korea–North Korea Relations and Inter-Korean Diplomacy](government-politics/north-korea-relations.md)
 - **Economy** — [Chaebol (Korean Conglomerates)](economy/chaebol.md), [Semiconductors and Technology Leadership](economy/semiconductors.md)
-- **Culture & Society** — [Hallyu (Korean Wave)](culture-society/hallyu.md), [Korean Cuisine and Food Culture](culture-society/korean-cuisine.md)
+- **Culture & Society** — [Hallyu (Korean Wave)](culture-society/hallyu.md), [Korean Cuisine and Food Culture](culture-society/korean-cuisine.md), [Education and Universities in South Korea](culture-society/education-and-universities.md), [K-pop Industry and Global Music Market](culture-society/kpop-industry.md)
 - **People** — [Park Chung-hee](people/park-chung-hee.md)
 
 More categories and articles will appear here as the knowledge base grows.

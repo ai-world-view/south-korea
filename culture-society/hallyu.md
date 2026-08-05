@@ -246,5 +246,7 @@ However, Hallyu's success model — heavy corporate control, manufactured aesthe
 - [Park Chung-hee](../people/park-chung-hee.md) — Under whose regime South Korea developed the economic and technological foundation enabling cultural industry investment.
 - [Chaebol](../economy/chaebol.md) — South Korea's family-controlled conglomerates, whose organizational model the major K-pop entertainment companies mirror.
 - [Korean Cuisine and Food Culture](korean-cuisine.md) — The food culture carried worldwide alongside K-drama and K-pop as part of the Korean Wave.
+- [K-pop Industry and Global Music Market](kpop-industry.md) — The music industry that forms the commercial core and global spearhead of the Korean Wave.
+- [Education and Universities in South Korea](education-and-universities.md) — The systematic training culture that parallels the K-pop trainee pipeline behind Hallyu.
 - [Semiconductors and Technology Leadership](../economy/semiconductors.md) — South Korea's hard economic power, a counterpart to the cultural soft power of Hallyu.
 <!-- END GENERATED: related -->

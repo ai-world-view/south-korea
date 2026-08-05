@@ -212,6 +212,7 @@ The **National Security Law** (국가보안법), inherited from the authoritaria
 - **[Park Chung-hee](../people/park-chung-hee.md)** — Military coup leader and authoritarian president whose governance model shaped South Korea's executive institutions and whose Yushin Constitution the 1987 framework was designed to repudiate.
 - **[Democratization of South Korea](../history/democratization.md)** — The 1987 mass uprising and subsequent constitutional transition that established the current presidential framework and its democratic safeguards.
 - **[Korean War](../history/korean-war.md)** — The conflict that divided the peninsula and created the security imperatives and anti-communist ideology that shaped South Korean governance for decades.
+- **[South Korea–North Korea Relations and Inter-Korean Diplomacy](north-korea-relations.md)** — The inter-Korean division and armistice whose security imperatives shape the executive's defense powers and the National Security Law.
 - **[Chaebol](../economy/chaebol.md)** — The conglomerates whose political donations, crony capitalism, and close ties to successive presidents have shaped governance, triggered scandals (Park Geun-hye's 2016–2017 scandal involving Samsung), and fueled reform demands.
 - **[Hallyu](../culture-society/hallyu.md)** — Cultural soft power emerging from a politically stable, internationally recognized democracy.
 - **[Semiconductors and Technology Leadership](../economy/semiconductors.md)** — The strategic industry advanced through the state-guided industrial policy this government framework enables.

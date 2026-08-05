@@ -113,4 +113,5 @@ South Korea's semiconductor success since the 1980s — from latecomer to global
 - [Park Chung-hee](../people/park-chung-hee.md) — Architect of the developmental state whose regime backed early semiconductor investment.
 - [Hallyu (Korean Wave)](../culture-society/hallyu.md) — South Korea's cultural soft power, a counterpart to the hard economic power of chips.
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — The colonial-era industrialization whose infrastructure foundations were later built upon.
+- [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The STEM education pipeline supplying the engineers behind the chip industry.
 <!-- END GENERATED: related -->
