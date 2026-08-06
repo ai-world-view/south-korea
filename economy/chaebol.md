@@ -234,4 +234,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Semiconductors and Technology Leadership](semiconductors.md) — The memory-chip industry led by the chaebol giants Samsung and SK Hynix.
 - [Korean Cuisine and Food Culture](../culture-society/korean-cuisine.md) — The food companies (CJ CheilJedang, Nongshim, Lotte) that operate as chaebol affiliates.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The elite universities from which the chaebol recruit their managerial and engineering workforce.
+- [Kim Dae-jung](../people/kim-dae-jung.md) — The president who restructured the chaebol and oversaw the Daewoo breakup during the IMF crisis.
 <!-- END GENERATED: related -->

@@ -138,4 +138,5 @@ The Japanese Colonial Period fundamentally reshaped Korea. It accelerated modern
 - [Government Structure of South Korea](../government-politics/government-structure.md) — Republican institutions shaped partly in reaction to colonial authoritarian rule.
 - [Semiconductors and Technology Leadership](../economy/semiconductors.md) — Post-colonial technology ambition driven partly by the experience of colonial-era dependency.
 - [Korean Cuisine and Food Culture](../culture-society/korean-cuisine.md) — Foodways and agriculture disrupted and altered during the colonial period.
+- [Busan](../geography/busan.md) — The first treaty port opened in 1876 and the principal colonial gateway to Japan.
 <!-- END GENERATED: related -->

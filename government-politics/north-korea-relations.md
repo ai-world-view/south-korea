@@ -171,6 +171,7 @@ For South Korea, inter-Korean relations are inseparable from its relationships w
 - [Park Chung-hee](../people/park-chung-hee.md) — The authoritarian, anti-communist era whose security logic long governed the South's posture toward the North.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — One measure of how far the two Koreas' societies have diverged since 1945.
 - [K-pop Industry and Global Music Market](../culture-society/kpop-industry.md) — The South's cultural soft power, consumed clandestinely in the North despite prohibition.
+- [Kim Dae-jung](../people/kim-dae-jung.md) — President (1998–2003) whose Sunshine Policy and 2000 Pyongyang summit reframed inter-Korean engagement.
 <!-- END GENERATED: related -->
 
 ## Sources

@@ -14,12 +14,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1394 | Hanyang (Seoul) designated permanent capital of the Joseon Dynasty | Geography | [Seoul](geography/seoul.md) |
 | 1395 | Gyeongbokgung Palace and Jongmyo Shrine completed in Hanyang | Geography | [Seoul](geography/seoul.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 1876 | Busan opened as Korea's first treaty port under the Ganghwa Treaty | Geography | [Busan](geography/busan.md) |
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1910 | Japan annexes Korea; the capital is renamed Keijō | History | [Seoul](geography/seoul.md) |
 | 1910-08-22 | Japan-Korea Annexation Treaty incorporates Korea into the Japanese Empire | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1917-11-14 | Park Chung-hee born in Gumi, North Gyeongsang Province | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1919-03-01 | March 1st Movement against Japanese rule begins in Seoul | History | [Seoul](geography/seoul.md) |
 | 1919-04-11 | Korean Provisional Government established in exile in Shanghai | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 1924-01-06 | Kim Dae-jung born on Hauido, South Jeolla Province | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1938 | Lee Byung-chul founds Samsung as a trading company | Economy | [Chaebol](economy/chaebol.md) |
 | 1940-02 | Sōshi-kaimei policy pressures Koreans to adopt Japanese-style names | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1945-08-15 | Liberation from Japan; the peninsula is divided at the 38th parallel | History | [Korean War](history/korean-war.md) |
@@ -27,6 +29,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1948-08-15 | Republic of Korea proclaimed under Syngman Rhee; Seoul becomes its capital | History | [Korean War](history/korean-war.md) |
 | 1950-06-25 | North Korea invades the South, beginning the Korean War | History | [Korean War](history/korean-war.md) |
 | 1950-06-28 | Seoul falls to North Korean forces | History | [Korean War](history/korean-war.md) |
+| 1950-08 | UN and ROK forces hold the Busan Perimeter, the Korean War's last defensive line | Geography | [Busan](geography/busan.md) |
 | 1950-09-15 | Incheon Landing (Operation Chromite) reverses the war | History | [Korean War](history/korean-war.md) |
 | 1950-09-28 | UN forces recapture Seoul | History | [Korean War](history/korean-war.md) |
 | 1950-10-19 | Chinese People's Volunteer Army enters the war across the Yalu | History | [Korean War](history/korean-war.md) |
@@ -37,13 +40,18 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
+| 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1972-10-17 | Park declares martial law, ushering in the authoritarian Yushin system | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
+| 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974-08-15 | Seoul Metro Line 1 opens | Geography | [Seoul](geography/seoul.md) |
 | 1974-08-15 | First Lady Yuk Young-soo killed in an assassination attempt on Park | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1979-10-16 | Bu-Ma Democratic Uprising erupts in Busan against the Yushin system | History | [Busan](geography/busan.md) |
 | 1979-10-26 | Park Chung-hee assassinated by KCIA director Kim Jae-gyu | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1979-12-12 | Chun Doo-hwan seizes military control in the December 12 coup | History | [Democratization](history/democratization.md) |
 | 1980-05-18 | Gwangju Uprising begins; paratroopers suppress pro-democracy protests | History | [Democratization](history/democratization.md) |
+| 1980-09-17 | A military tribunal sentences Kim Dae-jung to death after the Gwangju Uprising | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1983 | Hyundai Electronics, later SK Hynix, is founded | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1986 | Nongshim launches Shin Ramyun, later exported to over 100 countries | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 1987-01-14 | Student Park Jong-chul dies under police torture, galvanizing dissent | History | [Democratization](history/democratization.md) |
@@ -57,7 +65,10 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
 | 1996 | H.O.T. debuts as the first fully managed K-pop idol group | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 1996-10 | Busan International Film Festival, Asia's first major film festival, is inaugurated | Culture & Society | [Busan](geography/busan.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
+| 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1998-02-25 | Kim Dae-jung inaugurated as the 15th president amid the IMF crisis | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1998-11-18 | Mount Kumgang tourism from the South begins under Hyundai | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 1999 | Daewoo Group collapses in the largest corporate bankruptcy of its time | Economy | [Chaebol](economy/chaebol.md) |
 | 1999 | Brain Korea 21 (BK21) university research program launched | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
@@ -65,9 +76,12 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
 | 2002 | "Winter Sonata" airs, fueling the early Korean Wave across Asia | Culture & Society | [Hallyu](culture-society/hallyu.md) |
+| 2002-09 | Busan hosts the 14th Asian Games, with North Korea participating | Culture & Society | [Busan](geography/busan.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
 | 2006-10-09 | North Korea conducts its first nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2009-08-18 | Kim Dae-jung dies in Seoul at 85 | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2012 | SK Group acquires Hynix Semiconductor, forming SK Hynix | Economy | [Semiconductors](economy/semiconductors.md) |
@@ -89,6 +103,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2023-04 | BLACKPINK becomes the first Asian act to headline Coachella | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
 | 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2025-04-04 | Constitutional Court unanimously removes Yoon Suk-yeol from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |

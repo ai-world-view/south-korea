@@ -182,4 +182,5 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The constitutional and institutional framework whose authoritarian character was partly shaped by post-war security imperatives.
 - [Japanese Colonial Period](./japanese-colonial-period.md) — The era whose 1945 end and the peninsula's division at the 38th parallel set the stage for the war.
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](../government-politics/north-korea-relations.md) — The seven-decade inter-Korean division and unresolved armistice that the war produced.
+- [Busan](../geography/busan.md) — The Busan Perimeter, the last-ditch UN defensive line held in the summer of 1950.
 <!-- END GENERATED: related -->

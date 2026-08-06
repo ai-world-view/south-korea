@@ -10,4 +10,5 @@ Topics on the land, regions, cities, and physical setting of South Korea.
 
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
 - [Seoul](seoul.md) — Capital and largest city of South Korea; the nation's political, economic, and cultural center in the Han River basin.
+- [Busan](busan.md) — South Korea's second-largest city and principal port; a maritime, mercantile metropolis on the southeast coast.
 <!-- END GENERATED: category-index -->

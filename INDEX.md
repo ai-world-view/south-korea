@@ -13,6 +13,7 @@ A complete map of this knowledge base, grouped by category. See also the [Timeli
 Index: [geography/](geography/index.md)
 
 - [Seoul](geography/seoul.md)
+- [Busan](geography/busan.md)
 
 ## History
 
@@ -50,4 +51,5 @@ Index: [culture-society/](culture-society/index.md)
 Index: [people/](people/index.md)
 
 - [Park Chung-hee](people/park-chung-hee.md)
+- [Kim Dae-jung](people/kim-dae-jung.md)
 <!-- END GENERATED: index -->

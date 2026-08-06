@@ -139,4 +139,6 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — The colonial-era infrastructure and administrative frameworks Park's developmentalism drew upon.
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](../government-politics/north-korea-relations.md) — The anti-communist confrontation with the North that defined the security posture of Park's rule.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The mass-education expansion and KAIST research-university model established under Park's development drive.
+- [Kim Dae-jung](kim-dae-jung.md) — Park's 1971 election opponent and the dissident his regime kidnapped and persecuted.
+- [Busan](../geography/busan.md) — Flagship of Park's export industrialization; the 1979 Bu-Ma Uprising there preceded his assassination.
 <!-- END GENERATED: related -->
