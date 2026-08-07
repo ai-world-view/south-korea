@@ -13,4 +13,5 @@ Topics on the culture, media, social life, and everyday society of South Korea, 
 - [Korean Cuisine and Food Culture](korean-cuisine.md) — The fermentation-centered food tradition of South Korea, from kimchi and the kimjang custom to its global spread through the Korean Wave.
 - [Education and Universities in South Korea](education-and-universities.md) — The intense, test-driven education system, the "SKY" university hierarchy, the hagwon economy, and the demographic and equity pressures reshaping it.
 - [K-pop Industry and Global Music Market](kpop-industry.md) — The trainee-driven entertainment industry, its major companies, and its rise from a domestic sector to a globally dominant cultural and economic force.
+- [Sports and the Olympic Games](sports-and-olympics.md) — South Korea's rise as an Olympic, football, golf, and esports power, and the use of athletic success as national soft power alongside the Korean Wave.
 <!-- END GENERATED: category-index -->

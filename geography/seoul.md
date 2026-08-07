@@ -124,4 +124,6 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Park Chung-hee](../people/park-chung-hee.md) — The president whose infrastructure and modernization projects transformed the city.
 - [Korean Cuisine and Food Culture](../culture-society/korean-cuisine.md) — The markets, café districts, and delivery networks that define the capital's food geography.
 - [Busan](busan.md) — South Korea's second city and principal port, linked to Seoul by the KTX corridor.
+- [Lee Myung-bak](../people/lee-myung-bak.md) — The mayor behind the Cheonggyecheon restoration and the 2004 bus-transit reform that reshaped the city.
+- [Sports and the Olympic Games](../culture-society/sports-and-olympics.md) — Host city of the 1988 Summer Olympics, whose venues and Olympic Park reshaped southeastern Seoul.
 <!-- END GENERATED: related -->

@@ -141,4 +141,5 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The mass-education expansion and KAIST research-university model established under Park's development drive.
 - [Kim Dae-jung](kim-dae-jung.md) — Park's 1971 election opponent and the dissident his regime kidnapped and persecuted.
 - [Busan](../geography/busan.md) — Flagship of Park's export industrialization; the 1979 Bu-Ma Uprising there preceded his assassination.
+- [Lee Myung-bak](lee-myung-bak.md) — Later president whose Hyundai Construction career and development-first politics extended Park's developmental-state tradition.
 <!-- END GENERATED: related -->

@@ -249,4 +249,5 @@ However, Hallyu's success model — heavy corporate control, manufactured aesthe
 - [K-pop Industry and Global Music Market](kpop-industry.md) — The music industry that forms the commercial core and global spearhead of the Korean Wave.
 - [Education and Universities in South Korea](education-and-universities.md) — The systematic training culture that parallels the K-pop trainee pipeline behind Hallyu.
 - [Semiconductors and Technology Leadership](../economy/semiconductors.md) — South Korea's hard economic power, a counterpart to the cultural soft power of Hallyu.
+- [Sports and the Olympic Games](sports-and-olympics.md) — Olympic hosting, athletic dominance, and esports as a parallel pillar of Korean soft power.
 <!-- END GENERATED: related -->

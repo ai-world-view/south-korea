@@ -45,6 +45,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Korean Cuisine and Food Culture](culture-society/korean-cuisine.md)
 - [Education and Universities in South Korea](culture-society/education-and-universities.md)
 - [K-pop Industry and Global Music Market](culture-society/kpop-industry.md)
+- [Sports and the Olympic Games](culture-society/sports-and-olympics.md)
 
 ## People
 
@@ -52,4 +53,5 @@ Index: [people/](people/index.md)
 
 - [Park Chung-hee](people/park-chung-hee.md)
 - [Kim Dae-jung](people/kim-dae-jung.md)
+- [Lee Myung-bak](people/lee-myung-bak.md)
 <!-- END GENERATED: index -->
