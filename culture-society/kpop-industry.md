@@ -158,6 +158,8 @@ The industry model—combining systematic talent development, integrated media c
 - [Chaebol (Korean Conglomerates)](../economy/chaebol.md) — The conglomerate model of vertical integration and concentrated control that the major entertainment companies mirror.
 - [Seoul](../geography/seoul.md) — The capital, and its Gangnam district, at the center of K-pop production and imagery.
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](../government-politics/north-korea-relations.md) — The soft-power contest in which K-pop penetrates a North Korea that criminalizes it.
+- [Bang Si-hyuk](../people/bang-si-hyuk.md) — Founder of HYBE (Big Hit) and architect of BTS, whose success broke the Big 3 oligopoly.
+- [Technology Sector and ICT Innovation](../economy/technology-sector.md) — HYBE's Weverse and the digital-platform infrastructure underpinning the modern music industry.
 <!-- END GENERATED: related -->
 
 ## Sources

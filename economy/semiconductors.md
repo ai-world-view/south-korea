@@ -114,4 +114,5 @@ South Korea's semiconductor success since the 1980s — from latecomer to global
 - [Hallyu (Korean Wave)](../culture-society/hallyu.md) — South Korea's cultural soft power, a counterpart to the hard economic power of chips.
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — The colonial-era industrialization whose infrastructure foundations were later built upon.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The STEM education pipeline supplying the engineers behind the chip industry.
+- [Technology Sector and ICT Innovation](technology-sector.md) — The wider ICT, display, AI, and mobility economy that memory chips anchor.
 <!-- END GENERATED: related -->

@@ -139,4 +139,5 @@ The Japanese Colonial Period fundamentally reshaped Korea. It accelerated modern
 - [Semiconductors and Technology Leadership](../economy/semiconductors.md) — Post-colonial technology ambition driven partly by the experience of colonial-era dependency.
 - [Korean Cuisine and Food Culture](../culture-society/korean-cuisine.md) — Foodways and agriculture disrupted and altered during the colonial period.
 - [Busan](../geography/busan.md) — The first treaty port opened in 1876 and the principal colonial gateway to Japan.
+- [Three Kingdoms Period](three-kingdoms-period.md) — The era when Baekje transmitted Buddhism, writing, and crafts to Japan, long before the colonial reversal of that exchange.
 <!-- END GENERATED: related -->

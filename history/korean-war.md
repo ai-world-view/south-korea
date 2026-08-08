@@ -183,4 +183,5 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 - [Japanese Colonial Period](./japanese-colonial-period.md) — The era whose 1945 end and the peninsula's division at the 38th parallel set the stage for the war.
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](../government-politics/north-korea-relations.md) — The seven-decade inter-Korean division and unresolved armistice that the war produced.
 - [Busan](../geography/busan.md) — The Busan Perimeter, the last-ditch UN defensive line held in the summer of 1950.
+- [Three Kingdoms Period](./three-kingdoms-period.md) — The ancient rivalry of Goguryeo, Baekje, and Silla and Silla's unification, a counterpoint to the peninsula's modern division.
 <!-- END GENERATED: related -->

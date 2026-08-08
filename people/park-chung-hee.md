@@ -142,4 +142,5 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Kim Dae-jung](kim-dae-jung.md) — Park's 1971 election opponent and the dissident his regime kidnapped and persecuted.
 - [Busan](../geography/busan.md) — Flagship of Park's export industrialization; the 1979 Bu-Ma Uprising there preceded his assassination.
 - [Lee Myung-bak](lee-myung-bak.md) — Later president whose Hyundai Construction career and development-first politics extended Park's developmental-state tradition.
+- [Bang Si-hyuk](bang-si-hyuk.md) — HYBE founder whose market-driven entertainment empire contrasts with Park's state-directed export model.
 <!-- END GENERATED: related -->

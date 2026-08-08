@@ -236,4 +236,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The elite universities from which the chaebol recruit their managerial and engineering workforce.
 - [Kim Dae-jung](../people/kim-dae-jung.md) — The president who restructured the chaebol and oversaw the Daewoo breakup during the IMF crisis.
 - [Lee Myung-bak](../people/lee-myung-bak.md) — Former Hyundai Construction CEO and president whose DAS and Samsung cases exposed chaebol–presidential entanglement.
+- [Technology Sector and ICT Innovation](technology-sector.md) — The ICT, display, gaming, and mobility industries through which the chaebol drive modern innovation.
 <!-- END GENERATED: related -->

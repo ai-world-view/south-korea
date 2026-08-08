@@ -133,5 +133,6 @@ Kim Dae-jung died on **August 18, 2009**, at Severance Hospital, Yonsei Universi
 - [Hallyu — the Korean Wave](../culture-society/hallyu.md) — Kim's 1998 decision to lift the ban on Japanese popular-culture imports as cultural diplomacy
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The presidential system Kim led; the single five-year term limit under the 1987 constitution
 - [Busan](../geography/busan.md) — The Bu-Ma Uprising of 1979 centered on Busan and Masan; the 2002 Busan Asian Games realized the inter-Korean opening of Kim's Sunshine Policy
+- [Bang Si-hyuk](bang-si-hyuk.md) — Founder of HYBE, whose global success built on the cultural-content industries Kim's administration first cultivated
 <!-- END GENERATED: related -->
 

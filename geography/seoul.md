@@ -126,4 +126,5 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Busan](busan.md) — South Korea's second city and principal port, linked to Seoul by the KTX corridor.
 - [Lee Myung-bak](../people/lee-myung-bak.md) — The mayor behind the Cheonggyecheon restoration and the 2004 bus-transit reform that reshaped the city.
 - [Sports and the Olympic Games](../culture-society/sports-and-olympics.md) — Host city of the 1988 Summer Olympics, whose venues and Olympic Park reshaped southeastern Seoul.
+- [Three Kingdoms Period](../history/three-kingdoms-period.md) — Baekje's first capital, Wiryeseong, stood at the Han River site of modern Seoul, over which the three kingdoms contended.
 <!-- END GENERATED: related -->

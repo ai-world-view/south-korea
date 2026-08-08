@@ -115,6 +115,8 @@ South Korea's education system exemplifies both the power and costs of intensive
 - [Semiconductors and Technology Leadership](../economy/semiconductors.md) — The technology industry fed by the science-high-school and university STEM pipeline.
 - [Park Chung-hee](../people/park-chung-hee.md) — The president under whose development model universal primary education and the KAIST research-university system were established.
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](../government-politics/north-korea-relations.md) — The divided peninsula whose two states built profoundly different educational cultures from a shared Confucian heritage.
+- [Three Kingdoms Period](../history/three-kingdoms-period.md) — Goguryeo's Taehak academy and Silla's Buddhist learning centers as distant roots of Korea's institutionalized education.
+- [Technology Sector and ICT Innovation](../economy/technology-sector.md) — KAIST, POSTECH, and the STEM pipeline that feed South Korea's technology industries.
 <!-- END GENERATED: related -->
 
 ## Sources

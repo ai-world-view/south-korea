@@ -10,7 +10,21 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Event | Category | Link |
 |---|---|---|---|
+| c. 57 BCE | Silla is founded in the Gyeongju basin | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| c. 37 BCE | Goguryeo is founded by Jumong in the northern peninsula | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | c. 18 BCE | Baekje establishes its first capital, Wiryeseong, near present-day Seoul | Geography | [Seoul](geography/seoul.md) |
+| c. 18 BCE | Baekje is founded by Onjo in the southwestern peninsula | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 372 | Buddhism reaches Goguryeo and the Taehak national academy is founded | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 414 | The Gwanggaeto Stele is erected, commemorating Goguryeo's expansion | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 427 | Goguryeo moves its capital to Pyongyang under King Jangsu | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 528 | Silla adopts Buddhism as a state religion after Ichadon's martyrdom | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 538 | Baekje moves its capital to Sabi (modern Buyeo) | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 612 | Goguryeo's Eulji Mundeok destroys a Sui army at the Salsu River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 660 | A Tang–Silla alliance conquers Baekje | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 668 | Goguryeo falls, ending the Three Kingdoms period | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 676 | Silla expels Tang forces, unifying the peninsula south of the Taedong River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 751 | Bulguksa Temple and Seokguram Grotto are rebuilt in Gyeongju | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 935 | The last Silla king abdicates to Wang Geon, founder of Goryeo | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 1394 | Hanyang (Seoul) designated permanent capital of the Joseon Dynasty | Geography | [Seoul](geography/seoul.md) |
 | 1395 | Gyeongbokgung Palace and Jongmyo Shrine completed in Hanyang | Geography | [Seoul](geography/seoul.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -38,10 +52,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1952-05-07 | Communist POWs seize Geoje Island camp commandant Gen. Francis Dodd | History | [Korean War](history/korean-war.md) |
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
+| 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1972-08-09 | Bang Si-hyuk, founder of HYBE, is born in Seoul | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 1972-10-17 | Park declares martial law, ushering in the authoritarian Yushin system | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
 | 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
@@ -78,14 +95,17 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1998-11-18 | Mount Kumgang tourism from the South begins under Hyundai | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 1999 | Daewoo Group collapses in the largest corporate bankruptcy of its time | Economy | [Chaebol](economy/chaebol.md) |
 | 1999 | Brain Korea 21 (BK21) university research program launched | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
+| 1999 | Naver, later South Korea's dominant search portal, is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2000-06-15 | First inter-Korean summit; June 15 Joint Declaration signed in Pyongyang | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
 | 2002 | "Winter Sonata" airs, fueling the early Korean Wave across Asia | Culture & Society | [Hallyu](culture-society/hallyu.md) |
+| 2002 | South Korea attains the world's highest broadband penetration rate | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2002-06 | South Korea reaches the FIFA World Cup semi-finals as co-host, an Asian best | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2002-09 | Busan hosts the 14th Asian Games, with North Korea participating | Culture & Society | [Busan](geography/busan.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2005 | Bang Si-hyuk founds Big Hit Entertainment, later HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
 | 2006-10-09 | North Korea conducts its first nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
@@ -109,18 +129,26 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-02-09 | PyeongChang Winter Olympics open; the two Koreas march under a unified flag | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2018-03-22 | Former president Lee Myung-bak arrested on bribery and embezzlement charges | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2018-04-27 | Panmunjom Declaration between the two Koreas | History | [Korean War](history/korean-war.md) |
+| 2018-05 | BTS's *Love Yourself: Tear* becomes the first Korean-language album to top the Billboard 200 | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2018-06-12 | First U.S.–North Korea summit held in Singapore | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 2019-04-03 | South Korea launches the world's first commercial 5G network | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2020-10-15 | Big Hit Entertainment (HYBE) lists on the Korea Exchange | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2021 | "Squid Game" becomes a global Netflix phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
+| 2021 | Naver unveils HyperCLOVA, one of the largest non-English AI language models | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 2021-03 | Big Hit Entertainment rebrands as HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2021-04 | HYBE acquires Ithaca Holdings, establishing HYBE America | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |
+| 2022-06 | The homegrown KSLV-2 (Nuri) rocket reaches orbit on its first success | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2023-04 | BLACKPINK becomes the first Asian act to headline Coachella | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
+| 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2024-06 | Webtoon Entertainment (Naver Webtoon) debuts in a U.S. IPO | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2025-04-04 | Constitutional Court unanimously removes Yoon Suk-yeol from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |

@@ -146,5 +146,6 @@ Central neighborhoods built during the rapid-growth decades face aging infrastru
 - [Hallyu — the Korean Wave](../culture-society/hallyu.md) — The Busan International Film Festival as a global platform for Korean cinema
 - [Seoul](seoul.md) — Comparison with South Korea's capital and the KTX corridor connecting them
 - [Government Structure of South Korea](../government-politics/government-structure.md) — Busan as a metropolitan city (광역시) with its own elected mayor and council
+- [Three Kingdoms Period](../history/three-kingdoms-period.md) — Silla, based in the nearby Gyeongju basin, whose maritime trade with Japan passed through the southeastern coast
 <!-- END GENERATED: related -->
 

@@ -19,6 +19,7 @@ Index: [geography/](geography/index.md)
 
 Index: [history/](history/index.md)
 
+- [Three Kingdoms Period](history/three-kingdoms-period.md)
 - [Japanese Colonial Period](history/japanese-colonial-period.md)
 - [Korean War](history/korean-war.md)
 - [Democratization of South Korea](history/democratization.md)
@@ -36,6 +37,7 @@ Index: [economy/](economy/index.md)
 
 - [Chaebol (Korean Conglomerates)](economy/chaebol.md)
 - [Semiconductors and Technology Leadership](economy/semiconductors.md)
+- [Technology Sector and ICT Innovation](economy/technology-sector.md)
 
 ## Culture & Society
 
@@ -54,4 +56,5 @@ Index: [people/](people/index.md)
 - [Park Chung-hee](people/park-chung-hee.md)
 - [Kim Dae-jung](people/kim-dae-jung.md)
 - [Lee Myung-bak](people/lee-myung-bak.md)
+- [Bang Si-hyuk](people/bang-si-hyuk.md)
 <!-- END GENERATED: index -->
