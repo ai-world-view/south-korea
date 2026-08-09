@@ -176,4 +176,5 @@ The democratization was neither inevitable nor irreversible — it emerged from 
 - **[Japanese Colonial Period](./japanese-colonial-period.md)** — The era whose anti-colonial tradition of popular sovereignty fed the later democracy movement.
 - **[Kim Dae-jung](../people/kim-dae-jung.md)** — Opposition leader in the 1987 June Struggle and December election; later president and Nobel laureate.
 - **[Busan](../geography/busan.md)** — The 1979 Bu-Ma Uprising there was a decisive prelude to the collapse of the Yushin regime.
+- **[Moon Jae-in](../people/moon-jae-in.md)** — Human-rights lawyer of the democratization era whose 2017 Candlelight victory extended its legacy.
 

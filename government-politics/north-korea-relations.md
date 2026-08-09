@@ -173,6 +173,7 @@ For South Korea, inter-Korean relations are inseparable from its relationships w
 - [K-pop Industry and Global Music Market](../culture-society/kpop-industry.md) — The South's cultural soft power, consumed clandestinely in the North despite prohibition.
 - [Kim Dae-jung](../people/kim-dae-jung.md) — President (1998–2003) whose Sunshine Policy and 2000 Pyongyang summit reframed inter-Korean engagement.
 - [Lee Myung-bak](../people/lee-myung-bak.md) — President (2008–2013) who reversed the Sunshine Policy and imposed the May 24 Measures after the Cheonan sinking and Yeonpyeong shelling.
+- [Moon Jae-in](../people/moon-jae-in.md) — President (2017–2022) whose three 2018 summits and the Panmunjom Declaration marked the fullest revival of inter-Korean engagement.
 <!-- END GENERATED: related -->
 
 ## Sources

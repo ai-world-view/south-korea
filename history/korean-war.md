@@ -184,4 +184,7 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](../government-politics/north-korea-relations.md) — The seven-decade inter-Korean division and unresolved armistice that the war produced.
 - [Busan](../geography/busan.md) — The Busan Perimeter, the last-ditch UN defensive line held in the summer of 1950.
 - [Three Kingdoms Period](./three-kingdoms-period.md) — The ancient rivalry of Goguryeo, Baekje, and Silla and Silla's unification, a counterpoint to the peninsula's modern division.
+- [Korean Independence Movement](./korean-independence-movement.md) — The anti-colonial struggle whose 1945 victory was immediately complicated by the division that led to war.
+- [Jeju Island](../geography/jeju-island.md) — The April 3 Incident of 1948, a prelude to the war rooted in the same Cold War division.
+- [Moon Jae-in](../people/moon-jae-in.md) — President whose parents fled south in the 1950 Hungnam evacuation.
 <!-- END GENERATED: related -->

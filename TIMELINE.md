@@ -25,22 +25,34 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 676 | Silla expels Tang forces, unifying the peninsula south of the Taedong River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 751 | Bulguksa Temple and Seokguram Grotto are rebuilt in Gyeongju | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 935 | The last Silla king abdicates to Wang Geon, founder of Goryeo | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 938 | Tamna, Jeju's indigenous kingdom, formally submits to Goryeo | History | [Jeju Island](geography/jeju-island.md) |
+| c. 1007 | Hallasan, Jeju's shield volcano, has its last recorded eruption | Geography | [Jeju Island](geography/jeju-island.md) |
 | 1394 | Hanyang (Seoul) designated permanent capital of the Joseon Dynasty | Geography | [Seoul](geography/seoul.md) |
 | 1395 | Gyeongbokgung Palace and Jongmyo Shrine completed in Hanyang | Geography | [Seoul](geography/seoul.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1876 | Busan opened as Korea's first treaty port under the Ganghwa Treaty | Geography | [Busan](geography/busan.md) |
+| 1894 | The Donghak Peasant Revolt rises against taxation and foreign encroachment | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 1907 | Emperor Gojong is forced to abdicate and the Korean army is disbanded | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1909-10-26 | An Jung-geun assassinates Itō Hirobumi at Harbin Station | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1910 | Japan annexes Korea; the capital is renamed Keijō | History | [Seoul](geography/seoul.md) |
+| 1910-03-26 | An Jung-geun is executed at Lüshun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1910-08-22 | Japan-Korea Annexation Treaty incorporates Korea into the Japanese Empire | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1917-11-14 | Park Chung-hee born in Gumi, North Gyeongsang Province | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1919-03-01 | March 1st Movement against Japanese rule begins in Seoul | History | [Seoul](geography/seoul.md) |
 | 1919-04-11 | Korean Provisional Government established in exile in Shanghai | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 1919-04-15 | Jeam-ri Massacre: Japanese troops burn villagers in a Suwon church | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1920-09-28 | Independence activist Yu Gwan-sun dies in Seodaemun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1920-10 | Battle of Qingshanli: Korean forces defeat the Japanese in Manchuria | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1924-01-06 | Kim Dae-jung born on Hauido, South Jeolla Province | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1932-04-29 | Yun Bong-gil bombs a Japanese ceremony at Shanghai's Hongkou Park | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1938 | Lee Byung-chul founds Samsung as a trading company | Economy | [Chaebol](economy/chaebol.md) |
 | 1940-02 | Sōshi-kaimei policy pressures Koreans to adopt Japanese-style names | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 1940-09-17 | The Korean Liberation Army is founded in Chongqing | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1941-12-19 | Lee Myung-bak born to a Korean family in Osaka, Japan | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1945-08-15 | Liberation from Japan; the peninsula is divided at the 38th parallel | History | [Korean War](history/korean-war.md) |
 | 1946-08 | Seoul National University established in Seoul | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
+| 1948-04-03 | The Jeju April 3 Incident begins; suppression continues into 1954 | History | [Jeju Island](geography/jeju-island.md) |
 | 1948-08-15 | Republic of Korea proclaimed under Syngman Rhee; Seoul becomes its capital | History | [Korean War](history/korean-war.md) |
 | 1950-06-25 | North Korea invades the South, beginning the Korean War | History | [Korean War](history/korean-war.md) |
 | 1950-06-28 | Seoul falls to North Korean forces | History | [Korean War](history/korean-war.md) |
@@ -50,6 +62,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1950-10-19 | Chinese People's Volunteer Army enters the war across the Yalu | History | [Korean War](history/korean-war.md) |
 | 1951-03-14 | Seoul retaken by UN forces for the final time | History | [Korean War](history/korean-war.md) |
 | 1952-05-07 | Communist POWs seize Geoje Island camp commandant Gen. Francis Dodd | History | [Korean War](history/korean-war.md) |
+| 1953-01-24 | Moon Jae-in is born on Geoje Island to refugee parents from the North | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
@@ -103,12 +116,15 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2002 | South Korea attains the world's highest broadband penetration rate | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2002-06 | South Korea reaches the FIFA World Cup semi-finals as co-host, an Asian best | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2002-09 | Busan hosts the 14th Asian Games, with North Korea participating | Culture & Society | [Busan](geography/busan.md) |
+| 2003-10-31 | President Roh Moo-hyun apologizes for the state's role in the Jeju April 3 Incident | History | [Jeju Island](geography/jeju-island.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2005 | Bang Si-hyuk founds Big Hit Entertainment, later HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
+| 2006-07-01 | Jeju is designated a Special Self-Governing Province | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2006-10-09 | North Korea conducts its first nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2007 | Jeju Volcanic Island and Lava Tubes inscribed as a UNESCO World Heritage Site | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2007-12-19 | Lee Myung-bak elected president with 48.7% of the vote | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-02-25 | Lee Myung-bak inaugurated as president | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-06 | Candlelight protests over U.S. beef imports draw hundreds of thousands | People | [Lee Myung-bak](people/lee-myung-bak.md) |
@@ -123,17 +139,23 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2016-08-08 | BLACKPINK debuts under YG Entertainment | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2016-11 | UNESCO inscribes Jeju's haenyeo diving culture as Intangible Cultural Heritage | Culture & Society | [Jeju Island](geography/jeju-island.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2017-05-09 | Moon Jae-in is elected president after Park Geun-hye's impeachment | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2017-09-03 | North Korea conducts its sixth and largest nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2018-02-09 | PyeongChang Winter Olympics open; the two Koreas march under a unified flag | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2018-03-22 | Former president Lee Myung-bak arrested on bribery and embezzlement charges | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2018-04-27 | Panmunjom Declaration between the two Koreas | History | [Korean War](history/korean-war.md) |
 | 2018-05 | BTS's *Love Yourself: Tear* becomes the first Korean-language album to top the Billboard 200 | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2018-06-12 | First U.S.–North Korea summit held in Singapore | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2018-09-18 | Pyongyang inter-Korean summit; Moon addresses 150,000 at May Day Stadium | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 2019-04-03 | South Korea launches the world's first commercial 5G network | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 2019-04-11 | The Constitutional Court rules the ban on abortion unconstitutional | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
+| 2020-02-18 | A COVID-19 cluster at Daegu's Shincheonji Church triggers Korea's "K-quarantine" response | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2020-10-15 | Big Hit Entertainment (HYBE) lists on the Korea Exchange | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2021 | "Squid Game" becomes a global Netflix phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
@@ -142,6 +164,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-04 | HYBE acquires Ithaca Holdings, establishing HYBE America | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |
+| 2022-05-10 | Moon Jae-in completes his single five-year term; Yoon Suk-yeol succeeds him | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2022-06 | The homegrown KSLV-2 (Nuri) rocket reaches orbit on its first success | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |

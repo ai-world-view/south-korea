@@ -143,4 +143,6 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Busan](../geography/busan.md) — Flagship of Park's export industrialization; the 1979 Bu-Ma Uprising there preceded his assassination.
 - [Lee Myung-bak](lee-myung-bak.md) — Later president whose Hyundai Construction career and development-first politics extended Park's developmental-state tradition.
 - [Bang Si-hyuk](bang-si-hyuk.md) — HYBE founder whose market-driven entertainment empire contrasts with Park's state-directed export model.
+- [Moon Jae-in](moon-jae-in.md) — President jailed as a student for protesting Park's Yushin Constitution; later pardoned Park's daughter, Park Geun-hye.
+- [Korean Independence Movement](../history/korean-independence-movement.md) — The independence-and-collaboration divide against which Park's colonial-era military service is debated.
 <!-- END GENERATED: related -->

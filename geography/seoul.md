@@ -127,4 +127,6 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Lee Myung-bak](../people/lee-myung-bak.md) — The mayor behind the Cheonggyecheon restoration and the 2004 bus-transit reform that reshaped the city.
 - [Sports and the Olympic Games](../culture-society/sports-and-olympics.md) — Host city of the 1988 Summer Olympics, whose venues and Olympic Park reshaped southeastern Seoul.
 - [Three Kingdoms Period](../history/three-kingdoms-period.md) — Baekje's first capital, Wiryeseong, stood at the Han River site of modern Seoul, over which the three kingdoms contended.
+- [Korean Independence Movement](../history/korean-independence-movement.md) — Tapgol Park in central Seoul, where the Declaration of Independence was read on March 1, 1919.
+- [Moon Jae-in](../people/moon-jae-in.md) — The 2016–2017 Candlelight demonstrations centered on downtown Seoul that brought him to office.
 <!-- END GENERATED: related -->

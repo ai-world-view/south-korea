@@ -139,4 +139,5 @@ Lee was the **fourth consecutive South Korean president** either to face crimina
 - [Democratization of South Korea](../history/democratization.md) — The democratic consolidation and the recurring pattern of presidential prosecution.
 - [Seoul](../geography/seoul.md) — The Cheonggyecheon restoration and transit reform of Lee's mayoralty.
 - [Sports and the Olympic Games](../culture-society/sports-and-olympics.md) — The 1988 and 2018 Olympics, the latter bid secured during Lee's presidency.
+- [Moon Jae-in](moon-jae-in.md) — Progressive successor (once removed) who reversed Lee's hardline North Korea posture.
 <!-- END GENERATED: related -->

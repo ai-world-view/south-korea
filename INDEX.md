@@ -14,12 +14,14 @@ Index: [geography/](geography/index.md)
 
 - [Seoul](geography/seoul.md)
 - [Busan](geography/busan.md)
+- [Jeju Island](geography/jeju-island.md)
 
 ## History
 
 Index: [history/](history/index.md)
 
 - [Three Kingdoms Period](history/three-kingdoms-period.md)
+- [Korean Independence Movement](history/korean-independence-movement.md)
 - [Japanese Colonial Period](history/japanese-colonial-period.md)
 - [Korean War](history/korean-war.md)
 - [Democratization of South Korea](history/democratization.md)
@@ -56,5 +58,6 @@ Index: [people/](people/index.md)
 - [Park Chung-hee](people/park-chung-hee.md)
 - [Kim Dae-jung](people/kim-dae-jung.md)
 - [Lee Myung-bak](people/lee-myung-bak.md)
+- [Moon Jae-in](people/moon-jae-in.md)
 - [Bang Si-hyuk](people/bang-si-hyuk.md)
 <!-- END GENERATED: index -->
