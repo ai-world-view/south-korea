@@ -181,4 +181,5 @@ Looking forward, South Korea's technology sector positioned itself across severa
 - [Park Chung-hee](../people/park-chung-hee.md) — The developmental-state model and chaebol promotion as the historical foundation of contemporary technology dominance; the 1980s electronics push as a legacy of 1970s heavy-industry policy.
 - [Bang Si-hyuk](../people/bang-si-hyuk.md) — HYBE and Weverse as technology-entertainment convergence; entertainment technology as a soft-power export parallel to hardware exports.
 - [Seoul](../geography/seoul.md) — The Gangnam district as a hub of startup culture, gaming companies, and ICT firms; the geographic concentration of Korea's digital economy.
+- [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The developmental-state framework — R&D funding, tax incentives, the startup and venture ecosystem, and tech regulation — that steers this economy.
 <!-- END GENERATED: related -->

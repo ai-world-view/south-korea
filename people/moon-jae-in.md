@@ -115,4 +115,5 @@ Moon remains an influential reference point in South Korean progressive politics
 - [Korean Independence Movement](../history/korean-independence-movement.md) — The independence-justice tradition Moon invoked in his 2017 campaign
 - [Jeju Island](../geography/jeju-island.md) — The April 3 memorial Moon visited to signal historical accountability
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The presidential republic and single-term office Moon held
+- [Yoon Suk-yeol](yoon-suk-yeol.md) — Moon's conservative successor, whose prosecutor-general tenure under Moon preceded their rupture and whose 2024 martial-law crisis ended his presidency
 <!-- END GENERATED: related -->

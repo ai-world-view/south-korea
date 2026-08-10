@@ -237,4 +237,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Kim Dae-jung](../people/kim-dae-jung.md) — The president who restructured the chaebol and oversaw the Daewoo breakup during the IMF crisis.
 - [Lee Myung-bak](../people/lee-myung-bak.md) — Former Hyundai Construction CEO and president whose DAS and Samsung cases exposed chaebol–presidential entanglement.
 - [Technology Sector and ICT Innovation](technology-sector.md) — The ICT, display, gaming, and mobility industries through which the chaebol drive modern innovation.
+- [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The state R&D and industrial policy through which the chaebol receive subsidies, execute strategic technology programs, and concentrate national R&D.
 <!-- END GENERATED: related -->

@@ -115,4 +115,5 @@ South Korea's semiconductor success since the 1980s — from latecomer to global
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — The colonial-era industrialization whose infrastructure foundations were later built upon.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The STEM education pipeline supplying the engineers behind the chip industry.
 - [Technology Sector and ICT Innovation](technology-sector.md) — The wider ICT, display, AI, and mobility economy that memory chips anchor.
+- [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The state industrial policy — the VLSI project, K-Semiconductor Strategy, tax incentives, and export controls — that built and defends the memory-chip industry.
 <!-- END GENERATED: related -->

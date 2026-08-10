@@ -145,4 +145,5 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Bang Si-hyuk](bang-si-hyuk.md) — HYBE founder whose market-driven entertainment empire contrasts with Park's state-directed export model.
 - [Moon Jae-in](moon-jae-in.md) — President jailed as a student for protesting Park's Yushin Constitution; later pardoned Park's daughter, Park Geun-hye.
 - [Korean Independence Movement](../history/korean-independence-movement.md) — The independence-and-collaboration divide against which Park's colonial-era military service is debated.
+- [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The developmental-state technology strategy Park pioneered — targeted industrial selection, state research institutes, and the chaebol partnership — that still shapes Korean policy.
 <!-- END GENERATED: related -->

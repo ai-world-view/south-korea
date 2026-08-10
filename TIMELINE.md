@@ -66,9 +66,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 1960-12-18 | Yoon Suk-yeol is born in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1972-08-09 | Bang Si-hyuk, founder of HYBE, is born in Seoul | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
@@ -86,6 +88,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1980-09-17 | A military tribunal sentences Kim Dae-jung to death after the Gwangju Uprising | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1982 | The Korea Baseball Organization (KBO) is founded with six teams | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1983 | Hyundai Electronics, later SK Hynix, is founded | Economy | [Semiconductors](economy/semiconductors.md) |
+| 1986 | The government-led VLSI project (1986–1990) accelerates Korea's DRAM catch-up | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1986 | Nongshim launches Shin Ramyun, later exported to over 100 countries | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 1987-01-14 | Student Park Jong-chul dies under police torture, galvanizing dissent | History | [Democratization](history/democratization.md) |
 | 1987-04-13 | Chun Doo-hwan rejects direct elections in the "April 13 measure" | History | [Democratization](history/democratization.md) |
@@ -120,6 +123,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2005 | Bang Si-hyuk founds Big Hit Entertainment, later HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2005 | Pangyo Techno Valley development begins near Seoul as a high-tech cluster | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
 | 2006-07-01 | Jeju is designated a Special Self-Governing Province | Geography | [Jeju Island](geography/jeju-island.md) |
@@ -132,6 +136,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2012 | SK Group acquires Hynix Semiconductor, forming SK Hynix | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
@@ -154,25 +159,38 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 2019-04-03 | South Korea launches the world's first commercial 5G network | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2019-04-11 | The Constitutional Court rules the ban on abortion unconstitutional | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
+| 2019-07 | Moon Jae-in appoints Yoon Suk-yeol prosecutor-general | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2020-02-18 | A COVID-19 cluster at Daegu's Shincheonji Church triggers Korea's "K-quarantine" response | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2020-10-15 | Big Hit Entertainment (HYBE) lists on the Korea Exchange | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2021 | "Squid Game" becomes a global Netflix phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2021 | Naver unveils HyperCLOVA, one of the largest non-English AI language models | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 2021-02 | Yoon Suk-yeol resigns as prosecutor-general amid clashes with the Moon government | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2021-03 | Big Hit Entertainment rebrands as HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-04 | HYBE acquires Ithaca Holdings, establishing HYBE America | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2021-05 | The government announces the K-Semiconductor Strategy | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |
 | 2022-05-10 | Moon Jae-in completes his single five-year term; Yoon Suk-yeol succeeds him | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2022-06 | The homegrown KSLV-2 (Nuri) rocket reaches orbit on its first success | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2022-10-29 | The Itaewon Halloween crowd crush kills 159 people in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2023-03 | Yoon's government announces a third-party fund for wartime forced-labor victims, unfreezing ties with Japan | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-04 | BLACKPINK becomes the first Asian act to headline Coachella | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2023-08-18 | The Camp David summit establishes a US–Japan–South Korea trilateral security framework | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2024-04-10 | Opposition parties win a National Assembly supermajority in the legislative elections | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-06 | Webtoon Entertainment (Naver Webtoon) debuts in a U.S. IPO | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2024-12-04 | The National Assembly votes 190-0 to lift martial law; Yoon rescinds the decree | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2024-12-26 | The National Assembly passes the AI Basic Act, Korea's first comprehensive AI law | Government & Politics | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
+| 2025-01-15 | Yoon Suk-yeol is detained, the first sitting South Korean president to be arrested | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2025-04-04 | Constitutional Court unanimously removes Yoon Suk-yeol from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2025-06-03 | Lee Jae-myung wins the snap presidential election following Yoon's removal | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2025-06-10 | Lee Jae-myung is inaugurated as president | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 <!-- END GENERATED: timeline -->

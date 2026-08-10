@@ -32,6 +32,7 @@ Index: [government-politics/](government-politics/index.md)
 
 - [Government Structure of South Korea](government-politics/government-structure.md)
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](government-politics/north-korea-relations.md)
+- [Technology and Innovation Policy in South Korea](government-politics/technology-innovation-policy.md)
 
 ## Economy
 
@@ -60,4 +61,5 @@ Index: [people/](people/index.md)
 - [Lee Myung-bak](people/lee-myung-bak.md)
 - [Moon Jae-in](people/moon-jae-in.md)
 - [Bang Si-hyuk](people/bang-si-hyuk.md)
+- [Yoon Suk-yeol](people/yoon-suk-yeol.md)
 <!-- END GENERATED: index -->

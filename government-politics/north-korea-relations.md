@@ -174,6 +174,7 @@ For South Korea, inter-Korean relations are inseparable from its relationships w
 - [Kim Dae-jung](../people/kim-dae-jung.md) — President (1998–2003) whose Sunshine Policy and 2000 Pyongyang summit reframed inter-Korean engagement.
 - [Lee Myung-bak](../people/lee-myung-bak.md) — President (2008–2013) who reversed the Sunshine Policy and imposed the May 24 Measures after the Cheonan sinking and Yeonpyeong shelling.
 - [Moon Jae-in](../people/moon-jae-in.md) — President (2017–2022) whose three 2018 summits and the Panmunjom Declaration marked the fullest revival of inter-Korean engagement.
+- [Yoon Suk-yeol](../people/yoon-suk-yeol.md) — President (2022–2025) who hardened the security posture, secured the Washington Declaration, and disclosed North Korea's troop deployment to Russia.
 <!-- END GENERATED: related -->
 
 ## Sources

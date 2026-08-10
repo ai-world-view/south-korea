@@ -217,4 +217,6 @@ The **National Security Law** (국가보안법), inherited from the authoritaria
 - **[Hallyu](../culture-society/hallyu.md)** — Cultural soft power emerging from a politically stable, internationally recognized democracy.
 - **[Semiconductors and Technology Leadership](../economy/semiconductors.md)** — The strategic industry advanced through the state-guided industrial policy this government framework enables.
 - **[Japanese Colonial Period](../history/japanese-colonial-period.md)** — The colonial authoritarian rule against which the republic's later democratic institutions were defined.
+- **[Yoon Suk-yeol](../people/yoon-suk-yeol.md)** — The president whose December 2024 martial-law declaration and 2025 removal tested every safeguard in this constitutional framework.
+- **[Technology and Innovation Policy in South Korea](technology-innovation-policy.md)** — The developmental-state technology strategy executed through the ministries, development banks, and industrial policy this framework enables.
 
