@@ -238,4 +238,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Lee Myung-bak](../people/lee-myung-bak.md) — Former Hyundai Construction CEO and president whose DAS and Samsung cases exposed chaebol–presidential entanglement.
 - [Technology Sector and ICT Innovation](technology-sector.md) — The ICT, display, gaming, and mobility industries through which the chaebol drive modern innovation.
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The state R&D and industrial policy through which the chaebol receive subsidies, execute strategic technology programs, and concentrate national R&D.
+- [Automotive Industry](automotive-industry.md) — Hyundai Motor Group, a flagship chaebol, and the state–chaebol partnership that built South Korea's car industry.
 <!-- END GENERATED: related -->

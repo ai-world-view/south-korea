@@ -182,4 +182,5 @@ Looking forward, South Korea's technology sector positioned itself across severa
 - [Bang Si-hyuk](../people/bang-si-hyuk.md) — HYBE and Weverse as technology-entertainment convergence; entertainment technology as a soft-power export parallel to hardware exports.
 - [Seoul](../geography/seoul.md) — The Gangnam district as a hub of startup culture, gaming companies, and ICT firms; the geographic concentration of Korea's digital economy.
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The developmental-state framework — R&D funding, tax incentives, the startup and venture ecosystem, and tech regulation — that steers this economy.
+- [Automotive Industry](automotive-industry.md) — EV batteries, autonomous driving, and software-defined vehicles as the technology economy's extension into mobility.
 <!-- END GENERATED: related -->

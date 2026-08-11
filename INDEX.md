@@ -21,6 +21,7 @@ Index: [geography/](geography/index.md)
 Index: [history/](history/index.md)
 
 - [Three Kingdoms Period](history/three-kingdoms-period.md)
+- [Goryeo Period](history/goryeo-period.md)
 - [Korean Independence Movement](history/korean-independence-movement.md)
 - [Japanese Colonial Period](history/japanese-colonial-period.md)
 - [Korean War](history/korean-war.md)
@@ -41,6 +42,7 @@ Index: [economy/](economy/index.md)
 - [Chaebol (Korean Conglomerates)](economy/chaebol.md)
 - [Semiconductors and Technology Leadership](economy/semiconductors.md)
 - [Technology Sector and ICT Innovation](economy/technology-sector.md)
+- [Automotive Industry](economy/automotive-industry.md)
 
 ## Culture & Society
 
@@ -51,6 +53,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Education and Universities in South Korea](culture-society/education-and-universities.md)
 - [K-pop Industry and Global Music Market](culture-society/kpop-industry.md)
 - [Sports and the Olympic Games](culture-society/sports-and-olympics.md)
+- [Film and Cinema Industry](culture-society/film-cinema-industry.md)
 
 ## People
 

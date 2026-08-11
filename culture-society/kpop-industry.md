@@ -160,6 +160,7 @@ The industry model—combining systematic talent development, integrated media c
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](../government-politics/north-korea-relations.md) — The soft-power contest in which K-pop penetrates a North Korea that criminalizes it.
 - [Bang Si-hyuk](../people/bang-si-hyuk.md) — Founder of HYBE (Big Hit) and architect of BTS, whose success broke the Big 3 oligopoly.
 - [Technology Sector and ICT Innovation](../economy/technology-sector.md) — HYBE's Weverse and the digital-platform infrastructure underpinning the modern music industry.
+- [Film and Cinema Industry](film-cinema-industry.md) — The film industry that shares production infrastructure, chaebol financing, and soft-power reach with K-pop.
 <!-- END GENERATED: related -->
 
 ## Sources

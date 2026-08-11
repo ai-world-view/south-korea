@@ -24,9 +24,23 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 668 | Goguryeo falls, ending the Three Kingdoms period | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 676 | Silla expels Tang forces, unifying the peninsula south of the Taedong River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 751 | Bulguksa Temple and Seokguram Grotto are rebuilt in Gyeongju | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 918 | Wang Geon founds the Goryeo dynasty with its capital at Kaesong | History | [Goryeo Period](history/goryeo-period.md) |
 | 935 | The last Silla king abdicates to Wang Geon, founder of Goryeo | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 936 | Goryeo completes the reunification of the Later Three Kingdoms | History | [Goryeo Period](history/goryeo-period.md) |
 | 938 | Tamna, Jeju's indigenous kingdom, formally submits to Goryeo | History | [Jeju Island](geography/jeju-island.md) |
+| 956 | Gwangjong's slave-liberation edict curbs aristocratic power | History | [Goryeo Period](history/goryeo-period.md) |
+| 958 | Gwangjong institutes the gwageo civil-service examination | History | [Goryeo Period](history/goryeo-period.md) |
+| 993 | Seo Hui's diplomacy ends the first Khitan invasion, extending Goryeo toward the Yalu River | History | [Goryeo Period](history/goryeo-period.md) |
 | c. 1007 | Hallasan, Jeju's shield volcano, has its last recorded eruption | Geography | [Jeju Island](geography/jeju-island.md) |
+| 1019 | Gang Gam-chan destroys the Liao army at the Battle of Gwiju | History | [Goryeo Period](history/goryeo-period.md) |
+| 1170 | A military coup inaugurates a century of military rule in Goryeo | History | [Goryeo Period](history/goryeo-period.md) |
+| 1231 | The Mongols launch the first of six invasions of Goryeo | History | [Goryeo Period](history/goryeo-period.md) |
+| 1232 | The Goryeo court relocates to Ganghwa Island to resist the Mongols | History | [Goryeo Period](history/goryeo-period.md) |
+| 1251 | The second Tripitaka Koreana is completed after decades of carving | History | [Goryeo Period](history/goryeo-period.md) |
+| 1270 | Goryeo submits to the Mongol Yuan; the court returns to Kaesong | History | [Goryeo Period](history/goryeo-period.md) |
+| 1377 | The Jikji, the oldest extant book printed with metal movable type, is printed in Cheongju | History | [Goryeo Period](history/goryeo-period.md) |
+| 1388 | Yi Seong-gye turns his army back at Wihwa Island, seizing power | History | [Goryeo Period](history/goryeo-period.md) |
+| 1392 | Yi Seong-gye founds the Joseon dynasty, ending Goryeo after 474 years | History | [Goryeo Period](history/goryeo-period.md) |
 | 1394 | Hanyang (Seoul) designated permanent capital of the Joseon Dynasty | Geography | [Seoul](geography/seoul.md) |
 | 1395 | Gyeongbokgung Palace and Jongmyo Shrine completed in Hanyang | Geography | [Seoul](geography/seoul.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -45,6 +59,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1920-09-28 | Independence activist Yu Gwan-sun dies in Seodaemun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1920-10 | Battle of Qingshanli: Korean forces defeat the Japanese in Manchuria | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1924-01-06 | Kim Dae-jung born on Hauido, South Jeolla Province | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1926 | Na Woon-gyu's silent film "Arirang" becomes an early nationalist landmark | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1932-04-29 | Yun Bong-gil bombs a Japanese ceremony at Shanghai's Hongkou Park | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1938 | Lee Byung-chul founds Samsung as a trading company | Economy | [Chaebol](economy/chaebol.md) |
 | 1940-02 | Sōshi-kaimei policy pressures Koreans to adopt Japanese-style names | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -66,9 +81,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 1960 | Kim Ki-young's "The Housemaid" is released, later hailed as a masterpiece | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1960-12-18 | Yoon Suk-yeol is born in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
@@ -80,6 +97,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974-08-15 | Seoul Metro Line 1 opens | Geography | [Seoul](geography/seoul.md) |
 | 1974-08-15 | First Lady Yuk Young-soo killed in an assassination attempt on Park | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1975 | Hyundai launches the Pony, Korea's first domestically designed car | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1977 | Lee Myung-bak becomes CEO of Hyundai Engineering & Construction at 35 | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1979-10-16 | Bu-Ma Democratic Uprising erupts in Busan against the Yushin system | History | [Busan](geography/busan.md) |
 | 1979-10-26 | Park Chung-hee assassinated by KCIA director Kim Jae-gyu | People | [Park Chung-hee](people/park-chung-hee.md) |
@@ -90,6 +108,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1983 | Hyundai Electronics, later SK Hynix, is founded | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1986 | The government-led VLSI project (1986–1990) accelerates Korea's DRAM catch-up | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1986 | Nongshim launches Shin Ramyun, later exported to over 100 countries | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
+| 1986 | Hyundai enters the U.S. market with the Excel, its first American export | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1987-01-14 | Student Park Jong-chul dies under police torture, galvanizing dissent | History | [Democratization](history/democratization.md) |
 | 1987-04-13 | Chun Doo-hwan rejects direct elections in the "April 13 measure" | History | [Democratization](history/democratization.md) |
 | 1987-06-10 | June Democratic Struggle erupts in nationwide mass protests | History | [Democratization](history/democratization.md) |
@@ -109,9 +128,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1998 | Se Ri Pak wins the U.S. Women's Open, inspiring the "Se Ri Kids" golf generation | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1998-02-25 | Kim Dae-jung inaugurated as the 15th president amid the IMF crisis | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1998-11-18 | Mount Kumgang tourism from the South begins under Hyundai | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 1998-12 | Hyundai acquires the bankrupt Kia Motors, forming Hyundai Motor Group | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1999 | Daewoo Group collapses in the largest corporate bankruptcy of its time | Economy | [Chaebol](economy/chaebol.md) |
 | 1999 | Brain Korea 21 (BK21) university research program launched | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1999 | Naver, later South Korea's dominant search portal, is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 1999 | "Shiri" proves Korean cinema can rival Hollywood at the box office | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2000-06-15 | First inter-Korean summit; June 15 Joint Declaration signed in Pyongyang | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
@@ -122,6 +143,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2003-10-31 | President Roh Moo-hyun apologizes for the state's role in the Jeju April 3 Incident | History | [Jeju Island](geography/jeju-island.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2004-05 | Park Chan-wook's "Oldboy" wins the Grand Prix at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2005 | Bang Si-hyuk founds Big Hit Entertainment, later HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2005 | Pangyo Techno Valley development begins near Seoul as a high-tech cluster | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
@@ -130,6 +152,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2006-10-09 | North Korea conducts its first nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2007 | Jeju Volcanic Island and Lava Tubes inscribed as a UNESCO World Heritage Site | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2007-12-19 | Lee Myung-bak elected president with 48.7% of the vote | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2008 | Hyundai launches the Genesis luxury sedan, moving upmarket | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2008-02-25 | Lee Myung-bak inaugurated as president | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-06 | Candlelight protests over U.S. beef imports draw hundreds of thousands | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2009-08-18 | Kim Dae-jung dies in Seoul at 85 | People | [Kim Dae-jung](people/kim-dae-jung.md) |
@@ -143,6 +166,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013 | Samsung commercializes the world's first 3D V-NAND flash memory | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
+| 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2016-08-08 | BLACKPINK debuts under YG Entertainment | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
@@ -159,6 +183,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 2019-04-03 | South Korea launches the world's first commercial 5G network | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2019-04-11 | The Constitutional Court rules the ban on abortion unconstitutional | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
+| 2019-05 | Bong Joon-ho's "Parasite" wins the Palme d'Or at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2019-07 | Moon Jae-in appoints Yoon Suk-yeol prosecutor-general | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2020-02-18 | A COVID-19 cluster at Daegu's Shincheonji Church triggers Korea's "K-quarantine" response | People | [Moon Jae-in](people/moon-jae-in.md) |
@@ -171,8 +196,10 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-04 | HYBE acquires Ithaca Holdings, establishing HYBE America | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-05 | The government announces the K-Semiconductor Strategy | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 2022-01 | LG Energy Solution's record $10.8 billion IPO becomes Korea's largest | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |
+| 2022-05 | Park Chan-wook wins Best Director at Cannes for "Decision to Leave" | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2022-05-10 | Moon Jae-in completes his single five-year term; Yoon Suk-yeol succeeds him | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2022-06 | The homegrown KSLV-2 (Nuri) rocket reaches orbit on its first success | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
@@ -185,6 +212,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2024-04-10 | Opposition parties win a National Assembly supermajority in the legislative elections | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-06 | Webtoon Entertainment (Naver Webtoon) debuts in a U.S. IPO | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 2024-10 | Hyundai opens its dedicated EV Metaplant (HMGMA) in Georgia | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2024-12-04 | The National Assembly votes 190-0 to lift martial law; Yoon rescinds the decree | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | Government & Politics | [Government Structure](government-politics/government-structure.md) |

@@ -154,4 +154,5 @@ Archaeological investigation continues: major tomb excavations in Gyeongju, ongo
 - [Busan](../geography/busan.md) — Southeastern Korean maritime history tracing to Silla's sea-trade connections with Japan and China.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — Taehak (Goguryeo's national academy) and Silla's Buddhist learning centers as precursors to Korea's educational institutions; meritocratic ideals rooted in Confucian traditions first institutionalized in this era.
 - [Park Chung-hee](../people/park-chung-hee.md) — The "Han River Miracle" narrative echoing the centralization and prosperity of the kingdoms' heights; the historical consciousness underlying Korean nationalism.
+- [Goryeo Period](goryeo-period.md) — The medieval kingdom (918–1392) that reunified the peninsula after the Later Three Kingdoms and carried forward Silla's Buddhist and bureaucratic legacy.
 <!-- END GENERATED: related -->
