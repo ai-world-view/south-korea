@@ -217,4 +217,6 @@ Goryeo's contributions shaped Korean civilization across multiple dimensions:
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The gwageo civil-service examination and the Seonggyungwan academy, institutionalized in Goryeo, as the deep roots of Korea's meritocratic education culture.
 - [Government Structure of South Korea](../government-politics/government-structure.md) — Goryeo's centralized bureaucracy, provincial circuits, and Confucian-Legalist administration as distant ancestors of modern Korean governance.
 - [Seoul](../geography/seoul.md) — Hanyang (present-day Seoul), which Yi Seong-gye made the capital of the succeeding Joseon dynasty after Goryeo's fall.
+- [Joseon Dynasty](joseon-dynasty.md) — The Neo-Confucian dynasty (1392–1910) that succeeded Goryeo and reversed its patronage of Buddhism.
+- [Religion and Buddhism in Korea](../culture-society/religion-and-buddhism.md) — Goryeo state Buddhism and the Tripitaka Koreana within Korea's longer religious history.
 <!-- END GENERATED: related -->

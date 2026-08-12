@@ -146,4 +146,5 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Moon Jae-in](moon-jae-in.md) — President jailed as a student for protesting Park's Yushin Constitution; later pardoned Park's daughter, Park Geun-hye.
 - [Korean Independence Movement](../history/korean-independence-movement.md) — The independence-and-collaboration divide against which Park's colonial-era military service is debated.
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The developmental-state technology strategy Park pioneered — targeted industrial selection, state research institutes, and the chaebol partnership — that still shapes Korean policy.
+- [Banking and Finance Sector](../economy/banking-and-finance.md) — The state-controlled directed-credit banking system Park built to finance industrialization.
 <!-- END GENERATED: related -->

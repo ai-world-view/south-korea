@@ -22,6 +22,7 @@ Index: [history/](history/index.md)
 
 - [Three Kingdoms Period](history/three-kingdoms-period.md)
 - [Goryeo Period](history/goryeo-period.md)
+- [Joseon Dynasty](history/joseon-dynasty.md)
 - [Korean Independence Movement](history/korean-independence-movement.md)
 - [Japanese Colonial Period](history/japanese-colonial-period.md)
 - [Korean War](history/korean-war.md)
@@ -43,6 +44,7 @@ Index: [economy/](economy/index.md)
 - [Semiconductors and Technology Leadership](economy/semiconductors.md)
 - [Technology Sector and ICT Innovation](economy/technology-sector.md)
 - [Automotive Industry](economy/automotive-industry.md)
+- [Banking and Finance Sector](economy/banking-and-finance.md)
 
 ## Culture & Society
 
@@ -50,6 +52,7 @@ Index: [culture-society/](culture-society/index.md)
 
 - [Hallyu (Korean Wave)](culture-society/hallyu.md)
 - [Korean Cuisine and Food Culture](culture-society/korean-cuisine.md)
+- [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md)
 - [Education and Universities in South Korea](culture-society/education-and-universities.md)
 - [K-pop Industry and Global Music Market](culture-society/kpop-industry.md)
 - [Sports and the Olympic Games](culture-society/sports-and-olympics.md)

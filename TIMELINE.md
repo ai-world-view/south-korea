@@ -15,6 +15,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | c. 18 BCE | Baekje establishes its first capital, Wiryeseong, near present-day Seoul | Geography | [Seoul](geography/seoul.md) |
 | c. 18 BCE | Baekje is founded by Onjo in the southwestern peninsula | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 372 | Buddhism reaches Goguryeo and the Taehak national academy is founded | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 384 | Buddhism reaches Baekje through the monk Malananda | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 414 | The Gwanggaeto Stele is erected, commemorating Goguryeo's expansion | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 427 | Goguryeo moves its capital to Pyongyang under King Jangsu | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 528 | Silla adopts Buddhism as a state religion after Ichadon's martyrdom | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
@@ -23,6 +24,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 660 | A Tang–Silla alliance conquers Baekje | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 668 | Goguryeo falls, ending the Three Kingdoms period | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 676 | Silla expels Tang forces, unifying the peninsula south of the Taedong River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 686 | Wonhyo, Korea's most celebrated Buddhist thinker, dies | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 751 | Bulguksa Temple and Seokguram Grotto are rebuilt in Gyeongju | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 918 | Wang Geon founds the Goryeo dynasty with its capital at Kaesong | History | [Goryeo Period](history/goryeo-period.md) |
 | 935 | The last Silla king abdicates to Wang Geon, founder of Goryeo | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
@@ -43,15 +45,28 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1392 | Yi Seong-gye founds the Joseon dynasty, ending Goryeo after 474 years | History | [Goryeo Period](history/goryeo-period.md) |
 | 1394 | Hanyang (Seoul) designated permanent capital of the Joseon Dynasty | Geography | [Seoul](geography/seoul.md) |
 | 1395 | Gyeongbokgung Palace and Jongmyo Shrine completed in Hanyang | Geography | [Seoul](geography/seoul.md) |
+| 1398 | The First Strife of Princes; Jeong Do-jeon, architect of Joseon's institutions, is killed | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1418 | Sejong the Great accedes to the Joseon throne | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1446 | Sejong promulgates the Hangul alphabet in the Hunminjeongeum | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1592 | Toyotomi Hideyoshi invades Korea, beginning the Imjin War | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1597 | Admiral Yi Sun-sin destroys the Japanese fleet at Myeongnyang | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1637 | King Injo surrenders to the Qing at Samjeondo after the Byeongja Horan | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1784 | Yi Seung-hun is baptized in Beijing, founding Korea's Catholic community | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 1801 | The Sinyu Persecution executes hundreds of Korean Catholics | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 1866 | The Byeongin Persecution kills thousands of Catholics; a French expedition is repulsed at Ganghwa | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1876 | Busan opened as Korea's first treaty port under the Ganghwa Treaty | Geography | [Busan](geography/busan.md) |
+| 1885 | American Protestant missionaries Underwood and Appenzeller arrive in Korea | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1894 | The Donghak Peasant Revolt rises against taxation and foreign encroachment | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1897 | Gojong proclaims the Empire of Korea (Daehan Jeguk), ending the Joseon kingdom's old order | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1907 | Emperor Gojong is forced to abdicate and the Korean army is disbanded | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1907 | The Pyongyang Great Revival shapes the character of Korean Protestantism | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1909-10-26 | An Jung-geun assassinates Itō Hirobumi at Harbin Station | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1910 | Japan annexes Korea; the capital is renamed Keijō | History | [Seoul](geography/seoul.md) |
 | 1910-03-26 | An Jung-geun is executed at Lüshun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1910-08-22 | Japan-Korea Annexation Treaty incorporates Korea into the Japanese Empire | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 1911 | The colonial Temple Ordinance brings Korean Buddhist temples under state control | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1917-11-14 | Park Chung-hee born in Gumi, North Gyeongsang Province | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1919-03-01 | March 1st Movement against Japanese rule begins in Seoul | History | [Seoul](geography/seoul.md) |
 | 1919-04-11 | Korean Provisional Government established in exile in Shanghai | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -80,9 +95,12 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1953-01-24 | Moon Jae-in is born on Geoje Island to refugee parents from the North | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
+| 1954 | The Korea Development Bank is founded to channel long-term industrial credit | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
+| 1954 | A Buddhist purification drive consolidates the Jogye Order; the Unification Church is founded | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1960 | Kim Ki-young's "The Housemaid" is released, later hailed as a masterpiece | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1960-12-18 | Yoon Suk-yeol is born in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 1961 | Park Chung-hee's government brings the commercial banks under state control | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
@@ -90,6 +108,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1972 | The August 3 Emergency Decree freezes the informal curb-loan market | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1972-08-09 | Bang Si-hyuk, founder of HYBE, is born in Seoul | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 1972-10-17 | Park declares martial law, ushering in the authoritarian Yushin system | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
@@ -98,6 +117,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1974-08-15 | Seoul Metro Line 1 opens | Geography | [Seoul](geography/seoul.md) |
 | 1974-08-15 | First Lady Yuk Young-soo killed in an assassination attempt on Park | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1975 | Hyundai launches the Pony, Korea's first domestically designed car | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 1976 | The Export-Import Bank of Korea (KEXIM) is established to finance exports | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1977 | Lee Myung-bak becomes CEO of Hyundai Engineering & Construction at 35 | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1979-10-16 | Bu-Ma Democratic Uprising erupts in Busan against the Yushin system | History | [Busan](geography/busan.md) |
 | 1979-10-26 | Park Chung-hee assassinated by KCIA director Kim Jae-gyu | People | [Park Chung-hee](people/park-chung-hee.md) |
@@ -123,6 +143,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
 | 1996 | H.O.T. debuts as the first fully managed K-pop idol group | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 1996-10 | Busan International Film Festival, Asia's first major film festival, is inaugurated | Culture & Society | [Busan](geography/busan.md) |
+| 1997-11 | Foreign banks refuse to roll over Korea's short-term debt, forcing an IMF rescue request | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
 | 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1998 | Se Ri Pak wins the U.S. Women's Open, inspiring the "Se Ri Kids" golf generation | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
@@ -140,6 +161,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2002 | South Korea attains the world's highest broadband penetration rate | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2002-06 | South Korea reaches the FIFA World Cup semi-finals as co-host, an Asian best | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2002-09 | Busan hosts the 14th Asian Games, with North Korea participating | Culture & Society | [Busan](geography/busan.md) |
+| 2003 | The credit-card bubble bursts, leaving millions of Koreans delinquent | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2003-10-31 | President Roh Moo-hyun apologizes for the state's role in the Jeju April 3 Incident | History | [Jeju Island](geography/jeju-island.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
@@ -166,11 +188,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013 | Samsung commercializes the world's first 3D V-NAND flash memory | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
+| 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2016-08-08 | BLACKPINK debuts under YG Entertainment | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2016-11 | UNESCO inscribes Jeju's haenyeo diving culture as Intangible Cultural Heritage | Culture & Society | [Jeju Island](geography/jeju-island.md) |
+| 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2017-05-09 | Moon Jae-in is elected president after Park Geun-hye's impeachment | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2017-09-03 | North Korea conducts its sixth and largest nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
@@ -196,6 +220,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-04 | HYBE acquires Ithaca Holdings, establishing HYBE America | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-05 | The government announces the K-Semiconductor Strategy | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 2022 | The Terra/Luna cryptocurrency collapse wipes out roughly $40 billion and spurs Korean regulation | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2022-01 | LG Energy Solution's record $10.8 billion IPO becomes Korea's largest | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |

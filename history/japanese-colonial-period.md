@@ -142,4 +142,6 @@ The Japanese Colonial Period fundamentally reshaped Korea. It accelerated modern
 - [Three Kingdoms Period](three-kingdoms-period.md) — The era when Baekje transmitted Buddhism, writing, and crafts to Japan, long before the colonial reversal of that exchange.
 - [Korean Independence Movement](korean-independence-movement.md) — The organized anti-colonial resistance, from the Righteous Army to the March 1st Movement, that opposed this rule.
 - [Jeju Island](../geography/jeju-island.md) — The island's returning wartime diaspora and postwar politics shaped by the colonial experience.
+- [Joseon Dynasty](joseon-dynasty.md) — The five-century monarchy that the 1910 annexation extinguished.
+- [Religion and Buddhism in Korea](../culture-society/religion-and-buddhism.md) — The 1911 Temple Ordinance and colonial reshaping of Korean Buddhism and Christianity.
 <!-- END GENERATED: related -->

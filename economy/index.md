@@ -13,4 +13,5 @@ Topics on the industries, institutions, and economic development of South Korea,
 - [Semiconductors and Technology Leadership](semiconductors.md) — South Korea's global leadership in memory chips through Samsung and SK Hynix, and its strategic and geopolitical significance.
 - [Technology Sector and ICT Innovation](technology-sector.md) — South Korea's ICT, display, AI, telecommunications, gaming, and mobility industries beyond semiconductors; the innovation ecosystem behind a high-income economy.
 - [Automotive Industry](automotive-industry.md) — The Hyundai–Kia–Genesis manufacturing complex, its rise to the world's third-largest automaker, and its EV, hydrogen, and battery strategy.
+- [Banking and Finance Sector](banking-and-finance.md) — The state-engineered directed-credit banking system, the 1997 Asian Financial Crisis and IMF bailout, post-crisis restructuring, and the fintech and internet-only-bank revolution.
 <!-- END GENERATED: category-index -->

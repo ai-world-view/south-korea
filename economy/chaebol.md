@@ -239,4 +239,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Technology Sector and ICT Innovation](technology-sector.md) — The ICT, display, gaming, and mobility industries through which the chaebol drive modern innovation.
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The state R&D and industrial policy through which the chaebol receive subsidies, execute strategic technology programs, and concentrate national R&D.
 - [Automotive Industry](automotive-industry.md) — Hyundai Motor Group, a flagship chaebol, and the state–chaebol partnership that built South Korea's car industry.
+- [Banking and Finance Sector](banking-and-finance.md) — The directed-credit banking system that financed chaebol expansion and the 1997 crisis it helped trigger.
 <!-- END GENERATED: related -->
