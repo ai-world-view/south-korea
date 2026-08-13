@@ -144,4 +144,5 @@ The independence movement's moral authority remains central to Korean political 
 - [Moon Jae-in](../people/moon-jae-in.md) — President who claimed continuity with the March 1st and independence-justice tradition
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The republican constitution the Provisional Government prefigured
 - [Park Chung-hee](../people/park-chung-hee.md) — Postwar leader whose own record was measured against the independence-collaboration divide
+- [Korean Liberation and Founding, 1945–1948](liberation-and-founding.md) — The liberation the movement won and the divided founding that followed it
 <!-- END GENERATED: related -->

@@ -56,9 +56,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1866 | The Byeongin Persecution kills thousands of Catholics; a French expedition is repulsed at Ganghwa | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1876 | Busan opened as Korea's first treaty port under the Ganghwa Treaty | Geography | [Busan](geography/busan.md) |
+| 1883 | Jemulpo (Incheon) opens as a treaty port, beginning its rise as Korea's western gateway | Geography | [Incheon](geography/incheon.md) |
 | 1885 | American Protestant missionaries Underwood and Appenzeller arrive in Korea | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1894 | The Donghak Peasant Revolt rises against taxation and foreign encroachment | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1897 | Gojong proclaims the Empire of Korea (Daehan Jeguk), ending the Joseon kingdom's old order | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1899 | The Gyeongin Line, Korea's first railway, opens between Seoul and Incheon | Geography | [Incheon](geography/incheon.md) |
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1907 | Emperor Gojong is forced to abdicate and the Korean army is disbanded | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1907 | The Pyongyang Great Revival shapes the character of Korean Protestantism | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
@@ -81,9 +83,18 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1940-09-17 | The Korean Liberation Army is founded in Chongqing | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1941-12-19 | Lee Myung-bak born to a Korean family in Osaka, Japan | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1945-08-15 | Liberation from Japan; the peninsula is divided at the 38th parallel | History | [Korean War](history/korean-war.md) |
+| 1945-09-08 | U.S. forces land at Incheon and establish the military government (USMGIK) in the south | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
+| 1945-12 | The Moscow Conference proposes a multinational trusteeship over Korea, igniting mass protest | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1946-08 | Seoul National University established in Seoul | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
+| 1946-09-01 | Roh Moo-hyun is born in Gimhae, South Gyeongsang Province | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
+| 1946-10 | The Daegu Autumn Uprising spreads across the southern provinces | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1948-04-03 | The Jeju April 3 Incident begins; suppression continues into 1954 | History | [Jeju Island](geography/jeju-island.md) |
+| 1948-05-10 | Koreans in the south elect a constituent National Assembly under UN observation | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
+| 1948-07-17 | The Constitution of the Republic of Korea is promulgated | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1948-08-15 | Republic of Korea proclaimed under Syngman Rhee; Seoul becomes its capital | History | [Korean War](history/korean-war.md) |
+| 1948-09-09 | The Democratic People's Republic of Korea is founded in the north under Kim Il-sung | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
+| 1948-10-19 | The Yeosu–Suncheon rebellion erupts among troops ordered to suppress Jeju | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
+| 1948-12-01 | The National Security Law is enacted, anchoring decades of anticommunist repression | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1950-06-25 | North Korea invades the South, beginning the Korean War | History | [Korean War](history/korean-war.md) |
 | 1950-06-28 | Seoul falls to North Korean forces | History | [Korean War](history/korean-war.md) |
 | 1950-08 | UN and ROK forces hold the Busan Perimeter, the Korean War's last defensive line | Geography | [Busan](geography/busan.md) |
@@ -116,6 +127,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974-08-15 | Seoul Metro Line 1 opens | Geography | [Seoul](geography/seoul.md) |
 | 1974-08-15 | First Lady Yuk Young-soo killed in an assassination attempt on Park | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1975 | Roh Moo-hyun passes the bar as a self-taught lawyer without a university degree | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 1975 | Hyundai launches the Pony, Korea's first domestically designed car | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1976 | The Export-Import Bank of Korea (KEXIM) is established to finance exports | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1977 | Lee Myung-bak becomes CEO of Hyundai Engineering & Construction at 35 | People | [Lee Myung-bak](people/lee-myung-bak.md) |
@@ -134,6 +146,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1987-06-10 | June Democratic Struggle erupts in nationwide mass protests | History | [Democratization](history/democratization.md) |
 | 1987-06-29 | Roh Tae-woo's June 29 Declaration accepts direct presidential elections | History | [Democratization](history/democratization.md) |
 | 1987-12-16 | Roh Tae-woo wins the first direct presidential election in 16 years | History | [Democratization](history/democratization.md) |
+| 1988 | Roh Moo-hyun wins a Busan seat and gains fame in the Fifth Republic hearings | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 1988-02-25 | Roh Tae-woo inaugurated, opening the Sixth Republic | History | [Democratization](history/democratization.md) |
 | 1988-09-17 | Seoul hosts the Summer Olympic Games | Geography | [Seoul](geography/seoul.md) |
 | 1988-09-17 | South Korea finishes fourth in the medal table at the Seoul Olympics it hosts | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
@@ -161,8 +174,12 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2002 | South Korea attains the world's highest broadband penetration rate | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2002-06 | South Korea reaches the FIFA World Cup semi-finals as co-host, an Asian best | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2002-09 | Busan hosts the 14th Asian Games, with North Korea participating | Culture & Society | [Busan](geography/busan.md) |
+| 2002-12-19 | Roh Moo-hyun wins the presidential election with 48.9% of the vote | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2003 | The credit-card bubble bursts, leaving millions of Koreans delinquent | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
+| 2003 | Construction begins on Incheon's Songdo International Business District on reclaimed tidal flats | Geography | [Incheon](geography/incheon.md) |
+| 2003-02-25 | Roh Moo-hyun is inaugurated as the 16th president | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2003-10-31 | President Roh Moo-hyun apologizes for the state's role in the Jeju April 3 Incident | History | [Jeju Island](geography/jeju-island.md) |
+| 2004-03-12 | The National Assembly impeaches President Roh Moo-hyun | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2004-05 | Park Chan-wook's "Oldboy" wins the Grand Prix at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
@@ -173,11 +190,15 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2006-07-01 | Jeju is designated a Special Self-Governing Province | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2006-10-09 | North Korea conducts its first nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2007 | Jeju Volcanic Island and Lava Tubes inscribed as a UNESCO World Heritage Site | Geography | [Jeju Island](geography/jeju-island.md) |
+| 2007-06-30 | Roh's government signs the Korea–United States Free Trade Agreement (KORUS FTA) | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
+| 2007-10-04 | Roh Moo-hyun holds the second inter-Korean summit in Pyongyang; the October 4 Declaration is issued | Government & Politics | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2007-12-19 | Lee Myung-bak elected president with 48.7% of the vote | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008 | Hyundai launches the Genesis luxury sedan, moving upmarket | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2008-02-25 | Lee Myung-bak inaugurated as president | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-06 | Candlelight protests over U.S. beef imports draw hundreds of thousands | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2009-05-23 | Former president Roh Moo-hyun dies by suicide near his home in Gimhae | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2009-08-18 | Kim Dae-jung dies in Seoul at 85 | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 2009-10 | The Incheon Bridge opens, linking Songdo to Yeongjong Island and Incheon International Airport | Geography | [Incheon](geography/incheon.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
@@ -185,10 +206,12 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2012 | SK Group acquires Hynix Semiconductor, forming SK Hynix | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2012-05 | The Gyeongin Ara Waterway opens, linking the Han River to the Yellow Sea at Incheon | Geography | [Incheon](geography/incheon.md) |
 | 2013 | Samsung commercializes the world's first 3D V-NAND flash memory | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 2014-09-19 | Incheon hosts the 17th Asian Games | Geography | [Incheon](geography/incheon.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |

@@ -135,5 +135,7 @@ Kim Dae-jung died on **August 18, 2009**, at Severance Hospital, Yonsei Universi
 - [Busan](../geography/busan.md) — The Bu-Ma Uprising of 1979 centered on Busan and Masan; the 2002 Busan Asian Games realized the inter-Korean opening of Kim's Sunshine Policy
 - [Bang Si-hyuk](bang-si-hyuk.md) — Founder of HYBE, whose global success built on the cultural-content industries Kim's administration first cultivated
 - [Moon Jae-in](moon-jae-in.md) — President who revived Kim's Sunshine Policy of engagement in the 2018 inter-Korean summits
+- [Roh Moo-hyun](roh-moo-hyun.md) — Kim's successor (2003–2008), who continued the Sunshine Policy and held the second inter-Korean summit
+- [Korean Liberation and Founding, 1945–1948](../history/liberation-and-founding.md) — The division and Jeju massacre of the founding era that Kim's government began to formally acknowledge
 <!-- END GENERATED: related -->
 

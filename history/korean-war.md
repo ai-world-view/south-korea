@@ -187,4 +187,6 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 - [Korean Independence Movement](./korean-independence-movement.md) — The anti-colonial struggle whose 1945 victory was immediately complicated by the division that led to war.
 - [Jeju Island](../geography/jeju-island.md) — The April 3 Incident of 1948, a prelude to the war rooted in the same Cold War division.
 - [Moon Jae-in](../people/moon-jae-in.md) — President whose parents fled south in the 1950 Hungnam evacuation.
+- [Korean Liberation and Founding, 1945–1948](liberation-and-founding.md) — The occupation, division, and founding of the two Korean states that set the stage for the war.
+- [Incheon](../geography/incheon.md) — The port city where MacArthur's September 1950 amphibious landing reversed the war.
 <!-- END GENERATED: related -->

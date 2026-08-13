@@ -116,4 +116,5 @@ Moon remains an influential reference point in South Korean progressive politics
 - [Jeju Island](../geography/jeju-island.md) — The April 3 memorial Moon visited to signal historical accountability
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The presidential republic and single-term office Moon held
 - [Yoon Suk-yeol](yoon-suk-yeol.md) — Moon's conservative successor, whose prosecutor-general tenure under Moon preceded their rupture and whose 2024 martial-law crisis ended his presidency
+- [Roh Moo-hyun](roh-moo-hyun.md) — Moon's Busan law partner and the president he served as Chief of Staff before succeeding to the office himself
 <!-- END GENERATED: related -->

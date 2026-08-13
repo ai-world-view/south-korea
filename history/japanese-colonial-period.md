@@ -144,4 +144,6 @@ The Japanese Colonial Period fundamentally reshaped Korea. It accelerated modern
 - [Jeju Island](../geography/jeju-island.md) — The island's returning wartime diaspora and postwar politics shaped by the colonial experience.
 - [Joseon Dynasty](joseon-dynasty.md) — The five-century monarchy that the 1910 annexation extinguished.
 - [Religion and Buddhism in Korea](../culture-society/religion-and-buddhism.md) — The 1911 Temple Ordinance and colonial reshaping of Korean Buddhism and Christianity.
+- [Korean Liberation and Founding, 1945–1948](liberation-and-founding.md) — The three years of occupation and division that followed the 1945 end of colonial rule.
+- [Incheon](../geography/incheon.md) — The treaty port whose modern growth accelerated under colonial-era port and rail investment.
 <!-- END GENERATED: related -->

@@ -116,4 +116,5 @@ His case joins Park Geun-hye (impeached 2017, convicted of corruption) and Lee M
 - [North Korea–South Korea Relations](../government-politics/north-korea-relations.md) — Yoon's hardline security posture, the Washington Declaration, and the escalation involving North Korean troop deployments to Russia.
 - [Democratization](../history/democratization.md) — The 1987 democratic transition whose norms Yoon's martial-law declaration invoked—and violated.
 - [Technology and Innovation Policy](../government-politics/technology-innovation-policy.md) — The K-Semiconductor Strategy, AI investment, and US–Japan chip supply chain alignment that Yoon's administration advanced.
+- [Roh Moo-hyun](roh-moo-hyun.md) — Progressive president (2003–2008) whose post-presidential prosecution foreshadowed the later cycle of investigating former leaders that Yoon extended.
 <!-- END GENERATED: related -->

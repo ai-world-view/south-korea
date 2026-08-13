@@ -130,4 +130,5 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Korean Independence Movement](../history/korean-independence-movement.md) — Tapgol Park in central Seoul, where the Declaration of Independence was read on March 1, 1919.
 - [Moon Jae-in](../people/moon-jae-in.md) — The 2016–2017 Candlelight demonstrations centered on downtown Seoul that brought him to office.
 - [Joseon Dynasty](../history/joseon-dynasty.md) — The dynasty that made Hanyang (Seoul) its capital in 1394 and built Gyeongbokgung and the city walls.
+- [Incheon](incheon.md) — The capital region's gateway port and airport city, 30 km to the west and linked to Seoul by rail and expressway.
 <!-- END GENERATED: related -->

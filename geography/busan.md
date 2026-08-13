@@ -148,5 +148,6 @@ Central neighborhoods built during the rapid-growth decades face aging infrastru
 - [Government Structure of South Korea](../government-politics/government-structure.md) — Busan as a metropolitan city (광역시) with its own elected mayor and council
 - [Three Kingdoms Period](../history/three-kingdoms-period.md) — Silla, based in the nearby Gyeongju basin, whose maritime trade with Japan passed through the southeastern coast
 - [Film and Cinema Industry](../culture-society/film-cinema-industry.md) — The Busan International Film Festival (BIFF), Asia's leading film festival, held in the city each October
+- [Incheon](incheon.md) — South Korea's third city and western gateway port, a northern counterpart to Busan's southern maritime role
 <!-- END GENERATED: related -->
 

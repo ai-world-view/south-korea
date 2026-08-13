@@ -15,6 +15,7 @@ Index: [geography/](geography/index.md)
 - [Seoul](geography/seoul.md)
 - [Busan](geography/busan.md)
 - [Jeju Island](geography/jeju-island.md)
+- [Incheon](geography/incheon.md)
 
 ## History
 
@@ -25,6 +26,7 @@ Index: [history/](history/index.md)
 - [Joseon Dynasty](history/joseon-dynasty.md)
 - [Korean Independence Movement](history/korean-independence-movement.md)
 - [Japanese Colonial Period](history/japanese-colonial-period.md)
+- [Korean Liberation and Founding, 1945–1948](history/liberation-and-founding.md)
 - [Korean War](history/korean-war.md)
 - [Democratization of South Korea](history/democratization.md)
 
@@ -64,6 +66,7 @@ Index: [people/](people/index.md)
 
 - [Park Chung-hee](people/park-chung-hee.md)
 - [Kim Dae-jung](people/kim-dae-jung.md)
+- [Roh Moo-hyun](people/roh-moo-hyun.md)
 - [Lee Myung-bak](people/lee-myung-bak.md)
 - [Moon Jae-in](people/moon-jae-in.md)
 - [Bang Si-hyuk](people/bang-si-hyuk.md)
