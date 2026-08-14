@@ -117,4 +117,7 @@ Moon remains an influential reference point in South Korean progressive politics
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The presidential republic and single-term office Moon held
 - [Yoon Suk-yeol](yoon-suk-yeol.md) — Moon's conservative successor, whose prosecutor-general tenure under Moon preceded their rupture and whose 2024 martial-law crisis ended his presidency
 - [Roh Moo-hyun](roh-moo-hyun.md) — Moon's Busan law partner and the president he served as Chief of Staff before succeeding to the office himself
+- [Park Geun-hye](park-geun-hye.md) — The predecessor whose removal by the Candlelight movement brought Moon to office, and whom he later pardoned
+- [Energy and Resources Policy](../economy/energy-resources-policy.md) — Moon's nuclear phase-out policy and the Renewable Energy 3020 plan
+- [Military and Defense Policy](../government-politics/military-defense-policy.md) — The 2018 inter-Korean military de-escalation agreements
 <!-- END GENERATED: related -->

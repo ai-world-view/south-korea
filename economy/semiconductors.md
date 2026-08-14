@@ -117,4 +117,6 @@ South Korea's semiconductor success since the 1980s — from latecomer to global
 - [Technology Sector and ICT Innovation](technology-sector.md) — The wider ICT, display, AI, and mobility economy that memory chips anchor.
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The state industrial policy — the VLSI project, K-Semiconductor Strategy, tax incentives, and export controls — that built and defends the memory-chip industry.
 - [Banking and Finance Sector](banking-and-finance.md) — The KDB-led policy financing that funded the capital-intensive early chip industry.
+- [Energy and Resources Policy](energy-resources-policy.md) — The reliable baseload power on which energy-intensive fabs depend.
+- [Military and Defense Policy](../government-politics/military-defense-policy.md) — Chip export controls and the defense-industrial supply chain.
 <!-- END GENERATED: related -->

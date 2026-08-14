@@ -102,6 +102,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1950-09-28 | UN forces recapture Seoul | History | [Korean War](history/korean-war.md) |
 | 1950-10-19 | Chinese People's Volunteer Army enters the war across the Yalu | History | [Korean War](history/korean-war.md) |
 | 1951-03-14 | Seoul retaken by UN forces for the final time | History | [Korean War](history/korean-war.md) |
+| 1952-02-02 | Park Geun-hye, later South Korea's first female president, is born in Daegu | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 1952-05-07 | Communist POWs seize Geoje Island camp commandant Gen. Francis Dodd | History | [Korean War](history/korean-war.md) |
 | 1953-01-24 | Moon Jae-in is born on Geoje Island to refugee parents from the North | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
@@ -115,6 +116,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
@@ -125,12 +127,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
 | 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
+| 1974 | The Yulgok Project launches a decade-long armed-forces modernization drive | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1974-08-15 | Seoul Metro Line 1 opens | Geography | [Seoul](geography/seoul.md) |
 | 1974-08-15 | First Lady Yuk Young-soo killed in an assassination attempt on Park | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1975 | Roh Moo-hyun passes the bar as a self-taught lawyer without a university degree | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 1975 | Hyundai launches the Pony, Korea's first domestically designed car | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1976 | The Export-Import Bank of Korea (KEXIM) is established to finance exports | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1977 | Lee Myung-bak becomes CEO of Hyundai Engineering & Construction at 35 | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 1978-04 | Kori-1, South Korea's first commercial nuclear reactor, begins operation near Busan | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 1979-10-16 | Bu-Ma Democratic Uprising erupts in Busan against the Yushin system | History | [Busan](geography/busan.md) |
 | 1979-10-26 | Park Chung-hee assassinated by KCIA director Kim Jae-gyu | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1979-12-12 | Chun Doo-hwan seizes military control in the December 12 coup | History | [Democratization](history/democratization.md) |
@@ -138,8 +142,10 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1980-09-17 | A military tribunal sentences Kim Dae-jung to death after the Gwangju Uprising | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1982 | The Korea Baseball Organization (KBO) is founded with six teams | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1983 | Hyundai Electronics, later SK Hynix, is founded | Economy | [Semiconductors](economy/semiconductors.md) |
+| 1983 | The Korea Gas Corporation (KOGAS) is established to import and distribute LNG | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 1986 | The government-led VLSI project (1986–1990) accelerates Korea's DRAM catch-up | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1986 | Nongshim launches Shin Ramyun, later exported to over 100 countries | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
+| 1986 | South Korea's first LNG imports begin under a long-term contract with Indonesia | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 1986 | Hyundai enters the U.S. market with the Excel, its first American export | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1987-01-14 | Student Park Jong-chul dies under police torture, galvanizing dissent | History | [Democratization](history/democratization.md) |
 | 1987-04-13 | Chun Doo-hwan rejects direct elections in the "April 13 measure" | History | [Democratization](history/democratization.md) |
@@ -161,6 +167,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1998 | Se Ri Pak wins the U.S. Women's Open, inspiring the "Se Ri Kids" golf generation | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1998-02-25 | Kim Dae-jung inaugurated as the 15th president amid the IMF crisis | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1998-04 | Park Geun-hye enters the National Assembly, winning a by-election in Daegu | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 1998-11-18 | Mount Kumgang tourism from the South begins under Hyundai | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 1998-12 | Hyundai acquires the bankrupt Kia Motors, forming Hyundai Motor Group | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1999 | Daewoo Group collapses in the largest corporate bankruptcy of its time | Economy | [Chaebol](economy/chaebol.md) |
@@ -199,6 +206,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2009-05-23 | Former president Roh Moo-hyun dies by suicide near his home in Gimhae | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2009-08-18 | Kim Dae-jung dies in Seoul at 85 | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 2009-10 | The Incheon Bridge opens, linking Songdo to Yeongjong Island and Incheon International Airport | Geography | [Incheon](geography/incheon.md) |
+| 2009-12 | A KEPCO consortium wins a $20.4 billion contract to build four reactors at Barakah in the UAE | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
@@ -207,22 +215,32 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2012-05 | The Gyeongin Ara Waterway opens, linking the Han River to the Yellow Sea at Incheon | Geography | [Incheon](geography/incheon.md) |
+| 2012-12-19 | Park Geun-hye is elected president, the first woman and first popular-vote majority since 1987 | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2013 | Samsung commercializes the world's first 3D V-NAND flash memory | Economy | [Semiconductors](economy/semiconductors.md) |
+| 2013-02-25 | Park Geun-hye is inaugurated as the 18th president | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 2014-04-16 | The MV Sewol ferry sinks, killing 304 and devastating Park Geun-hye's presidency | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2014-09-19 | Incheon hosts the 17th Asian Games | Geography | [Incheon](geography/incheon.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 2015 | The Gyeongju low- and intermediate-level nuclear-waste repository opens | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
+| 2016-07 | South Korea agrees to host a U.S. THAAD missile-defense battery at Seongju, drawing Chinese retaliation | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2016-08-08 | BLACKPINK debuts under YG Entertainment | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2016-11 | UNESCO inscribes Jeju's haenyeo diving culture as Intangible Cultural Heritage | Culture & Society | [Jeju Island](geography/jeju-island.md) |
+| 2016-11-12 | Candlelight protests over the Choi Soon-sil scandal draw over a million to central Seoul | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2016-12-09 | The National Assembly votes 234–56 to impeach President Park Geun-hye | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2017-03-31 | Park Geun-hye is arrested on bribery and abuse-of-power charges | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2017-05-09 | Moon Jae-in is elected president after Park Geun-hye's impeachment | People | [Moon Jae-in](people/moon-jae-in.md) |
+| 2017-06 | Moon Jae-in announces a nuclear phase-out policy, halting new reactor approvals | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2017-09-03 | North Korea conducts its sixth and largest nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2018-02-09 | PyeongChang Winter Olympics open; the two Koreas march under a unified flag | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2018-03-22 | Former president Lee Myung-bak arrested on bribery and embezzlement charges | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2018-04 | Park Geun-hye is convicted and sentenced to 24 years in prison (later finalized at 20) | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2018-04-27 | Panmunjom Declaration between the two Koreas | History | [Korean War](history/korean-war.md) |
 | 2018-05 | BTS's *Love Yourself: Tear* becomes the first Korean-language album to top the Billboard 200 | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2018-06-12 | First U.S.–North Korea summit held in Singapore | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
@@ -241,8 +259,10 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-02 | Yoon Suk-yeol resigns as prosecutor-general amid clashes with the Moon government | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2021-03 | Big Hit Entertainment rebrands as HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-04 | HYBE acquires Ithaca Holdings, establishing HYBE America | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2021-04 | The Barakah plant's Unit 1 in the UAE begins commercial operation, a first for a Korean-built reactor abroad | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2021-05 | The government announces the K-Semiconductor Strategy | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 2021-12-24 | President Moon Jae-in pardons Park Geun-hye, who is released after nearly five years | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2022 | The Terra/Luna cryptocurrency collapse wipes out roughly $40 billion and spurs Korean regulation | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2022-01 | LG Energy Solution's record $10.8 billion IPO becomes Korea's largest | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
@@ -250,10 +270,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-05 | Park Chan-wook wins Best Director at Cannes for "Decision to Leave" | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2022-05-10 | Moon Jae-in completes his single five-year term; Yoon Suk-yeol succeeds him | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2022-06 | The homegrown KSLV-2 (Nuri) rocket reaches orbit on its first success | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 2022-06 | Yoon Suk-yeol's Energy Transition Initiative reverses the nuclear phase-out | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
+| 2022-07 | The domestically developed KF-21 Boramae fighter completes its first flight | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
+| 2022-07 | Poland signs a landmark deal for K2 tanks, K9 howitzers, and FA-50 jets, South Korea's largest defense export | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2022-10-29 | The Itaewon Halloween crowd crush kills 159 people in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2023-03 | Yoon's government announces a third-party fund for wartime forced-labor victims, unfreezing ties with Japan | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2023-04 | The Washington Declaration establishes a U.S.–South Korea Nuclear Consultative Group | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2023-04 | BLACKPINK becomes the first Asian act to headline Coachella | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2023-08-18 | The Camp David summit establishes a US–Japan–South Korea trilateral security framework | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |

@@ -198,4 +198,6 @@ The developmental-state model—though less explicitly dirigiste than in the Par
 - [Yoon Suk-yeol](../people/yoon-suk-yeol.md) — The 2022–2025 president who expanded K-Semiconductor Strategy with geopolitical framing, deepened US–Japan technology alignment, and whose martial-law crisis ended his presidency in April 2025.
 - [Government Structure of South Korea](government-structure.md) — The administrative and constitutional framework for implementing tech policy through the Ministry of Science and ICT, MOTIE, and development banks.
 - [Seoul](../geography/seoul.md) — The metropolitan region where Pangyo Techno Valley, Mapo Digital Media City, and the leading startup and VC ecosystem operate.
+- [Military and Defense Policy](military-defense-policy.md) — Defense-industrial R&D, KAI, and the KF-21 program as an arm of the technology strategy.
+- [Energy and Resources Policy](../economy/energy-resources-policy.md) — R&D in nuclear SMRs, batteries, and the hydrogen economy.
 <!-- END GENERATED: related -->

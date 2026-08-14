@@ -147,4 +147,7 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Korean Independence Movement](../history/korean-independence-movement.md) — The independence-and-collaboration divide against which Park's colonial-era military service is debated.
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The developmental-state technology strategy Park pioneered — targeted industrial selection, state research institutes, and the chaebol partnership — that still shapes Korean policy.
 - [Banking and Finance Sector](../economy/banking-and-finance.md) — The state-controlled directed-credit banking system Park built to finance industrialization.
+- [Park Geun-hye](park-geun-hye.md) — His daughter and South Korea's 18th president, whose rise and fall extended his political legacy.
+- [Military and Defense Policy](../government-politics/military-defense-policy.md) — The military-developmental state, the Yulgok modernization drive, and the defense-industrial base Park established.
+- [Energy and Resources Policy](../economy/energy-resources-policy.md) — The nuclear-energy program and heavy-industry strategy launched under his rule.
 <!-- END GENERATED: related -->

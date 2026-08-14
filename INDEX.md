@@ -37,6 +37,7 @@ Index: [government-politics/](government-politics/index.md)
 - [Government Structure of South Korea](government-politics/government-structure.md)
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](government-politics/north-korea-relations.md)
 - [Technology and Innovation Policy in South Korea](government-politics/technology-innovation-policy.md)
+- [Military and Defense Policy](government-politics/military-defense-policy.md)
 
 ## Economy
 
@@ -47,6 +48,7 @@ Index: [economy/](economy/index.md)
 - [Technology Sector and ICT Innovation](economy/technology-sector.md)
 - [Automotive Industry](economy/automotive-industry.md)
 - [Banking and Finance Sector](economy/banking-and-finance.md)
+- [Energy and Resources Policy](economy/energy-resources-policy.md)
 
 ## Culture & Society
 
@@ -68,6 +70,7 @@ Index: [people/](people/index.md)
 - [Kim Dae-jung](people/kim-dae-jung.md)
 - [Roh Moo-hyun](people/roh-moo-hyun.md)
 - [Lee Myung-bak](people/lee-myung-bak.md)
+- [Park Geun-hye](people/park-geun-hye.md)
 - [Moon Jae-in](people/moon-jae-in.md)
 - [Bang Si-hyuk](people/bang-si-hyuk.md)
 - [Yoon Suk-yeol](people/yoon-suk-yeol.md)

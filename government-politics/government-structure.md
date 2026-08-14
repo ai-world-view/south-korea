@@ -219,4 +219,6 @@ The **National Security Law** (국가보안법), inherited from the authoritaria
 - **[Japanese Colonial Period](../history/japanese-colonial-period.md)** — The colonial authoritarian rule against which the republic's later democratic institutions were defined.
 - **[Yoon Suk-yeol](../people/yoon-suk-yeol.md)** — The president whose December 2024 martial-law declaration and 2025 removal tested every safeguard in this constitutional framework.
 - **[Technology and Innovation Policy in South Korea](technology-innovation-policy.md)** — The developmental-state technology strategy executed through the ministries, development banks, and industrial policy this framework enables.
+- **[Park Geun-hye](../people/park-geun-hye.md)** — The president whose 2016–2017 impeachment and unanimous Constitutional Court removal set the precedent later applied to Yoon.
+- **[Military and Defense Policy](military-defense-policy.md)** — The armed forces, the U.S. alliance, and the constitutional subordination of the military to civilian command.
 

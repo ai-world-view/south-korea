@@ -195,4 +195,5 @@ Korean semiconductor companies (Samsung, SK Hynix) are developing automotive-gra
 - [Park Chung-hee](../people/park-chung-hee.md) — The 1960s–1970s developmental dictatorship whose infant-industry protection and heavy-industry drive launched Korean automaking.
 - [Democratization of South Korea](../history/democratization.md) — The 1987 labor upsurge and Great Workers' Struggle that reshaped industrial relations in the auto plants.
 - [Banking and Finance Sector](banking-and-finance.md) — The debt-financed chaebol expansion and 1997–1998 restructuring that reshaped the car industry.
+- [Energy and Resources Policy](energy-resources-policy.md) — The EV transition, battery supply chains, and hydrogen strategy shared with the energy sector.
 <!-- END GENERATED: related -->

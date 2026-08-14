@@ -109,7 +109,7 @@ His case joins Park Geun-hye (impeached 2017, convicted of corruption) and Lee M
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 - [Moon Jae-in](moon-jae-in.md) — Yoon's predecessor; target of Yoon administration investigations into corruption allegations; Yoon's prosecution-general tenure under Moon set the stage for their later confrontation.
-- Park Geun-hye — Conservative predecessor impeached and removed in 2017 and later imprisoned for corruption; pardoned by President Moon Jae-in in December 2021. Her removal set the constitutional precedent that Yoon's own impeachment would follow.
+- [Park Geun-hye](park-geun-hye.md) — Conservative predecessor impeached and removed in 2017 and later imprisoned for corruption; pardoned by President Moon Jae-in in December 2021. Her removal set the constitutional precedent that Yoon's own impeachment would follow, and Yoon prosecuted the scandal that toppled her.
 - [Lee Myung-bak](lee-myung-bak.md) — Conservative president convicted of corruption; also pardoned by Yoon in 2022.
 - [Park Chung-hee](park-chung-hee.md) — Historical reference point for martial law in South Korea; his 1972 Yushin Constitution suspended the National Assembly in ways that echoed in commentary on Yoon's December 2024 declaration.
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The constitutional framework that defined both Yoon's powers and the limits he violated, including Articles 77 (martial law), 65 (impeachment), and the Constitutional Court's role.
@@ -117,4 +117,6 @@ His case joins Park Geun-hye (impeached 2017, convicted of corruption) and Lee M
 - [Democratization](../history/democratization.md) — The 1987 democratic transition whose norms Yoon's martial-law declaration invoked—and violated.
 - [Technology and Innovation Policy](../government-politics/technology-innovation-policy.md) — The K-Semiconductor Strategy, AI investment, and US–Japan chip supply chain alignment that Yoon's administration advanced.
 - [Roh Moo-hyun](roh-moo-hyun.md) — Progressive president (2003–2008) whose post-presidential prosecution foreshadowed the later cycle of investigating former leaders that Yoon extended.
+- [Military and Defense Policy](../government-politics/military-defense-policy.md) — The Freedom Shield exercises, the Camp David framework, and the Washington Declaration that Yoon advanced.
+- [Energy and Resources Policy](../economy/energy-resources-policy.md) — Yoon's nuclear restart and the K-Energy Mix framework.
 <!-- END GENERATED: related -->

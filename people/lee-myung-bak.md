@@ -142,4 +142,5 @@ Lee was the **fourth consecutive South Korean president** either to face crimina
 - [Moon Jae-in](moon-jae-in.md) — Progressive successor (once removed) who reversed Lee's hardline North Korea posture.
 - [Yoon Suk-yeol](yoon-suk-yeol.md) — As Seoul's chief prosecutor, oversaw the case that convicted Lee; as president, pardoned him in December 2022.
 - [Roh Moo-hyun](roh-moo-hyun.md) — Lee's progressive predecessor, whom Lee's incoming administration investigated after 2008.
+- [Park Geun-hye](park-geun-hye.md) — His conservative successor and 2007 GNP-primary rival, later impeached and convicted of corruption.
 <!-- END GENERATED: related -->
