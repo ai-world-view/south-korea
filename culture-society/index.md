@@ -16,4 +16,5 @@ Topics on the culture, media, social life, and everyday society of South Korea, 
 - [K-pop Industry and Global Music Market](kpop-industry.md) — The trainee-driven entertainment industry, its major companies, and its rise from a domestic sector to a globally dominant cultural and economic force.
 - [Sports and the Olympic Games](sports-and-olympics.md) — South Korea's rise as an Olympic, football, golf, and esports power, and the use of athletic success as national soft power alongside the Korean Wave.
 - [Film and Cinema Industry](film-cinema-industry.md) — The Korean film industry from colonial-era "Arirang" to Bong Joon-ho's "Parasite" and the streaming era, and its emergence as a global cultural export.
+- [Architecture and Urban Design in South Korea](architecture-urban-design.md) — Korean architecture and city-building from the hanok tradition through developmental-state apartment complexes to contemporary landmarks and smart cities.
 <!-- END GENERATED: category-index -->

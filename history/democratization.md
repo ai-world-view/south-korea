@@ -180,4 +180,5 @@ The democratization was neither inevitable nor irreversible — it emerged from 
 - **[Korean Liberation and Founding, 1945–1948](./liberation-and-founding.md)** — The Rhee-era authoritarian state and National Security Law whose long undoing the democratization movement completed.
 - **[Roh Moo-hyun](../people/roh-moo-hyun.md)** — Human-rights lawyer of the 1980s democracy struggle who rose to the presidency (2003–2008).
 - **[Military and Defense Policy](../government-politics/military-defense-policy.md)** — The Gwangju Uprising, the Hanahoe purge, and the consolidation of civilian control over the armed forces.
+- **[Labor and Employment Policy in South Korea](../economy/labor-employment-policy.md)** — The Great Workers' Struggle of 1987 and the independent unionism unleashed by the democratic transition.
 

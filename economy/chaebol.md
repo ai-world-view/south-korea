@@ -243,4 +243,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Park Geun-hye](../people/park-geun-hye.md) — The 2016–2017 scandal in which Samsung, Lotte, and Hyundai were coerced into foundation donations.
 - [Energy and Resources Policy](energy-resources-policy.md) — Hanwha, Samsung SDI, and LG Energy Solution as renewable-energy and battery conglomerates.
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — Samsung, Hanwha, and Hyundai Rotem as major defense contractors.
+- [Labor and Employment Policy in South Korea](labor-employment-policy.md) — Labor–management relations, union density, and employment practices in the chaebol.
 <!-- END GENERATED: related -->

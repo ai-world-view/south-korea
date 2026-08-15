@@ -50,7 +50,9 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1446 | Sejong promulgates the Hangul alphabet in the Hunminjeongeum | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1592 | Toyotomi Hideyoshi invades Korea, beginning the Imjin War | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1597 | Admiral Yi Sun-sin destroys the Japanese fleet at Myeongnyang | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1601 | Daegu becomes the seat of the Gyeongsang provincial government | History | [Daegu](geography/daegu.md) |
 | 1637 | King Injo surrenders to the Qing at Samjeondo after the Byeongja Horan | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1658 | Daegu's Yangnyeong herbal-medicine market is established by royal decree | Culture & Society | [Daegu](geography/daegu.md) |
 | 1784 | Yi Seung-hun is baptized in Beijing, founding Korea's Catholic community | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1801 | The Sinyu Persecution executes hundreds of Korean Catholics | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1866 | The Byeongin Persecution kills thousands of Catholics; a French expedition is repulsed at Ganghwa | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
@@ -77,6 +79,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1920-10 | Battle of Qingshanli: Korean forces defeat the Japanese in Manchuria | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1924-01-06 | Kim Dae-jung born on Hauido, South Jeolla Province | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1926 | Na Woon-gyu's silent film "Arirang" becomes an early nationalist landmark | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
+| 1926 | The Japanese Government-General Building is completed in front of Gyeongbokgung Palace | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 1932-04-29 | Yun Bong-gil bombs a Japanese ceremony at Shanghai's Hongkou Park | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1938 | Lee Byung-chul founds Samsung as a trading company | Economy | [Chaebol](economy/chaebol.md) |
 | 1940-02 | Sōshi-kaimei policy pressures Koreans to adopt Japanese-style names | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -104,6 +107,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1951-03-14 | Seoul retaken by UN forces for the final time | History | [Korean War](history/korean-war.md) |
 | 1952-02-02 | Park Geun-hye, later South Korea's first female president, is born in Daegu | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 1952-05-07 | Communist POWs seize Geoje Island camp commandant Gen. Francis Dodd | History | [Korean War](history/korean-war.md) |
+| 1953 | The Labor Standards Act is enacted, setting basic worker protections long left unenforced | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1953-01-24 | Moon Jae-in is born on Geoje Island to refugee parents from the North | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
@@ -119,6 +123,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
+| 1970-11-13 | Garment worker Jeon Tae-il self-immolates, demanding enforcement of the Labor Standards Act | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1972 | The August 3 Emergency Decree freezes the informal curb-loan market | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
@@ -140,6 +145,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1979-12-12 | Chun Doo-hwan seizes military control in the December 12 coup | History | [Democratization](history/democratization.md) |
 | 1980-05-18 | Gwangju Uprising begins; paratroopers suppress pro-democracy protests | History | [Democratization](history/democratization.md) |
 | 1980-09-17 | A military tribunal sentences Kim Dae-jung to death after the Gwangju Uprising | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1981-07-01 | Daegu is separated from North Gyeongsang Province as a Directly Governed City | Geography | [Daegu](geography/daegu.md) |
 | 1982 | The Korea Baseball Organization (KBO) is founded with six teams | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1983 | Hyundai Electronics, later SK Hynix, is founded | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1983 | The Korea Gas Corporation (KOGAS) is established to import and distribute LNG | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
@@ -151,6 +157,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1987-04-13 | Chun Doo-hwan rejects direct elections in the "April 13 measure" | History | [Democratization](history/democratization.md) |
 | 1987-06-10 | June Democratic Struggle erupts in nationwide mass protests | History | [Democratization](history/democratization.md) |
 | 1987-06-29 | Roh Tae-woo's June 29 Declaration accepts direct presidential elections | History | [Democratization](history/democratization.md) |
+| 1987-07 | The Great Workers' Struggle brings a wave of mass strikes across Korean industry | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1987-12-16 | Roh Tae-woo wins the first direct presidential election in 16 years | History | [Democratization](history/democratization.md) |
 | 1988 | Roh Moo-hyun wins a Busan seat and gains fame in the Fifth Republic hearings | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 1988-02-25 | Roh Tae-woo inaugurated, opening the Sixth Republic | History | [Democratization](history/democratization.md) |
@@ -160,12 +167,16 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
+| 1995 | Daegu is redesignated a Metropolitan City | Geography | [Daegu](geography/daegu.md) |
+| 1995 | The colonial Government-General Building is demolished on the 50th anniversary of liberation | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
+| 1995-11-11 | The Korean Confederation of Trade Unions (KCTU) is founded as an independent labor federation | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1996 | H.O.T. debuts as the first fully managed K-pop idol group | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 1996-10 | Busan International Film Festival, Asia's first major film festival, is inaugurated | Culture & Society | [Busan](geography/busan.md) |
 | 1997-11 | Foreign banks refuse to roll over Korea's short-term debt, forcing an IMF rescue request | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
 | 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1998 | Se Ri Pak wins the U.S. Women's Open, inspiring the "Se Ri Kids" golf generation | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 1998-01 | The Tripartite Commission is established to negotiate IMF-era labor reforms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1998-02-25 | Kim Dae-jung inaugurated as the 15th president amid the IMF crisis | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1998-04 | Park Geun-hye enters the National Assembly, winning a by-election in Daegu | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 1998-11-18 | Mount Kumgang tourism from the South begins under Hyundai | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
@@ -184,8 +195,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2002-12-19 | Roh Moo-hyun wins the presidential election with 48.9% of the vote | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2003 | The credit-card bubble bursts, leaving millions of Koreans delinquent | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2003 | Construction begins on Incheon's Songdo International Business District on reclaimed tidal flats | Geography | [Incheon](geography/incheon.md) |
+| 2003-02-18 | An arson fire at Daegu's Jungang-ro subway station kills 192 people | History | [Daegu](geography/daegu.md) |
 | 2003-02-25 | Roh Moo-hyun is inaugurated as the 16th president | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2003-10-31 | President Roh Moo-hyun apologizes for the state's role in the Jeju April 3 Incident | History | [Jeju Island](geography/jeju-island.md) |
+| 2004 | The Employment Permit System opens legal channels for migrant workers | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
+| 2004 | The Leeum Museum of Art opens in Seoul with buildings by Botta, Nouvel, and Koolhaas | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2004-03-12 | The National Assembly impeaches President Roh Moo-hyun | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
@@ -211,6 +225,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
+| 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
 | 2012 | SK Group acquires Hynix Semiconductor, forming SK Hynix | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
@@ -221,6 +236,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 2014-03-21 | Zaha Hadid's Dongdaemun Design Plaza opens in Seoul | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2014-04-16 | The MV Sewol ferry sinks, killing 304 and devastating Park Geun-hye's presidency | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2014-09-19 | Incheon hosts the 17th Asian Games | Geography | [Incheon](geography/incheon.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
@@ -235,9 +251,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2017-03-31 | Park Geun-hye is arrested on bribery and abuse-of-power charges | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2017-04-03 | Lotte World Tower opens in Seoul as South Korea's tallest building | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2017-05-09 | Moon Jae-in is elected president after Park Geun-hye's impeachment | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2017-06 | Moon Jae-in announces a nuclear phase-out policy, halting new reactor approvals | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2017-09-03 | North Korea conducts its sixth and largest nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2018 | The 52-hour maximum workweek is enacted, phased in from the largest firms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 2018-02-09 | PyeongChang Winter Olympics open; the two Koreas march under a unified flag | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2018-03-22 | Former president Lee Myung-bak arrested on bribery and embezzlement charges | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2018-04 | Park Geun-hye is convicted and sentenced to 24 years in prison (later finalized at 20) | People | [Park Geun-hye](people/park-geun-hye.md) |
@@ -250,6 +268,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2019-04-11 | The Constitutional Court rules the ban on abortion unconstitutional | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2019-05 | Bong Joon-ho's "Parasite" wins the Palme d'Or at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2019-07 | Moon Jae-in appoints Yoon Suk-yeol prosecutor-general | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2020 | Samsung Electronics workers form the company's first labor union, ending its no-union tradition | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2020-02-18 | A COVID-19 cluster at Daegu's Shincheonji Church triggers Korea's "K-quarantine" response | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |

@@ -16,6 +16,7 @@ Index: [geography/](geography/index.md)
 - [Busan](geography/busan.md)
 - [Jeju Island](geography/jeju-island.md)
 - [Incheon](geography/incheon.md)
+- [Daegu](geography/daegu.md)
 
 ## History
 
@@ -49,6 +50,7 @@ Index: [economy/](economy/index.md)
 - [Automotive Industry](economy/automotive-industry.md)
 - [Banking and Finance Sector](economy/banking-and-finance.md)
 - [Energy and Resources Policy](economy/energy-resources-policy.md)
+- [Labor and Employment Policy in South Korea](economy/labor-employment-policy.md)
 
 ## Culture & Society
 
@@ -61,6 +63,7 @@ Index: [culture-society/](culture-society/index.md)
 - [K-pop Industry and Global Music Market](culture-society/kpop-industry.md)
 - [Sports and the Olympic Games](culture-society/sports-and-olympics.md)
 - [Film and Cinema Industry](culture-society/film-cinema-industry.md)
+- [Architecture and Urban Design in South Korea](culture-society/architecture-urban-design.md)
 
 ## People
 

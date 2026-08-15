@@ -149,5 +149,6 @@ Central neighborhoods built during the rapid-growth decades face aging infrastru
 - [Three Kingdoms Period](../history/three-kingdoms-period.md) — Silla, based in the nearby Gyeongju basin, whose maritime trade with Japan passed through the southeastern coast
 - [Film and Cinema Industry](../culture-society/film-cinema-industry.md) — The Busan International Film Festival (BIFF), Asia's leading film festival, held in the city each October
 - [Incheon](incheon.md) — South Korea's third city and western gateway port, a northern counterpart to Busan's southern maritime role
+- [Daegu](daegu.md) — The inland metropolis of the southeastern Yeongnam region, a counterpart to Busan's coastal role
 <!-- END GENERATED: related -->
 

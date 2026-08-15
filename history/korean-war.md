@@ -191,4 +191,5 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 - [Incheon](../geography/incheon.md) — The port city where MacArthur's September 1950 amphibious landing reversed the war.
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The armistice, the U.S. alliance, and the deterrence posture the unfinished war bequeathed.
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — The post-war reconstruction energy deficit and the U.S.-aligned supply strategy.
+- [Daegu](../geography/daegu.md) — The city inside the Pusan Perimeter that served as a wartime rear base and staging area.
 <!-- END GENERATED: related -->

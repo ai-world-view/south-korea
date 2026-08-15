@@ -122,4 +122,5 @@ In recent decades, Incheon has invested in cultural infrastructure:
 - [Roh Moo-hyun](../people/roh-moo-hyun.md) — South Korean president (2003–2008) who governed during the Songdo construction and Ara Waterway planning periods
 - [Technology Sector and ICT Innovation](../economy/technology-sector.md) — Songdo's role in the smart-city vision and digital economy
 - [Chaebol](../economy/chaebol.md) — conglomerates whose petrochemical and heavy-industry operations have a presence in Incheon
+- [Architecture and Urban Design in South Korea](../culture-society/architecture-urban-design.md) — the Songdo smart-city district and the design of Incheon International Airport
 <!-- END GENERATED: related -->

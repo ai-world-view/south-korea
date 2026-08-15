@@ -196,4 +196,5 @@ Korean semiconductor companies (Samsung, SK Hynix) are developing automotive-gra
 - [Democratization of South Korea](../history/democratization.md) — The 1987 labor upsurge and Great Workers' Struggle that reshaped industrial relations in the auto plants.
 - [Banking and Finance Sector](banking-and-finance.md) — The debt-financed chaebol expansion and 1997–1998 restructuring that reshaped the car industry.
 - [Energy and Resources Policy](energy-resources-policy.md) — The EV transition, battery supply chains, and hydrogen strategy shared with the energy sector.
+- [Labor and Employment Policy in South Korea](labor-employment-policy.md) — The Hyundai Motor union and the auto sector as a center of Korean labor conflict.
 <!-- END GENERATED: related -->
