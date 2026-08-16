@@ -14,4 +14,5 @@ Topics on the land, regions, cities, and physical setting of South Korea.
 - [Jeju Island](jeju-island.md) — South Korea's largest island and a volcanic UNESCO-listed tourism hub; home of the haenyeo divers and site of the April 3 Incident.
 - [Incheon](incheon.md) — South Korea's third-largest city and principal international gateway; home of Incheon International Airport, the Port of Incheon, and the Songdo smart-city district.
 - [Daegu](daegu.md) — South Korea's fourth-largest city and the economic and cultural hub of the southeastern interior; a historic textile center and the conservative "TK" heartland.
+- [Gyeonggi Province](gyeonggi-province.md) — South Korea's most populous province, the industrial and residential ring surrounding Seoul; home to the country's largest regional economy, major chip fabs, the Pangyo tech cluster, and the DMZ frontier.
 <!-- END GENERATED: category-index -->

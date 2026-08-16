@@ -119,4 +119,5 @@ South Korea's semiconductor success since the 1980s — from latecomer to global
 - [Banking and Finance Sector](banking-and-finance.md) — The KDB-led policy financing that funded the capital-intensive early chip industry.
 - [Energy and Resources Policy](energy-resources-policy.md) — The reliable baseload power on which energy-intensive fabs depend.
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — Chip export controls and the defense-industrial supply chain.
+- [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — The specialty chemicals (photoresists, CMP slurries, process gases) that chip fabrication depends on.
 <!-- END GENERATED: related -->

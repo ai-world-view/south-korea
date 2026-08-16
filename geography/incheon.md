@@ -123,4 +123,5 @@ In recent decades, Incheon has invested in cultural infrastructure:
 - [Technology Sector and ICT Innovation](../economy/technology-sector.md) — Songdo's role in the smart-city vision and digital economy
 - [Chaebol](../economy/chaebol.md) — conglomerates whose petrochemical and heavy-industry operations have a presence in Incheon
 - [Architecture and Urban Design in South Korea](../culture-society/architecture-urban-design.md) — the Songdo smart-city district and the design of Incheon International Airport
+- [Gyeonggi Province](gyeonggi-province.md) — the surrounding province with which Incheon forms the western capital region
 <!-- END GENERATED: related -->

@@ -47,6 +47,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1395 | Gyeongbokgung Palace and Jongmyo Shrine completed in Hanyang | Geography | [Seoul](geography/seoul.md) |
 | 1398 | The First Strife of Princes; Jeong Do-jeon, architect of Joseon's institutions, is killed | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1418 | Sejong the Great accedes to the Joseon throne | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1443 | Sejong and Hall of Worthies scholars complete the Hunminjeongeum alphabet | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1446 | Sejong promulgates the Hangul alphabet in the Hunminjeongeum | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1592 | Toyotomi Hideyoshi invades Korea, beginning the Imjin War | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1597 | Admiral Yi Sun-sin destroys the Japanese fleet at Myeongnyang | History | [Joseon Dynasty](history/joseon-dynasty.md) |
@@ -54,6 +55,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1637 | King Injo surrenders to the Qing at Samjeondo after the Byeongja Horan | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1658 | Daegu's Yangnyeong herbal-medicine market is established by royal decree | Culture & Society | [Daegu](geography/daegu.md) |
 | 1784 | Yi Seung-hun is baptized in Beijing, founding Korea's Catholic community | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 1794 | Construction begins on Hwaseong Fortress in Suwon under King Jeongjo | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
+| 1796 | Hwaseong Fortress is completed, a landmark of Joseon military architecture | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1801 | The Sinyu Persecution executes hundreds of Korean Catholics | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1866 | The Byeongin Persecution kills thousands of Catholics; a French expedition is repulsed at Ganghwa | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -81,10 +84,12 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1926 | Na Woon-gyu's silent film "Arirang" becomes an early nationalist landmark | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1926 | The Japanese Government-General Building is completed in front of Gyeongbokgung Palace | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 1932-04-29 | Yun Bong-gil bombs a Japanese ceremony at Shanghai's Hongkou Park | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1933 | The Korean Language Society issues the Unified Hangul Orthography, the basis of modern spelling | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1938 | Lee Byung-chul founds Samsung as a trading company | Economy | [Chaebol](economy/chaebol.md) |
 | 1940-02 | Sōshi-kaimei policy pressures Koreans to adopt Japanese-style names | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1940-09-17 | The Korean Liberation Army is founded in Chongqing | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1941-12-19 | Lee Myung-bak born to a Korean family in Osaka, Japan | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 1942 | The Korean Language Society Incident: colonial authorities arrest and torture Hangul scholars | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1945-08-15 | Liberation from Japan; the peninsula is divided at the 38th parallel | History | [Korean War](history/korean-war.md) |
 | 1945-09-08 | U.S. forces land at Incheon and establish the military government (USMGIK) in the south | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1945-12 | The Moscow Conference proposes a multinational trusteeship over Korea, igniting mass protest | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
@@ -120,12 +125,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 1967 | The Yeosu National Industrial Complex is established on the south coast | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1970-11-13 | Garment worker Jeon Tae-il self-immolates, demanding enforcement of the Labor Standards Act | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1972 | South Korea's first naphtha cracker starts up at the Ulsan Petrochemical Complex | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 1972 | The August 3 Emergency Decree freezes the informal curb-loan market | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1972-08-09 | Bang Si-hyuk, founder of HYBE, is born in Seoul | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 1972-10-17 | Park declares martial law, ushering in the authoritarian Yushin system | People | [Park Chung-hee](people/park-chung-hee.md) |
@@ -163,6 +170,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1988-02-25 | Roh Tae-woo inaugurated, opening the Sixth Republic | History | [Democratization](history/democratization.md) |
 | 1988-09-17 | Seoul hosts the Summer Olympic Games | Geography | [Seoul](geography/seoul.md) |
 | 1988-09-17 | South Korea finishes fourth in the medal table at the Seoul Olympics it hosts | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 1989 | The First Generation New Towns of Bundang and Ilsan are launched around Seoul | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
@@ -172,6 +180,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1995-11-11 | The Korean Confederation of Trade Unions (KCTU) is founded as an independent labor federation | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1996 | H.O.T. debuts as the first fully managed K-pop idol group | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 1996-10 | Busan International Film Festival, Asia's first major film festival, is inaugurated | Culture & Society | [Busan](geography/busan.md) |
+| 1997 | Hwaseong Fortress in Suwon is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
+| 1997 | The Hunminjeongeum Haerye is inscribed on UNESCO's Memory of the World register | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1997-11 | Foreign banks refuse to roll over Korea's short-term debt, forcing an IMF rescue request | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
 | 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
@@ -226,6 +236,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
+| 2012 | Honam Petrochemical is renamed Lotte Chemical | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
+| 2012 | Pangyo Techno Valley opens in Seongnam as South Korea's densest technology cluster | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 2012 | SK Group acquires Hynix Semiconductor, forming SK Hynix | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
@@ -235,6 +247,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013-02-25 | Park Geun-hye is inaugurated as the 18th president | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
+| 2014 | Namhansanseong mountain fortress is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 2014-03-21 | Zaha Hadid's Dongdaemun Design Plaza opens in Seoul | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2014-04-16 | The MV Sewol ferry sinks, killing 304 and devastating Park Geun-hye's presidency | People | [Park Geun-hye](people/park-geun-hye.md) |
@@ -282,6 +295,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-05 | The government announces the K-Semiconductor Strategy | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2021-12-24 | President Moon Jae-in pardons Park Geun-hye, who is released after nearly five years | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2022 | S-Oil announces the ₩9.25 trillion Shaheen crude-to-chemicals project at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2022 | The Terra/Luna cryptocurrency collapse wipes out roughly $40 billion and spurs Korean regulation | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2022-01 | LG Energy Solution's record $10.8 billion IPO becomes Korea's largest | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
@@ -295,6 +309,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2022-10-29 | The Itaewon Halloween crowd crush kills 159 people in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2023 | Ground-breaking begins on the S-Oil Shaheen petrochemical complex at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2023-03 | Yoon's government announces a third-party fund for wartime forced-labor victims, unfreezing ties with Japan | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-04 | The Washington Declaration establishes a U.S.–South Korea Nuclear Consultative Group | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2023-04 | BLACKPINK becomes the first Asian act to headline Coachella | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |

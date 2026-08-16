@@ -17,4 +17,5 @@ Topics on the culture, media, social life, and everyday society of South Korea, 
 - [Sports and the Olympic Games](sports-and-olympics.md) — South Korea's rise as an Olympic, football, golf, and esports power, and the use of athletic success as national soft power alongside the Korean Wave.
 - [Film and Cinema Industry](film-cinema-industry.md) — The Korean film industry from colonial-era "Arirang" to Bong Joon-ho's "Parasite" and the streaming era, and its emergence as a global cultural export.
 - [Architecture and Urban Design in South Korea](architecture-urban-design.md) — Korean architecture and city-building from the hanok tradition through developmental-state apartment complexes to contemporary landmarks and smart cities.
+- [Hangul and the Korean Alphabet](hangul.md) — The featural alphabet created under King Sejong in the 1440s, its scientific design and syllable-block structure, its colonial-era preservation, and its role as a symbol of Korean identity and literacy.
 <!-- END GENERATED: category-index -->

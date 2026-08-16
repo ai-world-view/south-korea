@@ -132,4 +132,5 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Joseon Dynasty](../history/joseon-dynasty.md) — The dynasty that made Hanyang (Seoul) its capital in 1394 and built Gyeongbokgung and the city walls.
 - [Incheon](incheon.md) — The capital region's gateway port and airport city, 30 km to the west and linked to Seoul by rail and expressway.
 - [Architecture and Urban Design in South Korea](../culture-society/architecture-urban-design.md) — Seoul's skyline transformation, apartment urbanism, and landmark buildings from Gyeongbokgung to Lotte World Tower.
+- [Gyeonggi Province](../geography/gyeonggi-province.md) — The industrial and residential ring surrounding Seoul, forming the greater capital region.
 <!-- END GENERATED: related -->

@@ -17,6 +17,7 @@ Index: [geography/](geography/index.md)
 - [Jeju Island](geography/jeju-island.md)
 - [Incheon](geography/incheon.md)
 - [Daegu](geography/daegu.md)
+- [Gyeonggi Province](geography/gyeonggi-province.md)
 
 ## History
 
@@ -51,6 +52,7 @@ Index: [economy/](economy/index.md)
 - [Banking and Finance Sector](economy/banking-and-finance.md)
 - [Energy and Resources Policy](economy/energy-resources-policy.md)
 - [Labor and Employment Policy in South Korea](economy/labor-employment-policy.md)
+- [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md)
 
 ## Culture & Society
 
@@ -64,6 +66,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Sports and the Olympic Games](culture-society/sports-and-olympics.md)
 - [Film and Cinema Industry](culture-society/film-cinema-industry.md)
 - [Architecture and Urban Design in South Korea](culture-society/architecture-urban-design.md)
+- [Hangul and the Korean Alphabet](culture-society/hangul.md)
 
 ## People
 

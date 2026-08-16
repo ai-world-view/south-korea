@@ -86,6 +86,7 @@ The sector also reflects broader economic tradeoffs among industrial consumers (
 - [Park Chung-hee](../people/park-chung-hee.md) — Initiated the nuclear-energy program and heavy-industry-led development
 - [Moon Jae-in](../people/moon-jae-in.md) — Nuclear phase-out policy and the Renewable Energy 3020 plan
 - [Yoon Suk-yeol](../people/yoon-suk-yeol.md) — Nuclear restart and the K-Energy Mix framework
+- [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — Crude-oil imports and refining integration feeding the energy-intensive chemical sector
 <!-- END GENERATED: related -->
 
 ## Sources

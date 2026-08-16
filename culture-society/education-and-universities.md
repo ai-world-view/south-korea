@@ -118,6 +118,7 @@ South Korea's education system exemplifies both the power and costs of intensive
 - [Three Kingdoms Period](../history/three-kingdoms-period.md) — Goguryeo's Taehak academy and Silla's Buddhist learning centers as distant roots of Korea's institutionalized education.
 - [Technology Sector and ICT Innovation](../economy/technology-sector.md) — KAIST, POSTECH, and the STEM pipeline that feed South Korea's technology industries.
 - [Goryeo Period](../history/goryeo-period.md) — The gwageo civil-service examination (from 958) and the Seonggyungwan academy, which rooted Korea's examination-based education culture.
+- [Hangul and the Korean Alphabet](hangul.md) — The alphabet whose learnability underpins South Korea's near-universal literacy.
 <!-- END GENERATED: related -->
 
 ## Sources

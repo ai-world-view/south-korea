@@ -253,4 +253,5 @@ However, Hallyu's success model — heavy corporate control, manufactured aesthe
 - [Bang Si-hyuk](../people/bang-si-hyuk.md) — The HYBE founder behind BTS, a driving force of Hallyu's global breakthrough.
 - [Film and Cinema Industry](film-cinema-industry.md) — Korean cinema, from "Parasite" to the streaming boom, a flagship pillar of the Korean Wave.
 - [Architecture and Urban Design in South Korea](architecture-urban-design.md) — Architecture and urban design as components of Korean cultural soft power.
+- [Hangul and the Korean Alphabet](hangul.md) — The script whose global learners have grown alongside the Korean Wave.
 <!-- END GENERATED: related -->

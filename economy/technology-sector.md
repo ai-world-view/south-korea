@@ -184,4 +184,5 @@ Looking forward, South Korea's technology sector positioned itself across severa
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The developmental-state framework — R&D funding, tax incentives, the startup and venture ecosystem, and tech regulation — that steers this economy.
 - [Automotive Industry](automotive-industry.md) — EV batteries, autonomous driving, and software-defined vehicles as the technology economy's extension into mobility.
 - [Banking and Finance Sector](banking-and-finance.md) — The Kakao and Naver fintech arms and internet-only banks extending the tech sector into finance.
+- [Gyeonggi Province](../geography/gyeonggi-province.md) — The Pangyo Techno Valley, Bundang, and the Suwon–Hwaseong–Pyeongtaek fab belt where much of the sector is based.
 <!-- END GENERATED: related -->

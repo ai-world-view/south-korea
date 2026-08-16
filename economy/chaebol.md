@@ -244,4 +244,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Energy and Resources Policy](energy-resources-policy.md) — Hanwha, Samsung SDI, and LG Energy Solution as renewable-energy and battery conglomerates.
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — Samsung, Hanwha, and Hyundai Rotem as major defense contractors.
 - [Labor and Employment Policy in South Korea](labor-employment-policy.md) — Labor–management relations, union density, and employment practices in the chaebol.
+- [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — The chemical divisions of LG, SK, Lotte, Hanwha, and other chaebol.
 <!-- END GENERATED: related -->
