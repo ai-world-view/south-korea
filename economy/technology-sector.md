@@ -185,4 +185,5 @@ Looking forward, South Korea's technology sector positioned itself across severa
 - [Automotive Industry](automotive-industry.md) — EV batteries, autonomous driving, and software-defined vehicles as the technology economy's extension into mobility.
 - [Banking and Finance Sector](banking-and-finance.md) — The Kakao and Naver fintech arms and internet-only banks extending the tech sector into finance.
 - [Gyeonggi Province](../geography/gyeonggi-province.md) — The Pangyo Techno Valley, Bundang, and the Suwon–Hwaseong–Pyeongtaek fab belt where much of the sector is based.
+- [Webtoons and Digital Comics](../culture-society/webtoons.md) — The Naver- and Kakao-led webtoon platforms as a flagship digital-content export of the technology economy.
 <!-- END GENERATED: related -->

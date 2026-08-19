@@ -131,6 +131,7 @@ Joseon's legacy is visible in contemporary Korean culture: in the Confucian reve
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — modern legacy of Joseon's examination culture.
 - [Seoul](../geography/seoul.md) — Hanyang, which Taejo made Joseon's capital in 1394.
 - [Hangul and the Korean Alphabet](../culture-society/hangul.md) — the script King Sejong created and promulgated in 1443–1446.
+- [Yi Sun-sin](../people/yi-sun-sin.md) — the admiral whose naval victories in the Imjin War defended Joseon against Hideyoshi's invasions.
 <!-- END GENERATED: related -->
 
 ## Sources

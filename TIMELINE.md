@@ -49,8 +49,15 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1418 | Sejong the Great accedes to the Joseon throne | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1443 | Sejong and Hall of Worthies scholars complete the Hunminjeongeum alphabet | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1446 | Sejong promulgates the Hangul alphabet in the Hunminjeongeum | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1545 | Yi Sun-sin, later Korea's foremost naval hero, is born in Hanseong (Seoul) | People | [Yi Sun-sin](people/yi-sun-sin.md) |
+| 1576 | Yi Sun-sin passes the military branch of the *gwageo* examination | People | [Yi Sun-sin](people/yi-sun-sin.md) |
+| 1591 | Yi Sun-sin is appointed Left Naval Commander of Jeolla Province | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1592 | Toyotomi Hideyoshi invades Korea, beginning the Imjin War | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1592 | Yi Sun-sin wins his first naval battle at Okpo and soon deploys the *geobukseon* turtle ship at Sacheon | People | [Yi Sun-sin](people/yi-sun-sin.md) |
+| 1592 | Yi Sun-sin annihilates a Japanese fleet with the crane-wing formation at Hansando | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1597 | Admiral Yi Sun-sin destroys the Japanese fleet at Myeongnyang | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1597 | Restored to command with only 13 warships, Yi Sun-sin routs a far larger fleet at Myeongnyang | People | [Yi Sun-sin](people/yi-sun-sin.md) |
+| 1598 | Yi Sun-sin is killed in victory at the Battle of Noryang as the Imjin War ends | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1601 | Daegu becomes the seat of the Gyeongsang provincial government | History | [Daegu](geography/daegu.md) |
 | 1637 | King Injo surrenders to the Qing at Samjeondo after the Byeongja Horan | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1658 | Daegu's Yangnyeong herbal-medicine market is established by royal decree | Culture & Society | [Daegu](geography/daegu.md) |
@@ -126,6 +133,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1967 | The Yeosu National Industrial Complex is established on the south coast | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
+| 1968 | A bronze statue of Admiral Yi Sun-sin is erected at Gwanghwamun in central Seoul | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
@@ -134,9 +142,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1972 | South Korea's first naphtha cracker starts up at the Ulsan Petrochemical Complex | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 1972 | The August 3 Emergency Decree freezes the informal curb-loan market | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
+| 1972 | Hyundai breaks ground on its Ulsan shipyard, the future world's largest | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 1972-08-09 | Bang Si-hyuk, founder of HYBE, is born in Seoul | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 1972-10-17 | Park declares martial law, ushering in the authoritarian Yushin system | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
+| 1973 | Daewoo's Okpo shipyard is established on Geoje Island | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974 | The Yulgok Project launches a decade-long armed-forces modernization drive | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
@@ -208,6 +218,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2003-02-18 | An arson fire at Daegu's Jungang-ro subway station kills 192 people | History | [Daegu](geography/daegu.md) |
 | 2003-02-25 | Roh Moo-hyun is inaugurated as the 16th president | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2003-10-31 | President Roh Moo-hyun apologizes for the state's role in the Jeju April 3 Incident | History | [Jeju Island](geography/jeju-island.md) |
+| 2004 | Naver launches its webtoon platform, standardizing the vertical-scroll mobile comics format as Kang Full's viral *Apartment* marks the medium's early breakthrough | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2004 | The Employment Permit System opens legal channels for migrant workers | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 2004 | The Leeum Museum of Art opens in Seoul with buildings by Botta, Nouvel, and Koolhaas | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2004-03-12 | The National Assembly impeaches President Roh Moo-hyun | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
@@ -220,6 +231,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
 | 2006-07-01 | Jeju is designated a Special Self-Governing Province | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2006-10-09 | North Korea conducts its first nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2007 | Hanjin Heavy Industries delivers the ROKS *Dokdo* amphibious assault ship | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2007 | Jeju Volcanic Island and Lava Tubes inscribed as a UNESCO World Heritage Site | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2007-06-30 | Roh's government signs the Korea–United States Free Trade Agreement (KORUS FTA) | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2007-10-04 | Roh Moo-hyun holds the second inter-Korean summit in Pyongyang; the October 4 Declaration is issued | Government & Politics | [Roh Moo-hyun](people/roh-moo-hyun.md) |
@@ -243,6 +255,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2012-05 | The Gyeongin Ara Waterway opens, linking the Han River to the Yellow Sea at Incheon | Geography | [Incheon](geography/incheon.md) |
 | 2012-12-19 | Park Geun-hye is elected president, the first woman and first popular-vote majority since 1987 | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2013 | Lezhin Comics launches a paid-only webtoon platform for mature content | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
+| 2013 | Yi Sun-sin's War Diary (*Nanjung Ilgi*) is inscribed in UNESCO's Memory of the World register | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 2013 | Samsung commercializes the world's first 3D V-NAND flash memory | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2013-02-25 | Park Geun-hye is inaugurated as the 18th president | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
@@ -261,6 +275,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2016-11 | UNESCO inscribes Jeju's haenyeo diving culture as Intangible Cultural Heritage | Culture & Society | [Jeju Island](geography/jeju-island.md) |
 | 2016-11-12 | Candlelight protests over the Choi Soon-sil scandal draw over a million to central Seoul | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2016-12-09 | The National Assembly votes 234–56 to impeach President Park Geun-hye | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2017 | Samsung Heavy Industries delivers Shell's Prelude FLNG, the largest floating structure ever built | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2017-03-31 | Park Geun-hye is arrested on bribery and abuse-of-power charges | People | [Park Geun-hye](people/park-geun-hye.md) |
@@ -281,11 +296,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2019-04-11 | The Constitutional Court rules the ban on abortion unconstitutional | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2019-05 | Bong Joon-ho's "Parasite" wins the Palme d'Or at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2019-07 | Moon Jae-in appoints Yoon Suk-yeol prosecutor-general | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2020 | DSME delivers the 24,000-TEU HMM Algeciras, then the world's largest container ship | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2020 | Samsung Electronics workers form the company's first labor union, ending its no-union tradition | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2020-02-18 | A COVID-19 cluster at Daegu's Shincheonji Church triggers Korea's "K-quarantine" response | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2020-10-15 | Big Hit Entertainment (HYBE) lists on the Korea Exchange | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2021 | Naver acquires the web-fiction platform Wattpad as Kakao's Piccoma tops Japan's app-revenue charts | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2021 | "Squid Game" becomes a global Netflix phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2021 | Naver unveils HyperCLOVA, one of the largest non-English AI language models | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2021-02 | Yoon Suk-yeol resigns as prosecutor-general amid clashes with the Moon government | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
@@ -296,6 +313,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2021-12-24 | President Moon Jae-in pardons Park Geun-hye, who is released after nearly five years | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2022 | S-Oil announces the ₩9.25 trillion Shaheen crude-to-chemicals project at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
+| 2022 | The European Commission blocks Hyundai Heavy Industries' acquisition of DSME | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2022 | The Terra/Luna cryptocurrency collapse wipes out roughly $40 billion and spurs Korean regulation | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2022-01 | LG Energy Solution's record $10.8 billion IPO becomes Korea's largest | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
@@ -313,6 +331,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2023-03 | Yoon's government announces a third-party fund for wartime forced-labor victims, unfreezing ties with Japan | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-04 | The Washington Declaration establishes a U.S.–South Korea Nuclear Consultative Group | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2023-04 | BLACKPINK becomes the first Asian act to headline Coachella | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2023-05 | DSME is acquired by Hanwha Group and rebranded Hanwha Ocean | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2023-08-18 | The Camp David summit establishes a US–Japan–South Korea trilateral security framework | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |

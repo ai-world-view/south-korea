@@ -18,4 +18,5 @@ Topics on the culture, media, social life, and everyday society of South Korea, 
 - [Film and Cinema Industry](film-cinema-industry.md) — The Korean film industry from colonial-era "Arirang" to Bong Joon-ho's "Parasite" and the streaming era, and its emergence as a global cultural export.
 - [Architecture and Urban Design in South Korea](architecture-urban-design.md) — Korean architecture and city-building from the hanok tradition through developmental-state apartment complexes to contemporary landmarks and smart cities.
 - [Hangul and the Korean Alphabet](hangul.md) — The featural alphabet created under King Sejong in the 1440s, its scientific design and syllable-block structure, its colonial-era preservation, and its role as a symbol of Korean identity and literacy.
+- [Webtoons and Digital Comics](webtoons.md) — The mobile-first, vertical-scroll digital comics format pioneered by Naver and Kakao; a platform-driven creative industry and a fast-growing "third pillar" of Hallyu feeding drama, film, and anime adaptations worldwide.
 <!-- END GENERATED: category-index -->

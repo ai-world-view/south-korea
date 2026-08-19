@@ -53,6 +53,7 @@ Index: [economy/](economy/index.md)
 - [Energy and Resources Policy](economy/energy-resources-policy.md)
 - [Labor and Employment Policy in South Korea](economy/labor-employment-policy.md)
 - [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md)
+- [Shipbuilding Industry in South Korea](economy/shipbuilding-industry.md)
 
 ## Culture & Society
 
@@ -67,6 +68,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Film and Cinema Industry](culture-society/film-cinema-industry.md)
 - [Architecture and Urban Design in South Korea](culture-society/architecture-urban-design.md)
 - [Hangul and the Korean Alphabet](culture-society/hangul.md)
+- [Webtoons and Digital Comics](culture-society/webtoons.md)
 
 ## People
 
@@ -80,4 +82,5 @@ Index: [people/](people/index.md)
 - [Moon Jae-in](people/moon-jae-in.md)
 - [Bang Si-hyuk](people/bang-si-hyuk.md)
 - [Yoon Suk-yeol](people/yoon-suk-yeol.md)
+- [Yi Sun-sin](people/yi-sun-sin.md)
 <!-- END GENERATED: index -->

@@ -102,6 +102,8 @@ The future trajectory hinges on three uncertainties: (1) the nuclear standoff wi
 - [Park Geun-hye](../people/park-geun-hye.md) — The THAAD deployment and the Kaesong closure
 - [Yoon Suk-yeol](../people/yoon-suk-yeol.md) — Strengthened alliance posture, Freedom Shield exercises, and the Camp David Principles
 - [Moon Jae-in](../people/moon-jae-in.md) — Inter-Korean military de-escalation agreements
+- [Shipbuilding Industry in South Korea](../economy/shipbuilding-industry.md) — Domestic naval construction and the defense-industrial base behind the ROK fleet
+- [Yi Sun-sin](../people/yi-sun-sin.md) — The 16th-century admiral whose legacy anchors the Korean naval tradition and destroyer nomenclature
 <!-- END GENERATED: related -->
 
 ## Sources

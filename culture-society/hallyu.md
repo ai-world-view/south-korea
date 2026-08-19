@@ -254,4 +254,5 @@ However, Hallyu's success model — heavy corporate control, manufactured aesthe
 - [Film and Cinema Industry](film-cinema-industry.md) — Korean cinema, from "Parasite" to the streaming boom, a flagship pillar of the Korean Wave.
 - [Architecture and Urban Design in South Korea](architecture-urban-design.md) — Architecture and urban design as components of Korean cultural soft power.
 - [Hangul and the Korean Alphabet](hangul.md) — The script whose global learners have grown alongside the Korean Wave.
+- [Webtoons and Digital Comics](webtoons.md) — The mobile-first digital comics format now regarded as a "third pillar" of Hallyu and a major source of drama and film adaptations.
 <!-- END GENERATED: related -->
