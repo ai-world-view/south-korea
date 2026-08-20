@@ -40,6 +40,7 @@ Index: [government-politics/](government-politics/index.md)
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](government-politics/north-korea-relations.md)
 - [Technology and Innovation Policy in South Korea](government-politics/technology-innovation-policy.md)
 - [Military and Defense Policy](government-politics/military-defense-policy.md)
+- [Environmental Policy and Sustainability](government-politics/environmental-policy.md)
 
 ## Economy
 
@@ -69,6 +70,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Architecture and Urban Design in South Korea](culture-society/architecture-urban-design.md)
 - [Hangul and the Korean Alphabet](culture-society/hangul.md)
 - [Webtoons and Digital Comics](culture-society/webtoons.md)
+- [Gaming Industry in South Korea](culture-society/gaming-industry.md)
 
 ## People
 

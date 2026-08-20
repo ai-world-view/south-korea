@@ -185,6 +185,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
+| 1994 | Nexon is founded by Kim Jung-ju and Jake Song, pioneering online free-to-play gaming | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1995 | Daegu is redesignated a Metropolitan City | Geography | [Daegu](geography/daegu.md) |
 | 1995 | The colonial Government-General Building is demolished on the 50th anniversary of liberation | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 1995-11-11 | The Korean Confederation of Trade Unions (KCTU) is founded as an independent labor federation | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
@@ -192,13 +193,16 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1996-10 | Busan International Film Festival, Asia's first major film festival, is inaugurated | Culture & Society | [Busan](geography/busan.md) |
 | 1997 | Hwaseong Fortress in Suwon is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1997 | The Hunminjeongeum Haerye is inscribed on UNESCO's Memory of the World register | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
+| 1997-03 | NCSoft is founded by Kim Taek-jin, becoming a leading MMORPG developer | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1997-11 | Foreign banks refuse to roll over Korea's short-term debt, forcing an IMF rescue request | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
 | 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1998 | Se Ri Pak wins the U.S. Women's Open, inspiring the "Se Ri Kids" golf generation | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1998-01 | The Tripartite Commission is established to negotiate IMF-era labor reforms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1998-02-25 | Kim Dae-jung inaugurated as the 15th president amid the IMF crisis | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1998-03 | *StarCraft* launches and spreads through PC bangs, igniting Korea's professional esports scene | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1998-04 | Park Geun-hye enters the National Assembly, winning a by-election in Daegu | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 1998-09 | NCSoft's *Lineage* launches, becoming a foundational commercial MMORPG | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1998-11-18 | Mount Kumgang tourism from the South begins under Hyundai | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 1998-12 | Hyundai acquires the bankrupt Kia Motors, forming Hyundai Motor Group | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1999 | Daewoo Group collapses in the largest corporate bankruptcy of its time | Economy | [Chaebol](economy/chaebol.md) |
@@ -208,6 +212,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2000-06-15 | First inter-Korean summit; June 15 Joint Declaration signed in Pyongyang | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
+| 2002 | Smilegate is founded by Kwon Hyuk-bin, later maker of *Crossfire* and *Lost Ark* | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2002 | Gravity's *Ragnarok Online* launches, a hit across Southeast Asia | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2002 | "Winter Sonata" airs, fueling the early Korean Wave across Asia | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2002 | South Korea attains the world's highest broadband penetration rate | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2002-06 | South Korea reaches the FIFA World Cup semi-finals as co-host, an Asian best | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
@@ -217,6 +223,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2003 | Construction begins on Incheon's Songdo International Business District on reclaimed tidal flats | Geography | [Incheon](geography/incheon.md) |
 | 2003-02-18 | An arson fire at Daegu's Jungang-ro subway station kills 192 people | History | [Daegu](geography/daegu.md) |
 | 2003-02-25 | Roh Moo-hyun is inaugurated as the 16th president | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
+| 2003-04 | Nexon's *MapleStory* launches, popularizing the item-shop free-to-play model | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2003-10-31 | President Roh Moo-hyun apologizes for the state's role in the Jeju April 3 Incident | History | [Jeju Island](geography/jeju-island.md) |
 | 2004 | Naver launches its webtoon platform, standardizing the vertical-scroll mobile comics format as Kang Full's viral *Apartment* marks the medium's early breakthrough | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2004 | The Employment Permit System opens legal channels for migrant workers | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
@@ -227,10 +234,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2004-05 | Park Chan-wook's "Oldboy" wins the Grand Prix at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2005 | Bang Si-hyuk founds Big Hit Entertainment, later HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2005 | Pangyo Techno Valley development begins near Seoul as a high-tech cluster | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
+| 2005-04 | NCSoft's ArenaNet studio releases *Guild Wars*, a "buy-to-play" MMO hit in the West | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
 | 2006-07-01 | Jeju is designated a Special Self-Governing Province | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2006-10-09 | North Korea conducts its first nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2007 | Bluehole Studio, later Krafton, is founded by Jang Byung-gyu | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2007 | Smilegate's *Crossfire* launches, becoming a massive hit in China | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2007 | Hanjin Heavy Industries delivers the ROKS *Dokdo* amphibious assault ship | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2007 | Jeju Volcanic Island and Lava Tubes inscribed as a UNESCO World Heritage Site | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2007-06-30 | Roh's government signs the Korea–United States Free Trade Agreement (KORUS FTA) | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
@@ -239,15 +249,22 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2008 | Hyundai launches the Genesis luxury sedan, moving upmarket | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2008-02-25 | Lee Myung-bak inaugurated as president | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-06 | Candlelight protests over U.S. beef imports draw hundreds of thousands | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2008-08 | Lee Myung-bak unveils the "Low Carbon, Green Growth" national strategy | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2009 | The Four Major Rivers Restoration Project begins, later faulted for ecological harm | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2009-05-23 | Former president Roh Moo-hyun dies by suicide near his home in Gimhae | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2009-08-18 | Kim Dae-jung dies in Seoul at 85 | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 2009-10 | The Incheon Bridge opens, linking Songdo to Yeongjong Island and Incheon International Airport | Geography | [Incheon](geography/incheon.md) |
 | 2009-12 | A KEPCO consortium wins a $20.4 billion contract to build four reactors at Barakah in the UAE | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
+| 2010-01 | The Framework Act on Low Carbon, Green Growth is enacted | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
+| 2011-11 | The Shutdown Law ("Cinderella Law") takes effect, barring under-16 online gaming overnight | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2011-12 | Nexon lists on the Tokyo Stock Exchange in one of Japan's largest IPOs | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2012 | The Global Green Growth Institute is established with its headquarters in Seoul | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2012 | The League of Legends Champions Korea (LCK) esports league is established | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2012 | Honam Petrochemical is renamed Lotte Chemical | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2012 | Pangyo Techno Valley opens in Seongnam as South Korea's densest technology cluster | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 2012 | SK Group acquires Hynix Semiconductor, forming SK Hynix | Economy | [Semiconductors](economy/semiconductors.md) |
@@ -261,6 +278,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013-02-25 | Park Geun-hye is inaugurated as the 18th president | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
+| 2014 | South Korea hosts the CBD COP12 in Pyeongchang, adopting the Pyeongchang Road Map on biodiversity | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2014 | Namhansanseong mountain fortress is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 2014-03-21 | Zaha Hadid's Dongdaemun Design Plaza opens in Seoul | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
@@ -268,6 +286,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2014-09-19 | Incheon hosts the 17th Asian Games | Geography | [Incheon](geography/incheon.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2015 | The Gyeongju low- and intermediate-level nuclear-waste repository opens | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
+| 2015-01 | South Korea launches the K-ETS, East Asia's first nationwide carbon cap-and-trade market | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2016-07 | South Korea agrees to host a U.S. THAAD missile-defense battery at Seongju, drawing Chinese retaliation | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
@@ -277,13 +296,19 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2016-12-09 | The National Assembly votes 234–56 to impeach President Park Geun-hye | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2017 | Samsung Heavy Industries delivers Shell's Prelude FLNG, the largest floating structure ever built | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
+| 2017-03 | Krafton's *PUBG* enters Steam Early Access, igniting the global battle-royale boom | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2017-03 | China halts new game-license approvals for Korean titles amid the THAAD dispute | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2017-03-31 | Park Geun-hye is arrested on bribery and abuse-of-power charges | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2017-04-03 | Lotte World Tower opens in Seoul as South Korea's tallest building | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2017-05-09 | Moon Jae-in is elected president after Park Geun-hye's impeachment | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2017-06 | Moon Jae-in announces a nuclear phase-out policy, halting new reactor approvals | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2017-09-03 | North Korea conducts its sixth and largest nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2018 | The Overwatch League launches with Korean players dominating its first seasons | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2018 | Smilegate's *Lost Ark* launches in South Korea | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2018 | The 52-hour maximum workweek is enacted, phased in from the largest firms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
+| 2018-01 | *PUBG* peaks at 3.2 million concurrent Steam players, a long-standing record | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2018-01 | China's National Sword import ban triggers a plastic-recycling crisis in South Korea | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2018-02-09 | PyeongChang Winter Olympics open; the two Koreas march under a unified flag | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2018-03-22 | Former president Lee Myung-bak arrested on bribery and embezzlement charges | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2018-04 | Park Geun-hye is convicted and sentenced to 24 years in prison (later finalized at 20) | People | [Park Geun-hye](people/park-geun-hye.md) |
@@ -301,6 +326,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2020-02-18 | A COVID-19 cluster at Daegu's Shincheonji Church triggers Korea's "K-quarantine" response | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2020-10 | Moon Jae-in announces a 2050 carbon-neutrality goal, among Asia's first | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2020-10-15 | Big Hit Entertainment (HYBE) lists on the Korea Exchange | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2021 | Naver acquires the web-fiction platform Wattpad as Kakao's Piccoma tops Japan's app-revenue charts | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2021 | "Squid Game" becomes a global Netflix phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
@@ -311,11 +337,16 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-04 | The Barakah plant's Unit 1 in the UAE begins commercial operation, a first for a Korean-built reactor abroad | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2021-05 | The government announces the K-Semiconductor Strategy | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 2021-08 | Krafton raises about 4.3 trillion won in the year's largest Korean IPO | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2021-08 | The Carbon Neutrality and Green Growth Act enshrines the 2050 net-zero target in law | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2021-10 | South Korea submits an enhanced NDC pledging a 40% emissions cut from 2018 levels by 2030 | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2021-11 | The Shutdown Law is repealed, replaced by a voluntary parental time-choice system | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2021-12-24 | President Moon Jae-in pardons Park Geun-hye, who is released after nearly five years | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2022 | S-Oil announces the ₩9.25 trillion Shaheen crude-to-chemicals project at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2022 | The European Commission blocks Hyundai Heavy Industries' acquisition of DSME | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2022 | The Terra/Luna cryptocurrency collapse wipes out roughly $40 billion and spurs Korean regulation | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2022-01 | LG Energy Solution's record $10.8 billion IPO becomes Korea's largest | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 2022-02 | *Lost Ark* launches in the West via Amazon Games, peaking at 1.3 million concurrent Steam players | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |
 | 2022-05 | Park Chan-wook wins Best Director at Cannes for "Decision to Leave" | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
@@ -328,12 +359,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-10-29 | The Itaewon Halloween crowd crush kills 159 people in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2023 | Ground-breaking begins on the S-Oil Shaheen petrochemical complex at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
+| 2023-01 | The 10th electricity plan raises nuclear to 32.4% of the mix by 2036, reversing the phase-out | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2023-03 | Yoon's government announces a third-party fund for wartime forced-labor victims, unfreezing ties with Japan | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-04 | The Washington Declaration establishes a U.S.–South Korea Nuclear Consultative Group | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2023-04 | BLACKPINK becomes the first Asian act to headline Coachella | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2023-05 | DSME is acquired by Hanwha Group and rebranded Hanwha Ocean | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2023-08-18 | The Camp David summit establishes a US–Japan–South Korea trilateral security framework | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
+| 2024-03 | Mandatory loot-box probability disclosure takes legal effect for Korean games | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2024-04-10 | Opposition parties win a National Assembly supermajority in the legislative elections | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-06 | Webtoon Entertainment (Naver Webtoon) debuts in a U.S. IPO | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |

@@ -186,4 +186,5 @@ Looking forward, South Korea's technology sector positioned itself across severa
 - [Banking and Finance Sector](banking-and-finance.md) — The Kakao and Naver fintech arms and internet-only banks extending the tech sector into finance.
 - [Gyeonggi Province](../geography/gyeonggi-province.md) — The Pangyo Techno Valley, Bundang, and the Suwon–Hwaseong–Pyeongtaek fab belt where much of the sector is based.
 - [Webtoons and Digital Comics](../culture-society/webtoons.md) — The Naver- and Kakao-led webtoon platforms as a flagship digital-content export of the technology economy.
+- [Gaming Industry in South Korea](../culture-society/gaming-industry.md) — Online, mobile, and esports gaming as the technology economy's largest digital-content export.
 <!-- END GENERATED: related -->

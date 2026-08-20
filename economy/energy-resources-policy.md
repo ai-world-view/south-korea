@@ -87,6 +87,7 @@ The sector also reflects broader economic tradeoffs among industrial consumers (
 - [Moon Jae-in](../people/moon-jae-in.md) — Nuclear phase-out policy and the Renewable Energy 3020 plan
 - [Yoon Suk-yeol](../people/yoon-suk-yeol.md) — Nuclear restart and the K-Energy Mix framework
 - [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — Crude-oil imports and refining integration feeding the energy-intensive chemical sector
+- [Environmental Policy and Sustainability](../government-politics/environmental-policy.md) — Carbon neutrality, the K-ETS carbon market, and the climate framework shaping the energy mix
 <!-- END GENERATED: related -->
 
 ## Sources

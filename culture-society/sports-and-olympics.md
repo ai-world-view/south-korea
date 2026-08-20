@@ -134,6 +134,7 @@ The esports dimension represents a new frontier of cultural soft power. South Ko
 - [Hallyu (Korean Wave)](hallyu.md) — The Korean Wave, the broader soft-power context alongside which sporting success projects national image.
 - [K-pop Industry and Global Music Market](kpop-industry.md) — The entertainment industry whose trainee-production model parallels Korea's systematic athletic development.
 - [Education and Universities in South Korea](education-and-universities.md) — The school system and competitive culture that feed elite youth training pipelines.
+- [Gaming Industry in South Korea](gaming-industry.md) — The game industry underpinning Korea's professional esports scene and its progamer culture.
 - [Chaebol (Korean Conglomerates)](../economy/chaebol.md) — The conglomerates that sponsor Olympic, professional, and esports teams.
 - [South Korea–North Korea Relations and Inter-Korean Diplomacy](../government-politics/north-korea-relations.md) — The inter-Korean diplomacy behind the PyeongChang 2018 unified march and joint hockey team.
 - [Seoul](../geography/seoul.md) — Host city of the 1988 Summer Olympics and the urban transformation the Games accelerated.

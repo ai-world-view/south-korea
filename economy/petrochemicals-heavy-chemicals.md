@@ -164,4 +164,5 @@ Trade tensions, particularly U.S.–China tariffs and supply-chain localization 
 - [Labor and Employment Policy](labor-employment-policy.md) — petrochemical industry workforce and unions
 - [Semiconductors and Technology Leadership](semiconductors.md) — specialty chemical inputs (photoresists, CMP slurries) supplied by petrochemical subsidiaries
 - [Automotive Industry](automotive-industry.md) — plastics, coatings, and synthetic rubber feeding vehicle and tire manufacturing
+- [Environmental Policy and Sustainability](../government-politics/environmental-policy.md) — industrial emissions, the Ulsan/Yeosu pollution hotspots, and decarbonization pressure on the sector
 <!-- END GENERATED: related -->
