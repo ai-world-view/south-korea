@@ -284,4 +284,5 @@ Korean cinema increasingly explores transnational Korean identity. "Past Lives" 
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — The colonial-era origins of Korean cinema, including Na Woon-gyu's "Arirang" (1926).
 - [Park Chung-hee](../people/park-chung-hee.md) — The authoritarian film-censorship and licensing regime of the 1962 Motion Picture Law era.
 - [Webtoons and Digital Comics](webtoons.md) — The webtoon source material behind a growing share of Korean films and streaming dramas.
+- [Korean Literature and Literary Culture](korean-literature.md) — The novels and pansori tales, from *Chunhyang* to Han Kang's *The Vegetarian*, that Korean cinema has adapted.
 <!-- END GENERATED: related -->

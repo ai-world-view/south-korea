@@ -15,4 +15,5 @@ Topics on the land, regions, cities, and physical setting of South Korea.
 - [Incheon](incheon.md) — South Korea's third-largest city and principal international gateway; home of Incheon International Airport, the Port of Incheon, and the Songdo smart-city district.
 - [Daegu](daegu.md) — South Korea's fourth-largest city and the economic and cultural hub of the southeastern interior; a historic textile center and the conservative "TK" heartland.
 - [Gyeonggi Province](gyeonggi-province.md) — South Korea's most populous province, the industrial and residential ring surrounding Seoul; home to the country's largest regional economy, major chip fabs, the Pangyo tech cluster, and the DMZ frontier.
+- [Ulsan](ulsan.md) — South Korea's heavy-industrial capital on the southeastern coast; home to the country's largest petrochemical complex, Hyundai's flagship auto plant, and Hyundai Heavy Industries' shipyard.
 <!-- END GENERATED: category-index -->

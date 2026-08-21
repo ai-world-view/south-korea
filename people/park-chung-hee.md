@@ -151,4 +151,5 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The military-developmental state, the Yulgok modernization drive, and the defense-industrial base Park established.
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — The nuclear-energy program and heavy-industry strategy launched under his rule.
 - [Daegu](../geography/daegu.md) — The North Gyeongsang city and TK region that anchored his conservative political base.
+- [Ulsan](../geography/ulsan.md) — The southeastern city his government designated as Korea's first Special Industrial District in 1962, anchoring the heavy-and-chemical drive.
 <!-- END GENERATED: related -->

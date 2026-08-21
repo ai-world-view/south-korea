@@ -47,8 +47,15 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1395 | Gyeongbokgung Palace and Jongmyo Shrine completed in Hanyang | Geography | [Seoul](geography/seoul.md) |
 | 1398 | The First Strife of Princes; Jeong Do-jeon, architect of Joseon's institutions, is killed | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1418 | Sejong the Great accedes to the Joseon throne | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1419 | Joseon's Gihae Expedition strikes the waegu pirate base on Tsushima | People | [Sejong the Great](people/sejong-the-great.md) |
+| 1420 | Sejong expands the Hall of Worthies (Jiphyeonjeon) into a royal scholarly academy | People | [Sejong the Great](people/sejong-the-great.md) |
+| 1434 | Jang Yeong-sil builds the Jagyeongnu self-striking water clock for Sejong's court | People | [Sejong the Great](people/sejong-the-great.md) |
+| 1441 | Sejong's court produces the cheugugi, the world's first standardized rain gauge | People | [Sejong the Great](people/sejong-the-great.md) |
 | 1443 | Sejong and Hall of Worthies scholars complete the Hunminjeongeum alphabet | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
+| 1444 | Sejong enacts the Gongbeop graded land-tax reform after a nationwide survey | People | [Sejong the Great](people/sejong-the-great.md) |
 | 1446 | Sejong promulgates the Hangul alphabet in the Hunminjeongeum | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1447 | The Yongbi Eocheon Ga, the first major literary work in Hangul, is composed | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
+| 1450 | Sejong the Great dies after a thirty-two-year reign | People | [Sejong the Great](people/sejong-the-great.md) |
 | 1545 | Yi Sun-sin, later Korea's foremost naval hero, is born in Hanseong (Seoul) | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1576 | Yi Sun-sin passes the military branch of the *gwageo* examination | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1591 | Yi Sun-sin is appointed Left Naval Commander of Jeolla Province | People | [Yi Sun-sin](people/yi-sun-sin.md) |
@@ -76,6 +83,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1907 | Emperor Gojong is forced to abdicate and the Korean army is disbanded | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1907 | The Pyongyang Great Revival shapes the character of Korean Protestantism | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 1908 | Choe Nam-seon's "From the Sea to Children" inaugurates modern Korean free verse | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1909-10-26 | An Jung-geun assassinates Itō Hirobumi at Harbin Station | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1910 | Japan annexes Korea; the capital is renamed Keijō | History | [Seoul](geography/seoul.md) |
 | 1910-03-26 | An Jung-geun is executed at Lüshun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
@@ -87,16 +95,19 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1919-04-15 | Jeam-ri Massacre: Japanese troops burn villagers in a Suwon church | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1920-09-28 | Independence activist Yu Gwan-sun dies in Seodaemun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1920-10 | Battle of Qingshanli: Korean forces defeat the Japanese in Manchuria | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1922 | Kim Sowol publishes "Azaleas," a landmark of modern Korean lyric poetry | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1924-01-06 | Kim Dae-jung born on Hauido, South Jeolla Province | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1926 | Na Woon-gyu's silent film "Arirang" becomes an early nationalist landmark | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1926 | The Japanese Government-General Building is completed in front of Gyeongbokgung Palace | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 1932-04-29 | Yun Bong-gil bombs a Japanese ceremony at Shanghai's Hongkou Park | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1933 | The Korean Language Society issues the Unified Hangul Orthography, the basis of modern spelling | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
+| 1936 | Yi Sang's modernist novella "Wings" appears, pioneering Korean stream-of-consciousness prose | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1938 | Lee Byung-chul founds Samsung as a trading company | Economy | [Chaebol](economy/chaebol.md) |
 | 1940-02 | Sōshi-kaimei policy pressures Koreans to adopt Japanese-style names | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1940-09-17 | The Korean Liberation Army is founded in Chongqing | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1941-12-19 | Lee Myung-bak born to a Korean family in Osaka, Japan | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1942 | The Korean Language Society Incident: colonial authorities arrest and torture Hangul scholars | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
+| 1945-02-16 | Poet Yun Dong-ju dies in Fukuoka Prison under Japanese detention | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1945-08-15 | Liberation from Japan; the peninsula is divided at the 38th parallel | History | [Korean War](history/korean-war.md) |
 | 1945-09-08 | U.S. forces land at Incheon and establish the military government (USMGIK) in the south | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1945-12 | The Moscow Conference proposes a multinational trusteeship over Korea, igniting mass protest | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
@@ -127,9 +138,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1954 | A Buddhist purification drive consolidates the Jogye Order; the Unification Church is founded | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1960 | Kim Ki-young's "The Housemaid" is released, later hailed as a masterpiece | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
+| 1960 | Choi In-hun's novel "Plaza" confronts the ideological division of Korea | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1960-12-18 | Yoon Suk-yeol is born in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 1961 | Park Chung-hee's government brings the commercial banks under state control | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1962 | Ulsan is designated South Korea's first Special Industrial District | Geography | [Ulsan](geography/ulsan.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1967 | The Yeosu National Industrial Complex is established on the south coast | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
@@ -194,6 +207,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1997 | Hwaseong Fortress in Suwon is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1997 | The Hunminjeongeum Haerye is inscribed on UNESCO's Memory of the World register | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1997-03 | NCSoft is founded by Kim Taek-jin, becoming a leading MMORPG developer | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 1997-07-15 | Ulsan is elevated to a Metropolitan City, separating from South Gyeongsang Province | Geography | [Ulsan](geography/ulsan.md) |
 | 1997-11 | Foreign banks refuse to roll over Korea's short-term debt, forcing an IMF rescue request | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
 | 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
@@ -258,6 +272,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-01 | The Framework Act on Low Carbon, Green Growth is enacted | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2010-11-01 | KTX high-speed rail service reaches Ulsan on the Gyeongbu line | Geography | [Ulsan](geography/ulsan.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
@@ -266,6 +281,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2012 | The Global Green Growth Institute is established with its headquarters in Seoul | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2012 | The League of Legends Champions Korea (LCK) esports league is established | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2012 | Honam Petrochemical is renamed Lotte Chemical | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
+| 2012 | Eurasian otters return to Ulsan's restored Taehwa River, a symbol of its ecological recovery | Geography | [Ulsan](geography/ulsan.md) |
 | 2012 | Pangyo Techno Valley opens in Seongnam as South Korea's densest technology cluster | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 2012 | SK Group acquires Hynix Semiconductor, forming SK Hynix | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
@@ -289,6 +305,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2015-01 | South Korea launches the K-ETS, East Asia's first nationwide carbon cap-and-trade market | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
+| 2016-05 | Han Kang's "The Vegetarian" wins the International Booker Prize, a first for a Korean writer | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 2016-07 | South Korea agrees to host a U.S. THAAD missile-defense battery at Seongju, drawing Chinese retaliation | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2016-08-08 | BLACKPINK debuts under YG Entertainment | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2016-11 | UNESCO inscribes Jeju's haenyeo diving culture as Intangible Cultural Heritage | Culture & Society | [Jeju Island](geography/jeju-island.md) |
@@ -371,6 +388,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2024-04-10 | Opposition parties win a National Assembly supermajority in the legislative elections | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-06 | Webtoon Entertainment (Naver Webtoon) debuts in a U.S. IPO | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2024-10 | Hyundai opens its dedicated EV Metaplant (HMGMA) in Georgia | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 2024-10 | Han Kang wins the Nobel Prize in Literature, the first Korean and first East Asian woman to do so | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2024-12-04 | The National Assembly votes 190-0 to lift martial law; Yoon rescinds the decree | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | Government & Politics | [Government Structure](government-politics/government-structure.md) |

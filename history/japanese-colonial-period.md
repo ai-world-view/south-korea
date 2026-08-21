@@ -147,4 +147,5 @@ The Japanese Colonial Period fundamentally reshaped Korea. It accelerated modern
 - [Korean Liberation and Founding, 1945–1948](liberation-and-founding.md) — The three years of occupation and division that followed the 1945 end of colonial rule.
 - [Incheon](../geography/incheon.md) — The treaty port whose modern growth accelerated under colonial-era port and rail investment.
 - [Hangul and the Korean Alphabet](../culture-society/hangul.md) — The Korean script suppressed under late-colonial assimilation and preserved by the Korean Language Society.
+- [Korean Literature and Literary Culture](../culture-society/korean-literature.md) — The resistance poetry of Kim Sowol, Yun Dong-ju, and Yi Sang written under colonial censorship.
 <!-- END GENERATED: related -->

@@ -119,6 +119,7 @@ South Korea's education system exemplifies both the power and costs of intensive
 - [Technology Sector and ICT Innovation](../economy/technology-sector.md) — KAIST, POSTECH, and the STEM pipeline that feed South Korea's technology industries.
 - [Goryeo Period](../history/goryeo-period.md) — The gwageo civil-service examination (from 958) and the Seonggyungwan academy, which rooted Korea's examination-based education culture.
 - [Hangul and the Korean Alphabet](hangul.md) — The alphabet whose learnability underpins South Korea's near-universal literacy.
+- [Sejong the Great](../people/sejong-the-great.md) — The king whose Hall of Worthies embodied the Confucian scholarly-meritocratic ideal underlying Korean education.
 <!-- END GENERATED: related -->
 
 ## Sources

@@ -97,4 +97,5 @@ Unlike Nelson, Yi left no distinguished naval academy tradition, largely because
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — the later Japanese occupation against which Yi's legend was revived as a nationalist symbol
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — modern South Korean naval forces and strategic doctrine
 - [Shipbuilding Industry in South Korea](../economy/shipbuilding-industry.md) — the *Yi Sun-sin*-class destroyers and Korea's modern naval-construction legacy
+- [Sejong the Great](sejong-the-great.md) — the earlier Joseon monarch whose northern campaigns and military reforms shaped the kingdom Yi later defended
 <!-- END GENERATED: related -->

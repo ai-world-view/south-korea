@@ -132,6 +132,8 @@ Joseon's legacy is visible in contemporary Korean culture: in the Confucian reve
 - [Seoul](../geography/seoul.md) — Hanyang, which Taejo made Joseon's capital in 1394.
 - [Hangul and the Korean Alphabet](../culture-society/hangul.md) — the script King Sejong created and promulgated in 1443–1446.
 - [Yi Sun-sin](../people/yi-sun-sin.md) — the admiral whose naval victories in the Imjin War defended Joseon against Hideyoshi's invasions.
+- [Sejong the Great](../people/sejong-the-great.md) — Joseon's fourth king, whose reign produced Hangul, the Hall of Worthies, and the northern frontier.
+- [Korean Literature and Literary Culture](../culture-society/korean-literature.md) — the sijo, pansori, and vernacular fiction that crystallized during the dynasty.
 <!-- END GENERATED: related -->
 
 ## Sources

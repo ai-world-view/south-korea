@@ -165,4 +165,5 @@ Trade tensions, particularly U.S.–China tariffs and supply-chain localization 
 - [Semiconductors and Technology Leadership](semiconductors.md) — specialty chemical inputs (photoresists, CMP slurries) supplied by petrochemical subsidiaries
 - [Automotive Industry](automotive-industry.md) — plastics, coatings, and synthetic rubber feeding vehicle and tire manufacturing
 - [Environmental Policy and Sustainability](../government-politics/environmental-policy.md) — industrial emissions, the Ulsan/Yeosu pollution hotspots, and decarbonization pressure on the sector
+- [Ulsan](../geography/ulsan.md) — the city hosting the Ulsan–Onsan complex, Asia's largest integrated refining-and-chemicals zone
 <!-- END GENERATED: related -->

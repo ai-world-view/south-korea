@@ -199,4 +199,5 @@ Korean semiconductor companies (Samsung, SK Hynix) are developing automotive-gra
 - [Labor and Employment Policy in South Korea](labor-employment-policy.md) — The Hyundai Motor union and the auto sector as a center of Korean labor conflict.
 - [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — The plastics, coatings, and synthetic rubber that supply vehicle and tire manufacturing.
 - [Shipbuilding Industry in South Korea](shipbuilding-industry.md) — A parallel developmental-state, chaebol-led heavy export industry sharing engineering and supply chains.
+- [Ulsan](../geography/ulsan.md) — Home to Hyundai Motor's Ulsan complex, the world's largest automobile factory by floor area.
 <!-- END GENERATED: related -->

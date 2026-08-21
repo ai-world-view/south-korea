@@ -118,4 +118,5 @@ Korean yards hold numerous records in commercial shipbuilding:
 - [Energy and Resources Policy](energy-resources-policy.md) — the LNG import dependence and maritime transport that LNG carriers serve
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — naval construction and the defense-industrial base
 - [Yi Sun-sin](../people/yi-sun-sin.md) — the 16th-century admiral and namesake of the KDX-II destroyer class
+- [Ulsan](../geography/ulsan.md) — home to Hyundai Heavy Industries' Ulsan yard, the world's largest single shipbuilding site
 <!-- END GENERATED: related -->

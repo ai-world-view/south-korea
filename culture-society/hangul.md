@@ -97,4 +97,6 @@ Despite these differences, speakers of North and South Korean can generally read
 - [Hallyu (Korean Wave)](hallyu.md) — global spread of Korean culture driving international Hangul learning
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — suppression of the Korean language and Hangul preservation efforts
 - [Religion and Buddhism in Korea](religion-and-buddhism.md) — the Hanmun-and-Buddhism literary culture Hangul grew alongside
+- [Sejong the Great](../people/sejong-the-great.md) — the king who created Hangul and promulgated the *Hunminjeongeum*
+- [Korean Literature and Literary Culture](korean-literature.md) — the vernacular literary tradition Hangul made possible
 <!-- END GENERATED: related -->

@@ -20,4 +20,5 @@ Topics on the culture, media, social life, and everyday society of South Korea, 
 - [Hangul and the Korean Alphabet](hangul.md) — The featural alphabet created under King Sejong in the 1440s, its scientific design and syllable-block structure, its colonial-era preservation, and its role as a symbol of Korean identity and literacy.
 - [Webtoons and Digital Comics](webtoons.md) — The mobile-first, vertical-scroll digital comics format pioneered by Naver and Kakao; a platform-driven creative industry and a fast-growing "third pillar" of Hallyu feeding drama, film, and anime adaptations worldwide.
 - [Gaming Industry in South Korea](gaming-industry.md) — The multi-billion-dollar game industry — Nexon, NCSoft, Krafton, and Smilegate — from PC-bang and *StarCraft* origins to global MMORPG, mobile, and battle-royale leadership, its esports culture, and its regulatory debates.
+- [Korean Literature and Literary Culture](korean-literature.md) — Two millennia of Korean poetry, fiction, and scholarship — from *hyangga* and *sijo* through pansori and colonial-era poets to Han Kang's 2024 Nobel Prize in Literature.
 <!-- END GENERATED: category-index -->

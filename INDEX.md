@@ -18,6 +18,7 @@ Index: [geography/](geography/index.md)
 - [Incheon](geography/incheon.md)
 - [Daegu](geography/daegu.md)
 - [Gyeonggi Province](geography/gyeonggi-province.md)
+- [Ulsan](geography/ulsan.md)
 
 ## History
 
@@ -71,6 +72,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Hangul and the Korean Alphabet](culture-society/hangul.md)
 - [Webtoons and Digital Comics](culture-society/webtoons.md)
 - [Gaming Industry in South Korea](culture-society/gaming-industry.md)
+- [Korean Literature and Literary Culture](culture-society/korean-literature.md)
 
 ## People
 
@@ -85,4 +87,5 @@ Index: [people/](people/index.md)
 - [Bang Si-hyuk](people/bang-si-hyuk.md)
 - [Yoon Suk-yeol](people/yoon-suk-yeol.md)
 - [Yi Sun-sin](people/yi-sun-sin.md)
+- [Sejong the Great](people/sejong-the-great.md)
 <!-- END GENERATED: index -->
