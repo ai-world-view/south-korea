@@ -21,4 +21,5 @@ Topics on the culture, media, social life, and everyday society of South Korea, 
 - [Webtoons and Digital Comics](webtoons.md) — The mobile-first, vertical-scroll digital comics format pioneered by Naver and Kakao; a platform-driven creative industry and a fast-growing "third pillar" of Hallyu feeding drama, film, and anime adaptations worldwide.
 - [Gaming Industry in South Korea](gaming-industry.md) — The multi-billion-dollar game industry — Nexon, NCSoft, Krafton, and Smilegate — from PC-bang and *StarCraft* origins to global MMORPG, mobile, and battle-royale leadership, its esports culture, and its regulatory debates.
 - [Korean Literature and Literary Culture](korean-literature.md) — Two millennia of Korean poetry, fiction, and scholarship — from *hyangga* and *sijo* through pansori and colonial-era poets to Han Kang's 2024 Nobel Prize in Literature.
+- [Korean Drama Industry](korean-drama-industry.md) — The serialized-television sector of the Korean Wave, from *Winter Sonata* and *Dae Jang Geum* to Netflix-era global hits like *Crash Landing on You* and *Squid Game*.
 <!-- END GENERATED: category-index -->

@@ -73,6 +73,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1796 | Hwaseong Fortress is completed, a landmark of Joseon military architecture | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1801 | The Sinyu Persecution executes hundreds of Korean Catholics | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1866 | The Byeongin Persecution kills thousands of Catholics; a French expedition is repulsed at Ganghwa | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 1875-03-26 | Syngman Rhee, the founding president of the Republic of Korea, is born in Hwanghae Province | People | [Syngman Rhee](people/syngman-rhee.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1876 | Busan opened as Korea's first treaty port under the Ganghwa Treaty | Geography | [Busan](geography/busan.md) |
 | 1883 | Jemulpo (Incheon) opens as a treaty port, beginning its rise as Korea's western gateway | Geography | [Incheon](geography/incheon.md) |
@@ -139,6 +140,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1960 | Kim Ki-young's "The Housemaid" is released, later hailed as a masterpiece | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1960 | Choi In-hun's novel "Plaza" confronts the ideological division of Korea | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
+| 1960-04-19 | The April Revolution erupts against Syngman Rhee's rigged re-election, with police killing scores of protesters in Seoul | People | [Syngman Rhee](people/syngman-rhee.md) |
+| 1960-04-26 | Syngman Rhee resigns the presidency and goes into exile in Hawaii | People | [Syngman Rhee](people/syngman-rhee.md) |
 | 1960-12-18 | Yoon Suk-yeol is born in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 1961 | Park Chung-hee's government brings the commercial banks under state control | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
@@ -174,6 +177,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1979-10-26 | Park Chung-hee assassinated by KCIA director Kim Jae-gyu | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1979-12-12 | Chun Doo-hwan seizes military control in the December 12 coup | History | [Democratization](history/democratization.md) |
 | 1980-05-18 | Gwangju Uprising begins; paratroopers suppress pro-democracy protests | History | [Democratization](history/democratization.md) |
+| 1980-05-27 | The army retakes Gwangju's Provincial Hall, ending the ten-day uprising | History | [Gwangju Uprising (May 18 Incident)](history/gwangju-uprising.md) |
 | 1980-09-17 | A military tribunal sentences Kim Dae-jung to death after the Gwangju Uprising | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1981-07-01 | Daegu is separated from North Gyeongsang Province as a Directly Governed City | Geography | [Daegu](geography/daegu.md) |
 | 1982 | The Korea Baseball Organization (KBO) is founded with six teams | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
@@ -238,6 +242,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2003-02-18 | An arson fire at Daegu's Jungang-ro subway station kills 192 people | History | [Daegu](geography/daegu.md) |
 | 2003-02-25 | Roh Moo-hyun is inaugurated as the 16th president | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2003-04 | Nexon's *MapleStory* launches, popularizing the item-shop free-to-play model | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2003-09 | "Jewel in the Palace" (*Dae Jang Geum*) airs on MBC, extending K-drama's reach across Asia | Culture & Society | [Korean Drama Industry](culture-society/korean-drama-industry.md) |
 | 2003-10-31 | President Roh Moo-hyun apologizes for the state's role in the Jeju April 3 Incident | History | [Jeju Island](geography/jeju-island.md) |
 | 2004 | Naver launches its webtoon platform, standardizing the vertical-scroll mobile comics format as Kang Full's viral *Apartment* marks the medium's early breakthrough | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2004 | The Employment Permit System opens legal channels for migrant workers | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
@@ -303,6 +308,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2015 | The Gyeongju low- and intermediate-level nuclear-waste repository opens | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2015-01 | South Korea launches the K-ETS, East Asia's first nationwide carbon cap-and-trade market | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2016-01 | Netflix launches in South Korea, reshaping K-drama production and global distribution | Culture & Society | [Korean Drama Industry](culture-society/korean-drama-industry.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2016-05 | Han Kang's "The Vegetarian" wins the International Booker Prize, a first for a Korean writer | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |

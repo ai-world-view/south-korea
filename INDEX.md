@@ -31,6 +31,7 @@ Index: [history/](history/index.md)
 - [Japanese Colonial Period](history/japanese-colonial-period.md)
 - [Korean Liberation and Founding, 1945–1948](history/liberation-and-founding.md)
 - [Korean War](history/korean-war.md)
+- [Gwangju Uprising (May 18 Incident)](history/gwangju-uprising.md)
 - [Democratization of South Korea](history/democratization.md)
 
 ## Government & Politics
@@ -73,6 +74,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Webtoons and Digital Comics](culture-society/webtoons.md)
 - [Gaming Industry in South Korea](culture-society/gaming-industry.md)
 - [Korean Literature and Literary Culture](culture-society/korean-literature.md)
+- [Korean Drama Industry](culture-society/korean-drama-industry.md)
 
 ## People
 
@@ -88,4 +90,5 @@ Index: [people/](people/index.md)
 - [Yoon Suk-yeol](people/yoon-suk-yeol.md)
 - [Yi Sun-sin](people/yi-sun-sin.md)
 - [Sejong the Great](people/sejong-the-great.md)
+- [Syngman Rhee](people/syngman-rhee.md)
 <!-- END GENERATED: index -->
