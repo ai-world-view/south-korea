@@ -79,4 +79,5 @@ Gwangju's memory has generated a substantial body of Korean literature, film, an
 - [Korean Liberation and Founding, 1945–1948](liberation-and-founding.md) — The founding-era origins of the anticommunist security state whose apparatus was turned on Gwangju.
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The Hanahoe faction, the crackdown, and the later consolidation of civilian control over the armed forces.
 - [Korean Literature and Literary Culture](../culture-society/korean-literature.md) — Han Kang's *Human Acts* and the broader literature that reconstructed the uprising's memory.
+- [Gwangju](../geography/gwangju.md) — The city itself, whose history, culture, and identity were shaped by the uprising.
 <!-- END GENERATED: related -->

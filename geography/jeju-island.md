@@ -95,4 +95,5 @@ The tourism economy is vulnerable to external shocks. During the 2016–2017 THA
 - [Busan](busan.md) — The nearest mainland metropolis and the principal gateway to the island
 - [Hallyu — the Korean Wave](../culture-society/hallyu.md) — Jeju as a filming and tourism backdrop within Korea's cultural export economy
 - [Incheon](incheon.md) — The mainland gateway whose international airport is a principal hub for flights to and from Jeju
+- [Tourism Industry in South Korea](../economy/tourism-industry.md) — The national tourism sector for which Jeju is the single leading destination
 <!-- END GENERATED: related -->

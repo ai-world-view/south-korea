@@ -256,4 +256,5 @@ However, Hallyu's success model — heavy corporate control, manufactured aesthe
 - [Hangul and the Korean Alphabet](hangul.md) — The script whose global learners have grown alongside the Korean Wave.
 - [Webtoons and Digital Comics](webtoons.md) — The mobile-first digital comics format now regarded as a "third pillar" of Hallyu and a major source of drama and film adaptations.
 - [Korean Literature and Literary Culture](korean-literature.md) — Korean fiction and poetry, whose global rise (Han Kang's 2024 Nobel) parallels the Korean Wave in translation.
+- [Tourism Industry in South Korea](../economy/tourism-industry.md) — The inbound visitor economy that the Korean Wave has done much to drive.
 <!-- END GENERATED: related -->

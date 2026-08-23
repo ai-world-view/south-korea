@@ -221,4 +221,5 @@ The **National Security Law** (국가보안법), inherited from the authoritaria
 - **[Technology and Innovation Policy in South Korea](technology-innovation-policy.md)** — The developmental-state technology strategy executed through the ministries, development banks, and industrial policy this framework enables.
 - **[Park Geun-hye](../people/park-geun-hye.md)** — The president whose 2016–2017 impeachment and unanimous Constitutional Court removal set the precedent later applied to Yoon.
 - **[Military and Defense Policy](military-defense-policy.md)** — The armed forces, the U.S. alliance, and the constitutional subordination of the military to civilian command.
+- **[Electoral System and the National Assembly](electoral-system.md)** — The presidential and legislative elections, the National Election Commission, and the National Assembly through which this framework is populated.
 

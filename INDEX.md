@@ -19,6 +19,7 @@ Index: [geography/](geography/index.md)
 - [Daegu](geography/daegu.md)
 - [Gyeonggi Province](geography/gyeonggi-province.md)
 - [Ulsan](geography/ulsan.md)
+- [Gwangju](geography/gwangju.md)
 
 ## History
 
@@ -43,6 +44,7 @@ Index: [government-politics/](government-politics/index.md)
 - [Technology and Innovation Policy in South Korea](government-politics/technology-innovation-policy.md)
 - [Military and Defense Policy](government-politics/military-defense-policy.md)
 - [Environmental Policy and Sustainability](government-politics/environmental-policy.md)
+- [Electoral System and the National Assembly](government-politics/electoral-system.md)
 
 ## Economy
 
@@ -57,6 +59,7 @@ Index: [economy/](economy/index.md)
 - [Labor and Employment Policy in South Korea](economy/labor-employment-policy.md)
 - [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md)
 - [Shipbuilding Industry in South Korea](economy/shipbuilding-industry.md)
+- [Tourism Industry in South Korea](economy/tourism-industry.md)
 
 ## Culture & Society
 

@@ -137,5 +137,6 @@ Kim Dae-jung died on **August 18, 2009**, at Severance Hospital, Yonsei Universi
 - [Moon Jae-in](moon-jae-in.md) — President who revived Kim's Sunshine Policy of engagement in the 2018 inter-Korean summits
 - [Roh Moo-hyun](roh-moo-hyun.md) — Kim's successor (2003–2008), who continued the Sunshine Policy and held the second inter-Korean summit
 - [Korean Liberation and Founding, 1945–1948](../history/liberation-and-founding.md) — The division and Jeju massacre of the founding era that Kim's government began to formally acknowledge
+- [Gwangju](../geography/gwangju.md) — The Honam metropolis whose 1980 uprising and regional politics were bound up with Kim's career
 <!-- END GENERATED: related -->
 

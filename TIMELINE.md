@@ -30,6 +30,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 935 | The last Silla king abdicates to Wang Geon, founder of Goryeo | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 936 | Goryeo completes the reunification of the Later Three Kingdoms | History | [Goryeo Period](history/goryeo-period.md) |
 | 938 | Tamna, Jeju's indigenous kingdom, formally submits to Goryeo | History | [Jeju Island](geography/jeju-island.md) |
+| 940 | Goryeo's founder, Taejo, gives the southwestern city its enduring name, Gwangju | History | [Gwangju](geography/gwangju.md) |
 | 956 | Gwangjong's slave-liberation edict curbs aristocratic power | History | [Goryeo Period](history/goryeo-period.md) |
 | 958 | Gwangjong institutes the gwageo civil-service examination | History | [Goryeo Period](history/goryeo-period.md) |
 | 993 | Seo Hui's diplomacy ends the first Khitan invasion, extending Goryeo toward the Yalu River | History | [Goryeo Period](history/goryeo-period.md) |
@@ -79,6 +80,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1883 | Jemulpo (Incheon) opens as a treaty port, beginning its rise as Korea's western gateway | Geography | [Incheon](geography/incheon.md) |
 | 1885 | American Protestant missionaries Underwood and Appenzeller arrive in Korea | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1894 | The Donghak Peasant Revolt rises against taxation and foreign encroachment | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1896 | Gwangju becomes the provincial capital of the newly created South Jeolla Province | Geography | [Gwangju](geography/gwangju.md) |
 | 1897 | Gojong proclaims the Empire of Korea (Daehan Jeguk), ending the Joseon kingdom's old order | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1899 | The Gyeongin Line, Korea's first railway, opens between Seoul and Incheon | Geography | [Incheon](geography/incheon.md) |
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -100,6 +102,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1924-01-06 | Kim Dae-jung born on Hauido, South Jeolla Province | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1926 | Na Woon-gyu's silent film "Arirang" becomes an early nationalist landmark | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1926 | The Japanese Government-General Building is completed in front of Gyeongbokgung Palace | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
+| 1929-11-03 | The Gwangju Student Independence Movement erupts and spreads into a nationwide anti-colonial protest | History | [Gwangju](geography/gwangju.md) |
 | 1932-04-29 | Yun Bong-gil bombs a Japanese ceremony at Shanghai's Hongkou Park | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1933 | The Korean Language Society issues the Unified Hangul Orthography, the basis of modern spelling | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1936 | Yi Sang's modernist novella "Wings" appears, pioneering Korean stream-of-consciousness prose | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
@@ -118,6 +121,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1948-04-03 | The Jeju April 3 Incident begins; suppression continues into 1954 | History | [Jeju Island](geography/jeju-island.md) |
 | 1948-05-10 | Koreans in the south elect a constituent National Assembly under UN observation | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1948-07-17 | The Constitution of the Republic of Korea is promulgated | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
+| 1948-07-20 | The National Assembly elects Syngman Rhee president in the first (indirect) presidential vote | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 1948-08-15 | Republic of Korea proclaimed under Syngman Rhee; Seoul becomes its capital | History | [Korean War](history/korean-war.md) |
 | 1948-09-09 | The Democratic People's Republic of Korea is founded in the north under Kim Il-sung | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1948-10-19 | The Yeosu–Suncheon rebellion erupts among troops ordered to suppress Jeju | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
@@ -146,6 +150,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1961 | Park Chung-hee's government brings the commercial banks under state control | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1962 | Ulsan is designated South Korea's first Special Industrial District | Geography | [Ulsan](geography/ulsan.md) |
+| 1962 | The Korea Tourism Organization is founded to promote inbound tourism | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1967 | The Yeosu National Industrial Complex is established on the south coast | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
@@ -159,6 +164,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1972 | South Korea's first naphtha cracker starts up at the Ulsan Petrochemical Complex | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 1972 | The August 3 Emergency Decree freezes the informal curb-loan market | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1972 | Hyundai breaks ground on its Ulsan shipyard, the future world's largest | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
+| 1972 | The Yushin constitution abolishes direct presidential elections in favor of an indirect electoral college | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 1972-08-09 | Bang Si-hyuk, founder of HYBE, is born in Seoul | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 1972-10-17 | Park declares martial law, ushering in the authoritarian Yushin system | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
@@ -198,12 +204,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1988-09-17 | Seoul hosts the Summer Olympic Games | Geography | [Seoul](geography/seoul.md) |
 | 1988-09-17 | South Korea finishes fourth in the medal table at the Seoul Olympics it hosts | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1989 | The First Generation New Towns of Bundang and Ilsan are launched around Seoul | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
+| 1989 | Lotte World opens in Seoul, becoming a flagship domestic tourist attraction | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
 | 1994 | Nexon is founded by Kim Jung-ju and Jake Song, pioneering online free-to-play gaming | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1995 | Daegu is redesignated a Metropolitan City | Geography | [Daegu](geography/daegu.md) |
+| 1995 | The first Gwangju Biennale opens, Asia's first major international contemporary-art biennale | Culture & Society | [Gwangju](geography/gwangju.md) |
 | 1995 | The colonial Government-General Building is demolished on the 50th anniversary of liberation | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 1995-11-11 | The Korean Confederation of Trade Unions (KCTU) is founded as an independent labor federation | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1996 | H.O.T. debuts as the first fully managed K-pop idol group | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
@@ -234,6 +242,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2002 | Gravity's *Ragnarok Online* launches, a hit across Southeast Asia | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2002 | "Winter Sonata" airs, fueling the early Korean Wave across Asia | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2002 | South Korea attains the world's highest broadband penetration rate | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 2002 | The Jeju Free International City initiative launches visa-free entry through Jeju | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2002-06 | South Korea reaches the FIFA World Cup semi-finals as co-host, an Asian best | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2002-09 | Busan hosts the 14th Asian Games, with North Korea participating | Culture & Society | [Busan](geography/busan.md) |
 | 2002-12-19 | Roh Moo-hyun wins the presidential election with 48.9% of the vote | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
@@ -247,8 +256,10 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2004 | Naver launches its webtoon platform, standardizing the vertical-scroll mobile comics format as Kang Full's viral *Apartment* marks the medium's early breakthrough | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2004 | The Employment Permit System opens legal channels for migrant workers | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 2004 | The Leeum Museum of Art opens in Seoul with buildings by Botta, Nouvel, and Koolhaas | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
+| 2004 | A separate party-list ballot introduces two-vote proportional representation to National Assembly elections | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 2004-03-12 | The National Assembly impeaches President Roh Moo-hyun | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
+| 2004-04 | Gwangju Metro Line 1 opens, the first subway in the Honam region | Geography | [Gwangju](geography/gwangju.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2004-05 | Park Chan-wook's "Oldboy" wins the Grand Prix at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2005 | Bang Si-hyuk founds Big Hit Entertainment, later HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
@@ -291,6 +302,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2012 | SK Group acquires Hynix Semiconductor, forming SK Hynix | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 2012 | The National Assembly is enlarged to 300 seats and overseas absentee voting is first used | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 2012-05 | The Gyeongin Ara Waterway opens, linking the Han River to the Yellow Sea at Incheon | Geography | [Incheon](geography/incheon.md) |
 | 2012-12-19 | Park Geun-hye is elected president, the first woman and first popular-vote majority since 1987 | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2013 | Lezhin Comics launches a paid-only webtoon platform for mature content | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
@@ -308,6 +320,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2015 | The Gyeongju low- and intermediate-level nuclear-waste repository opens | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2015-01 | South Korea launches the K-ETS, East Asia's first nationwide carbon cap-and-trade market | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2015-04-02 | The Honam KTX high-speed line opens, cutting Seoul–Gwangju travel to about 1 hour 33 minutes | Geography | [Gwangju](geography/gwangju.md) |
+| 2015-11 | The Asia Culture Center opens in Gwangju on the site of the former South Jeolla Provincial Hall | Culture & Society | [Gwangju](geography/gwangju.md) |
 | 2016-01 | Netflix launches in South Korea, reshaping K-drama production and global distribution | Culture & Society | [Korean Drama Industry](culture-society/korean-drama-industry.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
@@ -321,6 +335,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2017-03 | Krafton's *PUBG* enters Steam Early Access, igniting the global battle-royale boom | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2017-03 | China halts new game-license approvals for Korean titles amid the THAAD dispute | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2017-03 | China's post-THAAD travel restrictions sharply cut Chinese tourist arrivals to South Korea | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2017-03-31 | Park Geun-hye is arrested on bribery and abuse-of-power charges | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2017-04-03 | Lotte World Tower opens in Seoul as South Korea's tallest building | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
@@ -340,14 +355,18 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-06-12 | First U.S.–North Korea summit held in Singapore | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2018-09-18 | Pyongyang inter-Korean summit; Moon addresses 150,000 at May Day Stadium | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 2019 | International visitor arrivals peak at about 17.5 million, a pre-pandemic record | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2019-04-03 | South Korea launches the world's first commercial 5G network | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2019-04-11 | The Constitutional Court rules the ban on abortion unconstitutional | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2019-05 | Bong Joon-ho's "Parasite" wins the Palme d'Or at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2019-07 | Moon Jae-in appoints Yoon Suk-yeol prosecutor-general | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2019-12 | The voting age is lowered from 19 to 18, effective for the 2020 election | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 2020 | DSME delivers the 24,000-TEU HMM Algeciras, then the world's largest container ship | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2020 | Samsung Electronics workers form the company's first labor union, ending its no-union tradition | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
+| 2020 | COVID-19 collapses international tourist arrivals to roughly 2.5 million | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2020-02-18 | A COVID-19 cluster at Daegu's Shincheonji Church triggers Korea's "K-quarantine" response | People | [Moon Jae-in](people/moon-jae-in.md) |
+| 2020-04-15 | A semi-linked proportional system debuts, prompting both major parties to field satellite lists | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2020-10 | Moon Jae-in announces a 2050 carbon-neutrality goal, among Asia's first | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2020-10-15 | Big Hit Entertainment (HYBE) lists on the Korea Exchange | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
@@ -382,6 +401,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-10-29 | The Itaewon Halloween crowd crush kills 159 people in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2023 | Ground-breaking begins on the S-Oil Shaheen petrochemical complex at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
+| 2023 | International tourist arrivals rebound to about 11 million after COVID entry curbs are lifted | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2023-01 | The 10th electricity plan raises nuclear to 32.4% of the mix by 2036, reversing the phase-out | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2023-03 | Yoon's government announces a third-party fund for wartime forced-labor victims, unfreezing ties with Japan | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-04 | The Washington Declaration establishes a U.S.–South Korea Nuclear Consultative Group | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
