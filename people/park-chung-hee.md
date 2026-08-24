@@ -152,4 +152,5 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — The nuclear-energy program and heavy-industry strategy launched under his rule.
 - [Daegu](../geography/daegu.md) — The North Gyeongsang city and TK region that anchored his conservative political base.
 - [Ulsan](../geography/ulsan.md) — The southeastern city his government designated as Korea's first Special Industrial District in 1962, anchoring the heavy-and-chemical drive.
+- [Daejeon](../geography/daejeon.md) — Site of the Daedeok Science Town his government launched in 1973 to build national research capacity.
 <!-- END GENERATED: related -->

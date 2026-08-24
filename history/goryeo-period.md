@@ -219,4 +219,5 @@ Goryeo's contributions shaped Korean civilization across multiple dimensions:
 - [Seoul](../geography/seoul.md) — Hanyang (present-day Seoul), which Yi Seong-gye made the capital of the succeeding Joseon dynasty after Goryeo's fall.
 - [Joseon Dynasty](joseon-dynasty.md) — The Neo-Confucian dynasty (1392–1910) that succeeded Goryeo and reversed its patronage of Buddhism.
 - [Religion and Buddhism in Korea](../culture-society/religion-and-buddhism.md) — Goryeo state Buddhism and the Tripitaka Koreana within Korea's longer religious history.
+- [Korean Traditional Visual Arts](../culture-society/traditional-visual-arts.md) — Goryeo celadon and Buddhist painting, the era's defining artistic achievements.
 <!-- END GENERATED: related -->

@@ -17,4 +17,5 @@ Topics on the land, regions, cities, and physical setting of South Korea.
 - [Gyeonggi Province](gyeonggi-province.md) — South Korea's most populous province, the industrial and residential ring surrounding Seoul; home to the country's largest regional economy, major chip fabs, the Pangyo tech cluster, and the DMZ frontier.
 - [Ulsan](ulsan.md) — South Korea's heavy-industrial capital on the southeastern coast; home to the country's largest petrochemical complex, Hyundai's flagship auto plant, and Hyundai Heavy Industries' shipyard.
 - [Gwangju](gwangju.md) — The largest city of the southwestern Honam region; a symbol of Korea's democracy movement and the 1980 Gwangju Uprising, and home of the Gwangju Biennale and the Asia Culture Center.
+- [Daejeon](daejeon.md) — South Korea's fifth-largest metropolitan city and foremost science hub at the geographic center of the country; home to the Daedeok Innopolis research complex, KAIST, and the national rail nexus.
 <!-- END GENERATED: category-index -->

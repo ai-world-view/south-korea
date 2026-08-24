@@ -187,4 +187,6 @@ Looking forward, South Korea's technology sector positioned itself across severa
 - [Gyeonggi Province](../geography/gyeonggi-province.md) — The Pangyo Techno Valley, Bundang, and the Suwon–Hwaseong–Pyeongtaek fab belt where much of the sector is based.
 - [Webtoons and Digital Comics](../culture-society/webtoons.md) — The Naver- and Kakao-led webtoon platforms as a flagship digital-content export of the technology economy.
 - [Gaming Industry in South Korea](../culture-society/gaming-industry.md) — Online, mobile, and esports gaming as the technology economy's largest digital-content export.
+- [Naver](naver.md) — The dominant search portal and platform ecosystem, and a leading domestic developer of large language models (HyperCLOVA X).
+- [Daejeon](../geography/daejeon.md) — The Daedeok Innopolis research complex and KAIST, a core engine of the sector's R&D.
 <!-- END GENERATED: related -->

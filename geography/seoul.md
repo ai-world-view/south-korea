@@ -133,4 +133,5 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Incheon](incheon.md) — The capital region's gateway port and airport city, 30 km to the west and linked to Seoul by rail and expressway.
 - [Architecture and Urban Design in South Korea](../culture-society/architecture-urban-design.md) — Seoul's skyline transformation, apartment urbanism, and landmark buildings from Gyeongbokgung to Lotte World Tower.
 - [Gyeonggi Province](../geography/gyeonggi-province.md) — The industrial and residential ring surrounding Seoul, forming the greater capital region.
+- [Daejeon](daejeon.md) — The central science city whose Daedeok complex was meant to decentralize the capital's research talent.
 <!-- END GENERATED: related -->

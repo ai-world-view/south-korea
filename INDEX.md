@@ -20,6 +20,7 @@ Index: [geography/](geography/index.md)
 - [Gyeonggi Province](geography/gyeonggi-province.md)
 - [Ulsan](geography/ulsan.md)
 - [Gwangju](geography/gwangju.md)
+- [Daejeon](geography/daejeon.md)
 
 ## History
 
@@ -60,6 +61,7 @@ Index: [economy/](economy/index.md)
 - [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md)
 - [Shipbuilding Industry in South Korea](economy/shipbuilding-industry.md)
 - [Tourism Industry in South Korea](economy/tourism-industry.md)
+- [Naver](economy/naver.md)
 
 ## Culture & Society
 
@@ -78,6 +80,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Gaming Industry in South Korea](culture-society/gaming-industry.md)
 - [Korean Literature and Literary Culture](culture-society/korean-literature.md)
 - [Korean Drama Industry](culture-society/korean-drama-industry.md)
+- [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md)
 
 ## People
 

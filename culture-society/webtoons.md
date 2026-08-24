@@ -190,4 +190,5 @@ The webtoon industry faces evolving dynamics:
 - [Film and Cinema Industry](film-cinema-industry.md) — the adaptation pipeline and Korean entertainment-production system
 - [Technology Sector and ICT Innovation](../economy/technology-sector.md) — webtoons as digital content within Korea's broader ICT economy
 - [Education and Universities in South Korea](education-and-universities.md) — art and design education pathways into webtoon creation
+- [Naver](../economy/naver.md) — the platform that pioneered the webtoon format and spun off Webtoon Entertainment
 <!-- END GENERATED: related -->

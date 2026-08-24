@@ -134,6 +134,7 @@ Joseon's legacy is visible in contemporary Korean culture: in the Confucian reve
 - [Yi Sun-sin](../people/yi-sun-sin.md) — the admiral whose naval victories in the Imjin War defended Joseon against Hideyoshi's invasions.
 - [Sejong the Great](../people/sejong-the-great.md) — Joseon's fourth king, whose reign produced Hangul, the Hall of Worthies, and the northern frontier.
 - [Korean Literature and Literary Culture](../culture-society/korean-literature.md) — the sijo, pansori, and vernacular fiction that crystallized during the dynasty.
+- [Korean Traditional Visual Arts](../culture-society/traditional-visual-arts.md) — literati ink painting, Kim Jeong-hui's calligraphy, and the white porcelain that embodied Neo-Confucian aesthetics.
 <!-- END GENERATED: related -->
 
 ## Sources

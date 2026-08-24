@@ -211,4 +211,5 @@ South Korea's gaming industry is positioned for continued growth, driven by emer
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — state promotion and regulation of the game industry
 - [Chaebol (Korean Conglomerates)](../economy/chaebol.md) — the large corporate structure of Nexon, NCSoft, and Krafton
 - [Seoul](../geography/seoul.md) — the PC-bang culture and industry hub
+- [Naver](../economy/naver.md) — whose merger with Hangame in 2002 formed the gaming-and-search conglomerate NHN
 <!-- END GENERATED: related -->

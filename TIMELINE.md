@@ -26,6 +26,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 676 | Silla expels Tang forces, unifying the peninsula south of the Taedong River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 686 | Wonhyo, Korea's most celebrated Buddhist thinker, dies | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 751 | Bulguksa Temple and Seokguram Grotto are rebuilt in Gyeongju | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 751 | The Seokguram Grotto Buddha, a summit of Silla Buddhist sculpture, is carved near Gyeongju | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 918 | Wang Geon founds the Goryeo dynasty with its capital at Kaesong | History | [Goryeo Period](history/goryeo-period.md) |
 | 935 | The last Silla king abdicates to Wang Geon, founder of Goryeo | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 936 | Goryeo completes the reunification of the Later Three Kingdoms | History | [Goryeo Period](history/goryeo-period.md) |
@@ -36,6 +37,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 993 | Seo Hui's diplomacy ends the first Khitan invasion, extending Goryeo toward the Yalu River | History | [Goryeo Period](history/goryeo-period.md) |
 | c. 1007 | Hallasan, Jeju's shield volcano, has its last recorded eruption | Geography | [Jeju Island](geography/jeju-island.md) |
 | 1019 | Gang Gam-chan destroys the Liao army at the Battle of Gwiju | History | [Goryeo Period](history/goryeo-period.md) |
+| 1124 | Song envoy Xu Jing praises Goryeo celadon's "kingfisher-blue" glaze | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 1170 | A military coup inaugurates a century of military rule in Goryeo | History | [Goryeo Period](history/goryeo-period.md) |
 | 1231 | The Mongols launch the first of six invasions of Goryeo | History | [Goryeo Period](history/goryeo-period.md) |
 | 1232 | The Goryeo court relocates to Ganghwa Island to resist the Mongols | History | [Goryeo Period](history/goryeo-period.md) |
@@ -69,6 +71,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1601 | Daegu becomes the seat of the Gyeongsang provincial government | History | [Daegu](geography/daegu.md) |
 | 1637 | King Injo surrenders to the Qing at Samjeondo after the Byeongja Horan | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1658 | Daegu's Yangnyeong herbal-medicine market is established by royal decree | Culture & Society | [Daegu](geography/daegu.md) |
+| 1751 | Jeong Seon paints "Inwang jesaekdo," a landmark of True-View landscape painting | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 1784 | Yi Seung-hun is baptized in Beijing, founding Korea's Catholic community | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1794 | Construction begins on Hwaseong Fortress in Suwon under King Jeongjo | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1796 | Hwaseong Fortress is completed, a landmark of Joseon military architecture | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
@@ -83,6 +86,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1896 | Gwangju becomes the provincial capital of the newly created South Jeolla Province | Geography | [Gwangju](geography/gwangju.md) |
 | 1897 | Gojong proclaims the Empire of Korea (Daehan Jeguk), ending the Joseon kingdom's old order | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1899 | The Gyeongin Line, Korea's first railway, opens between Seoul and Incheon | Geography | [Incheon](geography/incheon.md) |
+| 1905-01-01 | The Gyeongbu Line opens, establishing the railway junction that becomes Daejeon | Geography | [Daejeon](geography/daejeon.md) |
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1907 | Emperor Gojong is forced to abdicate and the Korean army is disbanded | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1907 | The Pyongyang Great Revival shapes the character of Korean Protestantism | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
@@ -128,6 +132,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1948-12-01 | The National Security Law is enacted, anchoring decades of anticommunist repression | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1950-06-25 | North Korea invades the South, beginning the Korean War | History | [Korean War](history/korean-war.md) |
 | 1950-06-28 | Seoul falls to North Korean forces | History | [Korean War](history/korean-war.md) |
+| 1950-07-20 | U.S. forces fight the delaying Battle of Taejon; Maj. Gen. William F. Dean is captured | Geography | [Daejeon](geography/daejeon.md) |
 | 1950-08 | UN and ROK forces hold the Busan Perimeter, the Korean War's last defensive line | Geography | [Busan](geography/busan.md) |
 | 1950-09-15 | Incheon Landing (Operation Chromite) reverses the war | History | [Korean War](history/korean-war.md) |
 | 1950-09-28 | UN forces recapture Seoul | History | [Korean War](history/korean-war.md) |
@@ -154,6 +159,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1967 | The Yeosu National Industrial Complex is established on the south coast | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
+| 1967 | Park Seo-bo begins his "Ecriture" series, a foundation of the Dansaekhwa movement | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 1968 | A bronze statue of Admiral Yi Sun-sin is erected at Gwanghwamun in central Seoul | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
@@ -169,6 +175,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1972-10-17 | Park declares martial law, ushering in the authoritarian Yushin system | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
 | 1973 | Daewoo's Okpo shipyard is established on Geoje Island | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
+| 1973 | Park Chung-hee launches the Daedeok Science Town, seeding Daejeon's research complex | Geography | [Daejeon](geography/daejeon.md) |
 | 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974 | The Yulgok Project launches a decade-long armed-forces modernization drive | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
@@ -205,10 +212,12 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1988-09-17 | South Korea finishes fourth in the medal table at the Seoul Olympics it hosts | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1989 | The First Generation New Towns of Bundang and Ilsan are launched around Seoul | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1989 | Lotte World opens in Seoul, becoming a flagship domestic tourist attraction | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
+| 1989 | Daejeon is elevated to a direct-jurisdiction city as KAIST relocates to Daedeok | Geography | [Daejeon](geography/daejeon.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
+| 1993-08-07 | Daejeon hosts the World Exposition (Expo '93), drawing some 14 million visitors | Geography | [Daejeon](geography/daejeon.md) |
 | 1994 | Nexon is founded by Kim Jung-ju and Jake Song, pioneering online free-to-play gaming | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1995 | Daegu is redesignated a Metropolitan City | Geography | [Daegu](geography/daegu.md) |
 | 1995 | The first Gwangju Biennale opens, Asia's first major international contemporary-art biennale | Culture & Society | [Gwangju](geography/gwangju.md) |
@@ -238,6 +247,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2000-06-15 | First inter-Korean summit; June 15 Joint Declaration signed in Pyongyang | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
+| 2002 | Naver merges with the game company Hangame to form NHN and launches the Knowledge iN Q&A service | Economy | [Naver](economy/naver.md) |
 | 2002 | Smilegate is founded by Kwon Hyuk-bin, later maker of *Crossfire* and *Lost Ark* | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2002 | Gravity's *Ragnarok Online* launches, a hit across Southeast Asia | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2002 | "Winter Sonata" airs, fueling the early Korean Wave across Asia | Culture & Society | [Hallyu](culture-society/hallyu.md) |
@@ -291,6 +301,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-11-01 | KTX high-speed rail service reaches Ulsan on the Gyeongbu line | Geography | [Ulsan](geography/ulsan.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
+| 2011 | Naver's Japanese arm launches the LINE messaging app, which becomes dominant across East and Southeast Asia | Economy | [Naver](economy/naver.md) |
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
 | 2011-11 | The Shutdown Law ("Cinderella Law") takes effect, barring under-16 online gaming overnight | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2011-12 | Nexon lists on the Tokyo Stock Exchange in one of Japan's largest IPOs | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -319,6 +330,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2014-09-19 | Incheon hosts the 17th Asian Games | Geography | [Incheon](geography/incheon.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2015 | The Gyeongju low- and intermediate-level nuclear-waste repository opens | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
+| 2015 | A Galerie Perrotin retrospective brings the Dansaekhwa monochrome movement to global attention | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 2015-01 | South Korea launches the K-ETS, East Asia's first nationwide carbon cap-and-trade market | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2015-04-02 | The Honam KTX high-speed line opens, cutting Seoul–Gwangju travel to about 1 hour 33 minutes | Geography | [Gwangju](geography/gwangju.md) |
 | 2015-11 | The Asia Culture Center opens in Gwangju on the site of the former South Jeolla Provincial Hall | Culture & Society | [Gwangju](geography/gwangju.md) |
@@ -402,6 +414,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2023 | Ground-breaking begins on the S-Oil Shaheen petrochemical complex at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2023 | International tourist arrivals rebound to about 11 million after COVID entry curbs are lifted | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
+| 2023 | Naver releases HyperCLOVA X, a multimodal Korean-first large language model | Economy | [Naver](economy/naver.md) |
 | 2023-01 | The 10th electricity plan raises nuclear to 32.4% of the mix by 2036, reversing the phase-out | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2023-03 | Yoon's government announces a third-party fund for wartime forced-labor victims, unfreezing ties with Japan | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-04 | The Washington Declaration establishes a U.S.–South Korea Nuclear Consultative Group | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
