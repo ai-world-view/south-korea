@@ -134,4 +134,5 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Architecture and Urban Design in South Korea](../culture-society/architecture-urban-design.md) — Seoul's skyline transformation, apartment urbanism, and landmark buildings from Gyeongbokgung to Lotte World Tower.
 - [Gyeonggi Province](../geography/gyeonggi-province.md) — The industrial and residential ring surrounding Seoul, forming the greater capital region.
 - [Daejeon](daejeon.md) — The central science city whose Daedeok complex was meant to decentralize the capital's research talent.
+- [Construction Industry and Real Estate Development](../economy/construction-industry.md) — The industry behind the capital's apartment urbanism, Gangnam development, and landmark towers.
 <!-- END GENERATED: related -->

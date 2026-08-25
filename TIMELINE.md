@@ -147,6 +147,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1954 | The Korea Development Bank is founded to channel long-term industrial credit | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1954 | A Buddhist purification drive consolidates the Jogye Order; the Unification Church is founded | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 1956-05-12 | HLKZ-TV, South Korea's first television station, begins broadcasting in Seoul | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1960 | Kim Ki-young's "The Housemaid" is released, later hailed as a masterpiece | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1960 | Choi In-hun's novel "Plaza" confronts the ideological division of Korea | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1960-04-19 | The April Revolution erupts against Syngman Rhee's rigged re-election, with police killing scores of protesters in Seoul | People | [Syngman Rhee](people/syngman-rhee.md) |
@@ -154,6 +155,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1960-12-18 | Yoon Suk-yeol is born in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 1961 | Park Chung-hee's government brings the commercial banks under state control | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1961-05-16 | Park Chung-hee seizes power in a military coup | People | [Park Chung-hee](people/park-chung-hee.md) |
+| 1961-12-02 | Munhwa Broadcasting Corporation (MBC) is founded | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1962 | Ulsan is designated South Korea's first Special Industrial District | Geography | [Ulsan](geography/ulsan.md) |
 | 1962 | The Korea Tourism Organization is founded to promote inbound tourism | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
@@ -164,6 +166,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
+| 1970-07 | The Seoul–Busan (Gyeongbu) Expressway is completed, South Korea's first limited-access highway | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 1970-11-13 | Garment worker Jeon Tae-il self-immolates, demanding enforcement of the Labor Standards Act | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
@@ -176,6 +179,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
 | 1973 | Daewoo's Okpo shipyard is established on Geoje Island | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 1973 | Park Chung-hee launches the Daedeok Science Town, seeding Daejeon's research complex | Geography | [Daejeon](geography/daejeon.md) |
+| 1973 | KBS is reorganized as a public corporation and launches its flagship 9 O'Clock News | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974 | The Yulgok Project launches a decade-long armed-forces modernization drive | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
@@ -183,6 +187,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1974-08-15 | First Lady Yuk Young-soo killed in an assassination attempt on Park | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1975 | Roh Moo-hyun passes the bar as a self-taught lawyer without a university degree | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 1975 | Hyundai launches the Pony, Korea's first domestically designed car | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 1975 | Seoul National University relocates to its purpose-built Gwanak campus in southern Seoul | Culture & Society | [Seoul National University](culture-society/seoul-national-university.md) |
 | 1976 | The Export-Import Bank of Korea (KEXIM) is established to finance exports | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1977 | Lee Myung-bak becomes CEO of Hyundai Engineering & Construction at 35 | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1978-04 | Kori-1, South Korea's first commercial nuclear reactor, begins operation near Busan | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
@@ -192,6 +197,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1980-05-18 | Gwangju Uprising begins; paratroopers suppress pro-democracy protests | History | [Democratization](history/democratization.md) |
 | 1980-05-27 | The army retakes Gwangju's Provincial Hall, ending the ten-day uprising | History | [Gwangju Uprising (May 18 Incident)](history/gwangju-uprising.md) |
 | 1980-09-17 | A military tribunal sentences Kim Dae-jung to death after the Gwangju Uprising | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1981 | Korean overseas construction employment in the Middle East peaks at about 175,000 workers | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 1981-07-01 | Daegu is separated from North Gyeongsang Province as a Directly Governed City | Geography | [Daegu](geography/daegu.md) |
 | 1982 | The Korea Baseball Organization (KBO) is founded with six teams | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1983 | Hyundai Electronics, later SK Hynix, is founded | Economy | [Semiconductors](economy/semiconductors.md) |
@@ -213,6 +219,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1989 | The First Generation New Towns of Bundang and Ilsan are launched around Seoul | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1989 | Lotte World opens in Seoul, becoming a flagship domestic tourist attraction | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1989 | Daejeon is elevated to a direct-jurisdiction city as KAIST relocates to Daedeok | Geography | [Daejeon](geography/daejeon.md) |
+| 1991-12 | SBS begins television broadcasting, ending the KBS–MBC duopoly | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
@@ -305,7 +312,9 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
 | 2011-11 | The Shutdown Law ("Cinderella Law") takes effect, barring under-16 online gaming overnight | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2011-12 | Nexon lists on the Tokyo Stock Exchange in one of Japan's largest IPOs | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2011-12 | JTBC and other comprehensive programming cable channels launch under the 2009 media law | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 2012 | The Global Green Growth Institute is established with its headquarters in Seoul | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2012 | Sejong City is formally inaugurated as a multi-ministry administrative city | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 2012 | The League of Legends Champions Korea (LCK) esports league is established | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2012 | Honam Petrochemical is renamed Lotte Chemical | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2012 | Eurasian otters return to Ulsan's restored Taehwa River, a symbol of its ecological recovery | Geography | [Ulsan](geography/ulsan.md) |
@@ -316,6 +325,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2012 | The National Assembly is enlarged to 300 seats and overseas absentee voting is first used | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 2012-05 | The Gyeongin Ara Waterway opens, linking the Han River to the Yellow Sea at Incheon | Geography | [Incheon](geography/incheon.md) |
 | 2012-12-19 | Park Geun-hye is elected president, the first woman and first popular-vote majority since 1987 | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2012-12-31 | South Korea completes its transition from analog to digital terrestrial broadcasting | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 2013 | Lezhin Comics launches a paid-only webtoon platform for mature content | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2013 | Yi Sun-sin's War Diary (*Nanjung Ilgi*) is inscribed in UNESCO's Memory of the World register | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 2013 | Samsung commercializes the world's first 3D V-NAND flash memory | Economy | [Semiconductors](economy/semiconductors.md) |
@@ -368,6 +378,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-09-18 | Pyongyang inter-Korean summit; Moon addresses 150,000 at May Day Stadium | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 2019 | International visitor arrivals peak at about 17.5 million, a pre-pandemic record | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
+| 2019 | wavve launches as the terrestrial broadcasters' streaming joint venture with SK Telecom | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 2019-04-03 | South Korea launches the world's first commercial 5G network | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2019-04-11 | The Constitutional Court rules the ban on abortion unconstitutional | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2019-05 | Bong Joon-ho's "Parasite" wins the Palme d'Or at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
@@ -399,7 +410,9 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022 | S-Oil announces the ₩9.25 trillion Shaheen crude-to-chemicals project at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2022 | The European Commission blocks Hyundai Heavy Industries' acquisition of DSME | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2022 | The Terra/Luna cryptocurrency collapse wipes out roughly $40 billion and spurs Korean regulation | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
+| 2022 | A project-finance (PF) crunch grips construction as rate hikes stall real-estate projects | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 2022-01 | LG Energy Solution's record $10.8 billion IPO becomes Korea's largest | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 2022-01-27 | The Serious Accidents Punishment Act takes effect, imposing criminal liability on executives for workplace deaths | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 2022-02 | *Lost Ark* launches in the West via Amazon Games, peaking at 1.3 million concurrent Steam players | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |

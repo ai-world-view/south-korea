@@ -153,4 +153,6 @@ The arc from father to daughter encapsulates South Korea's broader historical te
 - [Daegu](../geography/daegu.md) — The North Gyeongsang city and TK region that anchored his conservative political base.
 - [Ulsan](../geography/ulsan.md) — The southeastern city his government designated as Korea's first Special Industrial District in 1962, anchoring the heavy-and-chemical drive.
 - [Daejeon](../geography/daejeon.md) — Site of the Daedeok Science Town his government launched in 1973 to build national research capacity.
+- [Construction Industry and Real Estate Development](../economy/construction-industry.md) — The infrastructure and heavy-construction drive — the Gyeongbu Expressway, POSCO, and the Middle East boom — central to his development model.
+- [Seoul National University](../culture-society/seoul-national-university.md) — The flagship university his developmental state funded for engineering and science talent, and a center of dissent against his rule.
 <!-- END GENERATED: related -->

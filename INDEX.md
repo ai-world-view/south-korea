@@ -62,6 +62,7 @@ Index: [economy/](economy/index.md)
 - [Shipbuilding Industry in South Korea](economy/shipbuilding-industry.md)
 - [Tourism Industry in South Korea](economy/tourism-industry.md)
 - [Naver](economy/naver.md)
+- [Construction Industry and Real Estate Development](economy/construction-industry.md)
 
 ## Culture & Society
 
@@ -81,6 +82,8 @@ Index: [culture-society/](culture-society/index.md)
 - [Korean Literature and Literary Culture](culture-society/korean-literature.md)
 - [Korean Drama Industry](culture-society/korean-drama-industry.md)
 - [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md)
+- [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md)
+- [Seoul National University](culture-society/seoul-national-university.md)
 
 ## People
 

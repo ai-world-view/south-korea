@@ -81,4 +81,5 @@ The K-drama industry's live-shoot production model has attracted increasing scru
 - [Education and Universities in South Korea](education-and-universities.md) — Training institutions for actors, screenwriters, and media professionals, including the Korea National University of Arts (K-Arts).
 - [Architecture and Urban Design in South Korea](architecture-urban-design.md) — The filming locations and urban landscapes of Seoul, Jeju, and Busan featured prominently in drama aesthetics and set tourism.
 - [Technology Sector and ICT Innovation](../economy/technology-sector.md) — The streaming platforms, content delivery, and advanced broadband that enable global digital distribution of Korean drama.
+- [Korean Broadcast Television Industry](korean-broadcast-television.md) — The KBS/MBC/SBS terrestrial networks that pioneered and still produce serialized drama.
 <!-- END GENERATED: related -->

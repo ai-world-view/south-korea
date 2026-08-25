@@ -246,4 +246,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Labor and Employment Policy in South Korea](labor-employment-policy.md) — Labor–management relations, union density, and employment practices in the chaebol.
 - [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — The chemical divisions of LG, SK, Lotte, Hanwha, and other chaebol.
 - [Shipbuilding Industry in South Korea](shipbuilding-industry.md) — The chaebol-integrated "Big Three" yards of HD Hyundai, Hanwha, and Samsung Heavy Industries.
+- [Construction Industry and Real Estate Development](construction-industry.md) — The chaebol construction arms (Hyundai E&C, Samsung C&T, GS, Lotte) that build the country's megaprojects and apartments.
 <!-- END GENERATED: related -->
