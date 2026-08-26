@@ -21,6 +21,7 @@ Index: [geography/](geography/index.md)
 - [Ulsan](geography/ulsan.md)
 - [Gwangju](geography/gwangju.md)
 - [Daejeon](geography/daejeon.md)
+- [Suwon](geography/suwon.md)
 
 ## History
 
@@ -63,6 +64,7 @@ Index: [economy/](economy/index.md)
 - [Tourism Industry in South Korea](economy/tourism-industry.md)
 - [Naver](economy/naver.md)
 - [Construction Industry and Real Estate Development](economy/construction-industry.md)
+- [Telecommunications Industry](economy/telecommunications-industry.md)
 
 ## Culture & Society
 
@@ -100,4 +102,5 @@ Index: [people/](people/index.md)
 - [Yi Sun-sin](people/yi-sun-sin.md)
 - [Sejong the Great](people/sejong-the-great.md)
 - [Syngman Rhee](people/syngman-rhee.md)
+- [Kim Young-sam](people/kim-young-sam.md)
 <!-- END GENERATED: index -->

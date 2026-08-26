@@ -74,6 +74,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1751 | Jeong Seon paints "Inwang jesaekdo," a landmark of True-View landscape painting | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 1784 | Yi Seung-hun is baptized in Beijing, founding Korea's Catholic community | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1794 | Construction begins on Hwaseong Fortress in Suwon under King Jeongjo | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
+| 1794 | Construction of Hwaseong Fortress begins at Suwon under King Jeongjo | Geography | [Suwon](geography/suwon.md) |
 | 1796 | Hwaseong Fortress is completed, a landmark of Joseon military architecture | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1801 | The Sinyu Persecution executes hundreds of Korean Catholics | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1866 | The Byeongin Persecution kills thousands of Catholics; a French expedition is repulsed at Ganghwa | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
@@ -106,6 +107,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1924-01-06 | Kim Dae-jung born on Hauido, South Jeolla Province | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1926 | Na Woon-gyu's silent film "Arirang" becomes an early nationalist landmark | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1926 | The Japanese Government-General Building is completed in front of Gyeongbokgung Palace | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
+| 1927-12-20 | Kim Young-sam is born on Geoje Island | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1929-11-03 | The Gwangju Student Independence Movement erupts and spreads into a nationwide anti-colonial protest | History | [Gwangju](geography/gwangju.md) |
 | 1932-04-29 | Yun Bong-gil bombs a Japanese ceremony at Shanghai's Hongkou Park | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1933 | The Korean Language Society issues the Unified Hangul Orthography, the basis of modern spelling | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
@@ -146,6 +148,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
 | 1954 | The Korea Development Bank is founded to channel long-term industrial credit | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1954 | A Buddhist purification drive consolidates the Jogye Order; the Unification Church is founded | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 1954 | Kim Young-sam is elected to the National Assembly at 26, its youngest-ever member | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1956-05-12 | HLKZ-TV, South Korea's first television station, begins broadcasting in Seoul | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1960 | Kim Ki-young's "The Housemaid" is released, later hailed as a masterpiece | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
@@ -166,6 +169,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
+| 1970 | Samsung begins consumer-electronics manufacturing at its Suwon plant | Geography | [Suwon](geography/suwon.md) |
 | 1970-07 | The Seoul–Busan (Gyeongbu) Expressway is completed, South Korea's first limited-access highway | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 1970-11-13 | Garment worker Jeon Tae-il self-immolates, demanding enforcement of the Labor Standards Act | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
@@ -198,10 +202,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1980-05-27 | The army retakes Gwangju's Provincial Hall, ending the ten-day uprising | History | [Gwangju Uprising (May 18 Incident)](history/gwangju-uprising.md) |
 | 1980-09-17 | A military tribunal sentences Kim Dae-jung to death after the Gwangju Uprising | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1981 | Korean overseas construction employment in the Middle East peaks at about 175,000 workers | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
+| 1981 | Korea Telecom is established as the state telecommunications operator | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 1981-07-01 | Daegu is separated from North Gyeongsang Province as a Directly Governed City | Geography | [Daegu](geography/daegu.md) |
 | 1982 | The Korea Baseball Organization (KBO) is founded with six teams | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1983 | Hyundai Electronics, later SK Hynix, is founded | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1983 | The Korea Gas Corporation (KOGAS) is established to import and distribute LNG | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
+| 1983-05 | Kim Young-sam stages a 23-day hunger strike against the Chun regime | People | [Kim Young-sam](people/kim-young-sam.md) |
+| 1984 | Korea Mobile Telecommunications, later SK Telecom, launches the first cellular network | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 1986 | The government-led VLSI project (1986–1990) accelerates Korea's DRAM catch-up | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1986 | Nongshim launches Shin Ramyun, later exported to over 100 countries | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 1986 | South Korea's first LNG imports begin under a long-term contract with Indonesia | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
@@ -219,19 +226,25 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1989 | The First Generation New Towns of Bundang and Ilsan are launched around Seoul | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1989 | Lotte World opens in Seoul, becoming a flagship domestic tourist attraction | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1989 | Daejeon is elevated to a direct-jurisdiction city as KAIST relocates to Daedeok | Geography | [Daejeon](geography/daejeon.md) |
+| 1990-01 | The three-party merger forms the Democratic Liberal Party under Kim Young-sam | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1991-12 | SBS begins television broadcasting, ending the KBS–MBC duopoly | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
+| 1993-03 | Kim Young-sam purges the Hanahoe military clique from the army command | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1993-08-07 | Daejeon hosts the World Exposition (Expo '93), drawing some 14 million visitors | Geography | [Daejeon](geography/daejeon.md) |
+| 1993-08-12 | The Real-Name Financial Transaction System is introduced by emergency decree | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1994 | Nexon is founded by Kim Jung-ju and Jake Song, pioneering online free-to-play gaming | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1995 | Daegu is redesignated a Metropolitan City | Geography | [Daegu](geography/daegu.md) |
 | 1995 | The first Gwangju Biennale opens, Asia's first major international contemporary-art biennale | Culture & Society | [Gwangju](geography/gwangju.md) |
 | 1995 | The colonial Government-General Building is demolished on the 50th anniversary of liberation | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 1995-11-11 | The Korean Confederation of Trade Unions (KCTU) is founded as an independent labor federation | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1996 | H.O.T. debuts as the first fully managed K-pop idol group | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 1996 | South Korea launches the world's first commercial CDMA mobile network | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
+| 1996-08 | Chun Doo-hwan and Roh Tae-woo are convicted for the 1979–80 coups and corruption | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1996-10 | Busan International Film Festival, Asia's first major film festival, is inaugurated | Culture & Society | [Busan](geography/busan.md) |
+| 1996-12-12 | South Korea joins the OECD as its 29th member | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1997 | Hwaseong Fortress in Suwon is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1997 | The Hunminjeongeum Haerye is inscribed on UNESCO's Memory of the World register | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1997-03 | NCSoft is founded by Kim Taek-jin, becoming a leading MMORPG developer | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -239,6 +252,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1997-11 | Foreign banks refuse to roll over Korea's short-term debt, forcing an IMF rescue request | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
 | 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
+| 1997-12-22 | Kim Young-sam pardons Chun Doo-hwan and Roh Tae-woo before leaving office | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1998 | Se Ri Pak wins the U.S. Women's Open, inspiring the "Se Ri Kids" golf generation | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1998-01 | The Tripartite Commission is established to negotiate IMF-era labor reforms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1998-02-25 | Kim Dae-jung inaugurated as the 15th president amid the IMF crisis | People | [Kim Dae-jung](people/kim-dae-jung.md) |
@@ -260,6 +274,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2002 | "Winter Sonata" airs, fueling the early Korean Wave across Asia | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2002 | South Korea attains the world's highest broadband penetration rate | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2002 | The Jeju Free International City initiative launches visa-free entry through Jeju | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
+| 2002 | Suwon World Cup Stadium hosts matches at the FIFA World Cup co-hosted by South Korea | Geography | [Suwon](geography/suwon.md) |
 | 2002-06 | South Korea reaches the FIFA World Cup semi-finals as co-host, an Asian best | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2002-09 | Busan hosts the 14th Asian Games, with North Korea participating | Culture & Society | [Busan](geography/busan.md) |
 | 2002-12-19 | Roh Moo-hyun wins the presidential election with 48.9% of the vote | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
@@ -309,6 +324,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2011 | Naver's Japanese arm launches the LINE messaging app, which becomes dominant across East and Southeast Asia | Economy | [Naver](economy/naver.md) |
+| 2011-07 | SK Telecom and LG U+ launch commercial 4G LTE service | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
 | 2011-11 | The Shutdown Law ("Cinderella Law") takes effect, barring under-16 online gaming overnight | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2011-12 | Nexon lists on the Tokyo Stock Exchange in one of Japan's largest IPOs | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -344,6 +360,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2015-01 | South Korea launches the K-ETS, East Asia's first nationwide carbon cap-and-trade market | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2015-04-02 | The Honam KTX high-speed line opens, cutting Seoul–Gwangju travel to about 1 hour 33 minutes | Geography | [Gwangju](geography/gwangju.md) |
 | 2015-11 | The Asia Culture Center opens in Gwangju on the site of the former South Jeolla Provincial Hall | Culture & Society | [Gwangju](geography/gwangju.md) |
+| 2015-11-22 | Kim Young-sam dies in Seoul at the age of 87 | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 2016-01 | Netflix launches in South Korea, reshaping K-drama production and global distribution | Culture & Society | [Korean Drama Industry](culture-society/korean-drama-industry.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
@@ -374,9 +391,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-04 | Park Geun-hye is convicted and sentenced to 24 years in prison (later finalized at 20) | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2018-04-27 | Panmunjom Declaration between the two Koreas | History | [Korean War](history/korean-war.md) |
 | 2018-05 | BTS's *Love Yourself: Tear* becomes the first Korean-language album to top the Billboard 200 | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2018-06 | The three carriers pay about 3.6 trillion won at auction for 5G spectrum | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2018-06-12 | First U.S.–North Korea summit held in Singapore | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2018-09-18 | Pyongyang inter-Korean summit; Moon addresses 150,000 at May Day Stadium | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
+| 2018-12-01 | South Korea activates its first limited (B2B) 5G service, claiming a world first | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2019 | International visitor arrivals peak at about 17.5 million, a pre-pandemic record | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2019 | wavve launches as the terrestrial broadcasters' streaming joint venture with SK Telecom | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 2019-04-03 | South Korea launches the world's first commercial 5G network | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
@@ -405,7 +424,9 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-08 | Krafton raises about 4.3 trillion won in the year's largest Korean IPO | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2021-08 | The Carbon Neutrality and Green Growth Act enshrines the 2050 net-zero target in law | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2021-10 | South Korea submits an enhanced NDC pledging a 40% emissions cut from 2018 levels by 2030 | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2021-10-25 | A nationwide KT network outage disrupts internet service across the country | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2021-11 | The Shutdown Law is repealed, replaced by a voluntary parental time-choice system | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2021-11 | SK Telecom spins off SK Square as a separate investment holding company | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2021-12-24 | President Moon Jae-in pardons Park Geun-hye, who is released after nearly five years | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2022 | S-Oil announces the ₩9.25 trillion Shaheen crude-to-chemicals project at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2022 | The European Commission blocks Hyundai Heavy Industries' acquisition of DSME | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |

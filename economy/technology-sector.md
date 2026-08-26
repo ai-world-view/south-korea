@@ -189,4 +189,5 @@ Looking forward, South Korea's technology sector positioned itself across severa
 - [Gaming Industry in South Korea](../culture-society/gaming-industry.md) — Online, mobile, and esports gaming as the technology economy's largest digital-content export.
 - [Naver](naver.md) — The dominant search portal and platform ecosystem, and a leading domestic developer of large language models (HyperCLOVA X).
 - [Daejeon](../geography/daejeon.md) — The Daedeok Innopolis research complex and KAIST, a core engine of the sector's R&D.
+- [Telecommunications Industry](telecommunications-industry.md) — The SKT/KT/LG U+ carriers and Samsung network equipment behind Korea's 5G/6G leadership.
 <!-- END GENERATED: related -->

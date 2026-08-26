@@ -159,6 +159,7 @@ The Bank of Korea and FSS have periodically implemented Loan-to-Value (LTV) and 
 - [Automotive Industry](automotive-industry.md) — chaebol sector whose debt-financed expansion created crisis-era exposure.
 - [Park Chung-hee](../people/park-chung-hee.md) — architect of the developmental state that built the banking system.
 - [Government Structure of South Korea](../government-politics/government-structure.md) — the FSC/FSS regulatory architecture for banking oversight.
+- [Kim Young-sam](../people/kim-young-sam.md) — the president whose capital-account liberalization and Real-Name Financial System preceded the 1997 IMF crisis.
 <!-- END GENERATED: related -->
 
 ## Sources

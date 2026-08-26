@@ -120,4 +120,6 @@ South Korea's semiconductor success since the 1980s — from latecomer to global
 - [Energy and Resources Policy](energy-resources-policy.md) — The reliable baseload power on which energy-intensive fabs depend.
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — Chip export controls and the defense-industrial supply chain.
 - [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — The specialty chemicals (photoresists, CMP slurries, process gases) that chip fabrication depends on.
+- [Telecommunications Industry](telecommunications-industry.md) — The 5G/6G networks and mobile devices that memory and logic chips power.
+- [Suwon](../geography/suwon.md) — Home to Samsung's Digital City and the Gyeonggi chip-fab belt that anchors the industry.
 <!-- END GENERATED: related -->

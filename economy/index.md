@@ -21,4 +21,5 @@ Topics on the industries, institutions, and economic development of South Korea,
 - [Tourism Industry in South Korea](tourism-industry.md) — International and domestic tourism and the Hallyu-driven visitor boom; Jeju, heritage, food, and MICE tourism; the industry's economic weight; and the COVID-19 shock and recovery.
 - [Naver](naver.md) — South Korea's largest internet company and search portal; an integrated platform ecosystem spanning search, webtoons, payments, cloud, and AI, with Japan's LINE messenger among its holdings.
 - [Construction Industry and Real Estate Development](construction-industry.md) — The third major industrial pillar — chaebol-led megaprojects and Middle East contracts, the apartment-and-jeonse housing system, the speculative real-estate cycle, and the labor, safety, and project-finance challenges of the 2020s.
+- [Telecommunications Industry](telecommunications-industry.md) — The SK Telecom, KT, and LG U+ operator market and Samsung network equipment behind South Korea's mobile and broadband leadership, from 1980s liberalization through the world-first 5G launch to the 6G roadmap.
 <!-- END GENERATED: category-index -->

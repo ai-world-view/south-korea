@@ -175,6 +175,7 @@ The democratization was neither inevitable nor irreversible — it emerged from 
 - **[Hallyu](../culture-society/hallyu.md)** — The cultural soft power whose global emergence was enabled by the stable, internationally integrated democracy that 1987 consolidated.
 - **[Japanese Colonial Period](./japanese-colonial-period.md)** — The era whose anti-colonial tradition of popular sovereignty fed the later democracy movement.
 - **[Kim Dae-jung](../people/kim-dae-jung.md)** — Opposition leader in the 1987 June Struggle and December election; later president and Nobel laureate.
+- **[Kim Young-sam](../people/kim-young-sam.md)** — Opposition leader who reached the presidency (1993–1998) and, as the first civilian head of state in three decades, consolidated the transition with the Hanahoe purge and the prosecution of Chun and Roh.
 - **[Busan](../geography/busan.md)** — The 1979 Bu-Ma Uprising there was a decisive prelude to the collapse of the Yushin regime.
 - **[Moon Jae-in](../people/moon-jae-in.md)** — Human-rights lawyer of the democratization era whose 2017 Candlelight victory extended its legacy.
 - **[Korean Liberation and Founding, 1945–1948](./liberation-and-founding.md)** — The Rhee-era authoritarian state and National Security Law whose long undoing the democratization movement completed.
