@@ -21,4 +21,5 @@ Topics on the individuals — leaders, thinkers, artists, and innovators — who
 - [Sejong the Great](sejong-the-great.md) — The fourth Joseon king (r. 1418–1450), creator of Hangul and patron of a scientific and scholarly golden age; consistently ranked as Korea's greatest ruler.
 - [Syngman Rhee](syngman-rhee.md) — The founding president of the Republic of Korea (1948–1960); anti-communist state-builder whose electoral fraud and repression ended in the 1960 April Revolution.
 - [Kim Young-sam](kim-young-sam.md) — The fourteenth president (1993–1998) and first civilian head of state in three decades; consolidated democracy through the Hanahoe purge and the prosecution of Chun and Roh, but saw his term end in the 1997 IMF crisis.
+- [Roh Tae-woo](roh-tae-woo.md) — The thirteenth president (1988–1993); a Hanahoe general and December 1979 coup participant whose June 29 Declaration opened the democratic transition before his later corruption conviction.
 <!-- END GENERATED: category-index -->

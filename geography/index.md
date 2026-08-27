@@ -19,4 +19,5 @@ Topics on the land, regions, cities, and physical setting of South Korea.
 - [Gwangju](gwangju.md) — The largest city of the southwestern Honam region; a symbol of Korea's democracy movement and the 1980 Gwangju Uprising, and home of the Gwangju Biennale and the Asia Culture Center.
 - [Daejeon](daejeon.md) — South Korea's fifth-largest metropolitan city and foremost science hub at the geographic center of the country; home to the Daedeok Innopolis research complex, KAIST, and the national rail nexus.
 - [Suwon](suwon.md) — The capital of Gyeonggi Province and largest non-metropolitan city; home to Samsung's Digital City R&D complex and the UNESCO-listed Hwaseong Fortress, a microcosm of Korea's Joseon-heritage-to-semiconductor arc.
+- [Gangwon Province](gangwon-province.md) — South Korea's mountainous northeastern province; site of the 2018 PyeongChang Winter Olympics, the country's primary forestry and hydroelectric zone, and a heavily militarized DMZ frontier facing North Korea.
 <!-- END GENERATED: category-index -->

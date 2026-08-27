@@ -22,6 +22,7 @@ Index: [geography/](geography/index.md)
 - [Gwangju](geography/gwangju.md)
 - [Daejeon](geography/daejeon.md)
 - [Suwon](geography/suwon.md)
+- [Gangwon Province](geography/gangwon-province.md)
 
 ## History
 
@@ -65,6 +66,7 @@ Index: [economy/](economy/index.md)
 - [Naver](economy/naver.md)
 - [Construction Industry and Real Estate Development](economy/construction-industry.md)
 - [Telecommunications Industry](economy/telecommunications-industry.md)
+- [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md)
 
 ## Culture & Society
 
@@ -103,4 +105,5 @@ Index: [people/](people/index.md)
 - [Sejong the Great](people/sejong-the-great.md)
 - [Syngman Rhee](people/syngman-rhee.md)
 - [Kim Young-sam](people/kim-young-sam.md)
+- [Roh Tae-woo](people/roh-tae-woo.md)
 <!-- END GENERATED: index -->

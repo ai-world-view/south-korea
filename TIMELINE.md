@@ -184,6 +184,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1973 | Daewoo's Okpo shipyard is established on Geoje Island | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 1973 | Park Chung-hee launches the Daedeok Science Town, seeding Daejeon's research complex | Geography | [Daejeon](geography/daejeon.md) |
 | 1973 | KBS is reorganized as a public corporation and launches its flagship 9 O'Clock News | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
+| 1973 | The Soyang Dam is completed, creating Soyang Lake, South Korea's largest reservoir | Geography | [Gangwon Province](geography/gangwon-province.md) |
 | 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974 | The Yulgok Project launches a decade-long armed-forces modernization drive | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
@@ -227,9 +228,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1989 | Lotte World opens in Seoul, becoming a flagship domestic tourist attraction | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1989 | Daejeon is elevated to a direct-jurisdiction city as KAIST relocates to Daedeok | Geography | [Daejeon](geography/daejeon.md) |
 | 1990-01 | The three-party merger forms the Democratic Liberal Party under Kim Young-sam | People | [Kim Young-sam](people/kim-young-sam.md) |
+| 1990-09-30 | South Korea and the Soviet Union establish diplomatic relations under Roh Tae-woo's Nordpolitik | People | [Roh Tae-woo](people/roh-tae-woo.md) |
+| 1991-09-17 | North and South Korea are simultaneously admitted to the United Nations | People | [Roh Tae-woo](people/roh-tae-woo.md) |
+| 1991-12 | The two Koreas sign the Basic Agreement on reconciliation, non-aggression, and exchange | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1991-12 | SBS begins television broadcasting, ending the KBS–MBC duopoly | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 1992-08-24 | South Korea normalizes diplomatic relations with the People's Republic of China | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
 | 1993-03 | Kim Young-sam purges the Hanahoe military clique from the army command | People | [Kim Young-sam](people/kim-young-sam.md) |
@@ -322,9 +327,11 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-01 | KTX high-speed rail service reaches Ulsan on the Gyeongbu line | Geography | [Ulsan](geography/ulsan.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2011 | Samsung Biologics is founded in Incheon's Songdo, seeding Korea's biomanufacturing hub | Economy | [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md) |
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2011 | Naver's Japanese arm launches the LINE messaging app, which becomes dominant across East and Southeast Asia | Economy | [Naver](economy/naver.md) |
 | 2011-07 | SK Telecom and LG U+ launch commercial 4G LTE service | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
+| 2011-07-06 | Pyeongchang is chosen to host the 2018 Winter Olympics on its third consecutive bid | Geography | [Gangwon Province](geography/gangwon-province.md) |
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
 | 2011-11 | The Shutdown Law ("Cinderella Law") takes effect, barring under-16 online gaming overnight | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2011-12 | Nexon lists on the Tokyo Stock Exchange in one of Japan's largest IPOs | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -347,6 +354,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013 | Samsung commercializes the world's first 3D V-NAND flash memory | Economy | [Semiconductors](economy/semiconductors.md) |
 | 2013-02-25 | Park Geun-hye is inaugurated as the 18th president | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
+| 2013-09 | Celltrion's CT-P13 (Remsima) wins EU approval as the world's first monoclonal-antibody biosimilar | Economy | [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 2014 | South Korea hosts the CBD COP12 in Pyeongchang, adopting the Pyeongchang Road Map on biodiversity | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2014 | Namhansanseong mountain fortress is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
@@ -381,6 +389,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2017-05-09 | Moon Jae-in is elected president after Park Geun-hye's impeachment | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2017-06 | Moon Jae-in announces a nuclear phase-out policy, halting new reactor approvals | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2017-09-03 | North Korea conducts its sixth and largest nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2017-12-22 | The Gyeonggang Line high-speed rail opens, cutting Seoul–Gangneung travel to about two hours | Geography | [Gangwon Province](geography/gangwon-province.md) |
+| 2018 | Yuhan licenses its lung-cancer drug lazertinib to Janssen in a deal worth up to $1.25 billion | Economy | [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md) |
 | 2018 | The Overwatch League launches with Korean players dominating its first seasons | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2018 | Smilegate's *Lost Ark* launches in South Korea | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2018 | The 52-hour maximum workweek is enacted, phased in from the largest firms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
@@ -441,6 +451,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-05-10 | Moon Jae-in completes his single five-year term; Yoon Suk-yeol succeeds him | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 2022-06 | The homegrown KSLV-2 (Nuri) rocket reaches orbit on its first success | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2022-06 | Yoon Suk-yeol's Energy Transition Initiative reverses the nuclear phase-out | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
+| 2022-06 | SK Bioscience's SKYCovione, South Korea's first homegrown COVID-19 vaccine, wins domestic approval | Economy | [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md) |
 | 2022-07 | The domestically developed KF-21 Boramae fighter completes its first flight | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2022-07 | Poland signs a landmark deal for K2 tanks, K9 howitzers, and FA-50 jets, South Korea's largest defense export | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
@@ -454,6 +465,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2023-04 | The Washington Declaration establishes a U.S.–South Korea Nuclear Consultative Group | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2023-04 | BLACKPINK becomes the first Asian act to headline Coachella | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2023-05 | DSME is acquired by Hanwha Group and rebranded Hanwha Ocean | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
+| 2023-06-11 | Gangwon becomes a Special Autonomous Province with expanded administrative powers | Geography | [Gangwon Province](geography/gangwon-province.md) |
 | 2023-08-18 | The Camp David summit establishes a US–Japan–South Korea trilateral security framework | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
 | 2024-03 | Mandatory loot-box probability disclosure takes legal effect for Korean games | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
