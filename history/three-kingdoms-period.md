@@ -157,4 +157,5 @@ Archaeological investigation continues: major tomb excavations in Gyeongju, ongo
 - [Goryeo Period](goryeo-period.md) — The medieval kingdom (918–1392) that reunified the peninsula after the Later Three Kingdoms and carried forward Silla's Buddhist and bureaucratic legacy.
 - [Religion and Buddhism in Korea](../culture-society/religion-and-buddhism.md) — Buddhism's arrival in Goguryeo, Baekje, and Silla during this era and its long subsequent history.
 - [Joseon Dynasty](joseon-dynasty.md) — The later dynasty whose Neo-Confucian order supplanted the Buddhist statecraft rooted in this period.
+- [Gyeongju](../geography/gyeongju.md) — Silla's capital and the preserved heart of Three Kingdoms and Unified Silla material culture.
 <!-- END GENERATED: related -->

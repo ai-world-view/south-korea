@@ -98,6 +98,7 @@ The company's integration of AI assistant features into search, its role in the 
 - [Chaebol (Korean Conglomerates)](../economy/chaebol.md) — the older corporate model Naver's platform capitalism contrasts with
 - [Gaming Industry in South Korea](../culture-society/gaming-industry.md) — the Hangame roots of the former NHN
 - [Banking and Finance Sector](../economy/banking-and-finance.md) — the fintech and internet-banking rivalry with Kakao
+- [Kakao](../economy/kakao.md) — the messaging-and-payments group that forms the other half of Korea's internet duopoly
 <!-- END GENERATED: related -->
 
 ## Sources

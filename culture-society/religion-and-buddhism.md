@@ -153,6 +153,8 @@ Korean Buddhism has adapted to modernity through temple-stay programs, social me
 - [Education and Universities in South Korea](education-and-universities.md) — missionary schools as a foundation of modern Korean education.
 - [Hallyu (Korean Wave)](hallyu.md) — Buddhist temple aesthetics visible in Korean cultural exports.
 - [Korean Traditional Visual Arts](traditional-visual-arts.md) — Buddhist sculpture and painting, from Seokguram to Goryeo scroll paintings.
+- [Gyeongju](../geography/gyeongju.md) — the Silla Buddhist capital, home to Bulguksa and the Seokguram grotto.
+- [Chuseok](chuseok.md) — the harvest holiday whose ancestral rites express Confucian filial piety.
 <!-- END GENERATED: related -->
 
 ## Sources

@@ -21,12 +21,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 528 | Silla adopts Buddhism as a state religion after Ichadon's martyrdom | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 538 | Baekje moves its capital to Sabi (modern Buyeo) | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 612 | Goguryeo's Eulji Mundeok destroys a Sui army at the Salsu River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 647 | The Cheomseongdae astronomical observatory is built in Gyeongju under Queen Seondeok | Geography | [Gyeongju](geography/gyeongju.md) |
 | 660 | A Tang–Silla alliance conquers Baekje | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 668 | Goguryeo falls, ending the Three Kingdoms period | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 676 | Silla expels Tang forces, unifying the peninsula south of the Taedong River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 686 | Wonhyo, Korea's most celebrated Buddhist thinker, dies | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 751 | Bulguksa Temple and Seokguram Grotto are rebuilt in Gyeongju | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 751 | The Seokguram Grotto Buddha, a summit of Silla Buddhist sculpture, is carved near Gyeongju | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
+| 771 | The Bell of King Seongdeok (the "Emille Bell"), Korea's largest surviving bell, is cast in Gyeongju | Geography | [Gyeongju](geography/gyeongju.md) |
 | 918 | Wang Geon founds the Goryeo dynasty with its capital at Kaesong | History | [Goryeo Period](history/goryeo-period.md) |
 | 935 | The last Silla king abdicates to Wang Geon, founder of Goryeo | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 936 | Goryeo completes the reunification of the Later Three Kingdoms | History | [Goryeo Period](history/goryeo-period.md) |
@@ -103,6 +105,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1919-04-15 | Jeam-ri Massacre: Japanese troops burn villagers in a Suwon church | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1920-09-28 | Independence activist Yu Gwan-sun dies in Seodaemun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1920-10 | Battle of Qingshanli: Korean forces defeat the Japanese in Manchuria | History | [Korean Independence Movement](history/korean-independence-movement.md) |
+| 1921 | The Gold Crown Tomb (Geumgwanchong) is excavated in Gyeongju, yielding a spectacular Silla gold crown | Geography | [Gyeongju](geography/gyeongju.md) |
 | 1922 | Kim Sowol publishes "Azaleas," a landmark of modern Korean lyric poetry | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1924-01-06 | Kim Dae-jung born on Hauido, South Jeolla Province | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1926 | Na Woon-gyu's silent film "Arirang" becomes an early nationalist landmark | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
@@ -166,6 +169,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1967 | The Yeosu National Industrial Complex is established on the south coast | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 1967 | Park Seo-bo begins his "Ecriture" series, a foundation of the Dansaekhwa movement | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 1968 | A bronze statue of Admiral Yi Sun-sin is erected at Gwanghwamun in central Seoul | People | [Yi Sun-sin](people/yi-sun-sin.md) |
+| 1968 | The Gyeongju area is designated a national park, the only Korean national park centered on cultural heritage | Geography | [Gyeongju](geography/gyeongju.md) |
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
@@ -241,6 +245,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1993-08-07 | Daejeon hosts the World Exposition (Expo '93), drawing some 14 million visitors | Geography | [Daejeon](geography/daejeon.md) |
 | 1993-08-12 | The Real-Name Financial Transaction System is introduced by emergency decree | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1994 | Nexon is founded by Kim Jung-ju and Jake Song, pioneering online free-to-play gaming | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 1995 | Bulguksa Temple and the Seokguram Grotto in Gyeongju are inscribed as UNESCO World Heritage Sites | Geography | [Gyeongju](geography/gyeongju.md) |
 | 1995 | Daegu is redesignated a Metropolitan City | Geography | [Daegu](geography/daegu.md) |
 | 1995 | The first Gwangju Biennale opens, Asia's first major international contemporary-art biennale | Culture & Society | [Gwangju](geography/gwangju.md) |
 | 1995 | The colonial Government-General Building is demolished on the 50th anniversary of liberation | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
@@ -271,6 +276,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1999 | Naver, later South Korea's dominant search portal, is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1999 | "Shiri" proves Korean cinema can rival Hollywood at the box office | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2000-06-15 | First inter-Korean summit; June 15 Joint Declaration signed in Pyongyang | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2000-12 | UNESCO inscribes the Gyeongju Historic Areas as a World Heritage Site | Geography | [Gyeongju](geography/gyeongju.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
 | 2002 | Naver merges with the game company Hangame to form NHN and launches the Knowledge iN Q&A service | Economy | [Naver](economy/naver.md) |
@@ -318,11 +324,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2008-06 | Candlelight protests over U.S. beef imports draw hundreds of thousands | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-08 | Lee Myung-bak unveils the "Low Carbon, Green Growth" national strategy | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2009 | The Four Major Rivers Restoration Project begins, later faulted for ecological harm | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2009 | UNESCO inscribes the Ganggangsullae circle dance, performed on Chuseok night, as Intangible Cultural Heritage | Culture & Society | [Chuseok](culture-society/chuseok.md) |
 | 2009-05-23 | Former president Roh Moo-hyun dies by suicide near his home in Gimhae | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2009-08-18 | Kim Dae-jung dies in Seoul at 85 | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 2009-10 | The Incheon Bridge opens, linking Songdo to Yeongjong Island and Incheon International Airport | Geography | [Incheon](geography/incheon.md) |
 | 2009-12 | A KEPCO consortium wins a $20.4 billion contract to build four reactors at Barakah in the UAE | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2010-01 | The Framework Act on Low Carbon, Green Growth is enacted | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2010-03-18 | KakaoTalk launches, soon becoming South Korea's dominant mobile messenger | Economy | [Kakao](economy/kakao.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-01 | KTX high-speed rail service reaches Ulsan on the Gyeongbu line | Geography | [Ulsan](geography/ulsan.md) |
@@ -356,6 +364,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-09 | Celltrion's CT-P13 (Remsima) wins EU approval as the world's first monoclonal-antibody biosimilar | Economy | [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md) |
 | 2013-12 | UNESCO inscribes Kimjang, the communal kimchi-making tradition, as Intangible Cultural Heritage | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
+| 2014 | Kakao merges with the Daum web portal, forming Daum Kakao (renamed Kakao in 2015) | Economy | [Kakao](economy/kakao.md) |
 | 2014 | South Korea hosts the CBD COP12 in Pyeongchang, adopting the Pyeongchang Road Map on biodiversity | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2014 | Namhansanseong mountain fortress is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
@@ -375,6 +384,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2016-05 | Han Kang's "The Vegetarian" wins the International Booker Prize, a first for a Korean writer | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 2016-07 | South Korea agrees to host a U.S. THAAD missile-defense battery at Seongju, drawing Chinese retaliation | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2016-08-08 | BLACKPINK debuts under YG Entertainment | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2016-09-12 | A magnitude-5.8 earthquake near Gyeongju is the strongest recorded in modern South Korea | Geography | [Gyeongju](geography/gyeongju.md) |
 | 2016-11 | UNESCO inscribes Jeju's haenyeo diving culture as Intangible Cultural Heritage | Culture & Society | [Jeju Island](geography/jeju-island.md) |
 | 2016-11-12 | Candlelight protests over the Choi Soon-sil scandal draw over a million to central Seoul | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2016-12-09 | The National Assembly votes 234–56 to impeach President Park Geun-hye | People | [Park Geun-hye](people/park-geun-hye.md) |
@@ -433,6 +443,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2021-08 | Krafton raises about 4.3 trillion won in the year's largest Korean IPO | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2021-08 | The Carbon Neutrality and Green Growth Act enshrines the 2050 net-zero target in law | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2021-08-06 | KakaoBank's stock-market debut is the year's largest South Korean IPO, briefly valuing it above major legacy banks | Economy | [Kakao](economy/kakao.md) |
 | 2021-10 | South Korea submits an enhanced NDC pledging a 40% emissions cut from 2018 levels by 2030 | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2021-10-25 | A nationwide KT network outage disrupts internet service across the country | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2021-11 | The Shutdown Law is repealed, replaced by a voluntary parental time-choice system | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -455,6 +466,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-07 | The domestically developed KF-21 Boramae fighter completes its first flight | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2022-07 | Poland signs a landmark deal for K2 tanks, K9 howitzers, and FA-50 jets, South Korea's largest defense export | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2022-10-15 | A datacenter fire in Pangyo takes Kakao's services offline nationwide for hours, exposing digital-infrastructure risk | Economy | [Kakao](economy/kakao.md) |
 | 2022-10-29 | The Itaewon Halloween crowd crush kills 159 people in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2023 | Ground-breaking begins on the S-Oil Shaheen petrochemical complex at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
@@ -472,6 +484,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2024-04-10 | Opposition parties win a National Assembly supermajority in the legislative elections | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-06 | Webtoon Entertainment (Naver Webtoon) debuts in a U.S. IPO | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 2024-07 | Kakao founder Kim Beom-su is arrested in the SM Entertainment share-price manipulation case | Economy | [Kakao](economy/kakao.md) |
 | 2024-10 | Hyundai opens its dedicated EV Metaplant (HMGMA) in Georgia | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2024-10 | Han Kang wins the Nobel Prize in Literature, the first Korean and first East Asian woman to do so | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |

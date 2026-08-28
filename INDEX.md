@@ -23,6 +23,7 @@ Index: [geography/](geography/index.md)
 - [Daejeon](geography/daejeon.md)
 - [Suwon](geography/suwon.md)
 - [Gangwon Province](geography/gangwon-province.md)
+- [Gyeongju](geography/gyeongju.md)
 
 ## History
 
@@ -67,6 +68,7 @@ Index: [economy/](economy/index.md)
 - [Construction Industry and Real Estate Development](economy/construction-industry.md)
 - [Telecommunications Industry](economy/telecommunications-industry.md)
 - [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md)
+- [Kakao](economy/kakao.md)
 
 ## Culture & Society
 
@@ -88,6 +90,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md)
 - [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md)
 - [Seoul National University](culture-society/seoul-national-university.md)
+- [Chuseok — Korea's Harvest Festival](culture-society/chuseok.md)
 
 ## People
 

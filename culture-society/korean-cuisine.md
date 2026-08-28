@@ -143,4 +143,5 @@ Traditional Korean food philosophy draws on Donguibogam (동의보감, 1613), th
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — The colonial era that disrupted traditional foodways and redirected Korean agricultural production.
 - [Seoul](../geography/seoul.md) — The capital whose markets, café districts, and delivery networks shape modern Korean food geography.
 - [Chaebol (Korean Conglomerates)](../economy/chaebol.md) — The conglomerates behind major food companies such as CJ CheilJedang, Nongshim, and Lotte.
+- [Chuseok](chuseok.md) — The harvest holiday whose songpyeon, feasting, and kimjang preparations center on food.
 <!-- END GENERATED: related -->

@@ -191,4 +191,5 @@ The webtoon industry faces evolving dynamics:
 - [Technology Sector and ICT Innovation](../economy/technology-sector.md) — webtoons as digital content within Korea's broader ICT economy
 - [Education and Universities in South Korea](education-and-universities.md) — art and design education pathways into webtoon creation
 - [Naver](../economy/naver.md) — the platform that pioneered the webtoon format and spun off Webtoon Entertainment
+- [Kakao](../economy/kakao.md) — the platform group whose Kakao Webtoon and Kakao Entertainment anchor the other half of the market
 <!-- END GENERATED: related -->
