@@ -23,12 +23,15 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 612 | Goguryeo's Eulji Mundeok destroys a Sui army at the Salsu River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 647 | The Cheomseongdae astronomical observatory is built in Gyeongju under Queen Seondeok | Geography | [Gyeongju](geography/gyeongju.md) |
 | 660 | A Tang–Silla alliance conquers Baekje | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 663 | Tang–Silla naval forces destroy a Baekje-restoration and Yamato fleet at the Battle of Baekgang | History | [Unified Silla Period](history/unified-silla-period.md) |
 | 668 | Goguryeo falls, ending the Three Kingdoms period | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 676 | Silla expels Tang forces, unifying the peninsula south of the Taedong River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 686 | Wonhyo, Korea's most celebrated Buddhist thinker, dies | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 751 | Bulguksa Temple and Seokguram Grotto are rebuilt in Gyeongju | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 751 | The Seokguram Grotto Buddha, a summit of Silla Buddhist sculpture, is carved near Gyeongju | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 771 | The Bell of King Seongdeok (the "Emille Bell"), Korea's largest surviving bell, is cast in Gyeongju | Geography | [Gyeongju](geography/gyeongju.md) |
+| 828 | Jang Bogo establishes the Cheonghaejin garrison, coming to dominate East Asian maritime trade | History | [Unified Silla Period](history/unified-silla-period.md) |
+| 892 | Gyeon Hwon founds Later Baekje, opening the Later Three Kingdoms as Unified Silla fragments | History | [Unified Silla Period](history/unified-silla-period.md) |
 | 918 | Wang Geon founds the Goryeo dynasty with its capital at Kaesong | History | [Goryeo Period](history/goryeo-period.md) |
 | 935 | The last Silla king abdicates to Wang Geon, founder of Goryeo | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 936 | Goryeo completes the reunification of the Later Three Kingdoms | History | [Goryeo Period](history/goryeo-period.md) |
@@ -170,6 +173,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1967 | Park Seo-bo begins his "Ecriture" series, a foundation of the Dansaekhwa movement | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 1968 | A bronze statue of Admiral Yi Sun-sin is erected at Gwanghwamun in central Seoul | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1968 | The Gyeongju area is designated a national park, the only Korean national park centered on cultural heritage | Geography | [Gyeongju](geography/gyeongju.md) |
+| 1968 | POSCO (Pohang Iron and Steel) is founded to build an integrated steel mill at Pohang | Geography | [North Gyeongsang Province](geography/north-gyeongsang-province.md) |
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
@@ -189,6 +193,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1973 | Park Chung-hee launches the Daedeok Science Town, seeding Daejeon's research complex | Geography | [Daejeon](geography/daejeon.md) |
 | 1973 | KBS is reorganized as a public corporation and launches its flagship 9 O'Clock News | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1973 | The Soyang Dam is completed, creating Soyang Lake, South Korea's largest reservoir | Geography | [Gangwon Province](geography/gangwon-province.md) |
+| 1973 | POSCO's first blast furnace begins production at Pohang, launching integrated steelmaking in Korea | Geography | [North Gyeongsang Province](geography/north-gyeongsang-province.md) |
 | 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974 | The Yulgok Project launches a decade-long armed-forces modernization drive | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
@@ -218,6 +223,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1986 | Nongshim launches Shin Ramyun, later exported to over 100 countries | Culture & Society | [Korean Cuisine](culture-society/korean-cuisine.md) |
 | 1986 | South Korea's first LNG imports begin under a long-term contract with Indonesia | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 1986 | Hyundai enters the U.S. market with the Excel, its first American export | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 1987 | Lee Kun-hee becomes chairman of Samsung Group after his father Lee Byung-chul's death | People | [Lee Kun-hee](people/lee-kun-hee.md) |
 | 1987-01-14 | Student Park Jong-chul dies under police torture, galvanizing dissent | History | [Democratization](history/democratization.md) |
 | 1987-04-13 | Chun Doo-hwan rejects direct elections in the "April 13 measure" | History | [Democratization](history/democratization.md) |
 | 1987-06-10 | June Democratic Struggle erupts in nationwide mass protests | History | [Democratization](history/democratization.md) |
@@ -240,6 +246,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-08-24 | South Korea normalizes diplomatic relations with the People's Republic of China | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
+| 1993 | Lee Kun-hee's "Frankfurt Declaration" launches Samsung's "New Management" quality drive | People | [Lee Kun-hee](people/lee-kun-hee.md) |
 | 1993-02-25 | Kim Young-sam inaugurated, consolidating civilian democratic rule | History | [Democratization](history/democratization.md) |
 | 1993-03 | Kim Young-sam purges the Hanahoe military clique from the army command | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1993-08-07 | Daejeon hosts the World Exposition (Expo '93), drawing some 14 million visitors | Geography | [Daejeon](geography/daejeon.md) |
@@ -247,6 +254,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1994 | Nexon is founded by Kim Jung-ju and Jake Song, pioneering online free-to-play gaming | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1995 | Bulguksa Temple and the Seokguram Grotto in Gyeongju are inscribed as UNESCO World Heritage Sites | Geography | [Gyeongju](geography/gyeongju.md) |
 | 1995 | Daegu is redesignated a Metropolitan City | Geography | [Daegu](geography/daegu.md) |
+| 1995 | Lee Kun-hee orders defective Samsung phones publicly burned at the Gumi plant | People | [Lee Kun-hee](people/lee-kun-hee.md) |
 | 1995 | The first Gwangju Biennale opens, Asia's first major international contemporary-art biennale | Culture & Society | [Gwangju](geography/gwangju.md) |
 | 1995 | The colonial Government-General Building is demolished on the 50th anniversary of liberation | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 1995-11-11 | The Korean Confederation of Trade Unions (KCTU) is founded as an independent labor federation | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
@@ -432,6 +440,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2020-10 | Moon Jae-in announces a 2050 carbon-neutrality goal, among Asia's first | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2020-10-15 | Big Hit Entertainment (HYBE) lists on the Korea Exchange | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2020-10-25 | Samsung chairman Lee Kun-hee dies, triggering South Korea's largest-ever inheritance case | People | [Lee Kun-hee](people/lee-kun-hee.md) |
 | 2021 | Naver acquires the web-fiction platform Wattpad as Kakao's Piccoma tops Japan's app-revenue charts | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2021 | "Squid Game" becomes a global Netflix phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2021 | Naver unveils HyperCLOVA, one of the largest non-English AI language models | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |

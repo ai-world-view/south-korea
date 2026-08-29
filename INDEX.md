@@ -24,12 +24,14 @@ Index: [geography/](geography/index.md)
 - [Suwon](geography/suwon.md)
 - [Gangwon Province](geography/gangwon-province.md)
 - [Gyeongju](geography/gyeongju.md)
+- [North Gyeongsang Province](geography/north-gyeongsang-province.md)
 
 ## History
 
 Index: [history/](history/index.md)
 
 - [Three Kingdoms Period](history/three-kingdoms-period.md)
+- [Unified Silla Period](history/unified-silla-period.md)
 - [Goryeo Period](history/goryeo-period.md)
 - [Joseon Dynasty](history/joseon-dynasty.md)
 - [Korean Independence Movement](history/korean-independence-movement.md)
@@ -109,4 +111,5 @@ Index: [people/](people/index.md)
 - [Syngman Rhee](people/syngman-rhee.md)
 - [Kim Young-sam](people/kim-young-sam.md)
 - [Roh Tae-woo](people/roh-tae-woo.md)
+- [Lee Kun-hee](people/lee-kun-hee.md)
 <!-- END GENERATED: index -->

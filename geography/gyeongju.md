@@ -88,4 +88,6 @@ Tourism pressure also creates conservation tension: the millions of annual visit
 - [Chuseok](../culture-society/chuseok.md) — Korea's harvest holiday that drives major pilgrimage tourism to Gyeongju's temples and cultural sites
 - [Seoul](../geography/seoul.md) — Korea's modern capital, contrasting with Gyeongju's historical significance
 - [Korean Traditional Visual Arts](../culture-society/traditional-visual-arts.md) — Stone sculpture, celadon, and artistic production
+- [Unified Silla Period](../history/unified-silla-period.md) — The era (668–935) when Gyeongju was the capital of a unified peninsula and reached its cultural height
+- [North Gyeongsang Province](north-gyeongsang-province.md) — The province in which Gyeongju lies, the ancient Silla heartland
 <!-- END GENERATED: related -->

@@ -240,6 +240,7 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Technology and Innovation Policy in South Korea](../government-politics/technology-innovation-policy.md) — The state R&D and industrial policy through which the chaebol receive subsidies, execute strategic technology programs, and concentrate national R&D.
 - [Automotive Industry](automotive-industry.md) — Hyundai Motor Group, a flagship chaebol, and the state–chaebol partnership that built South Korea's car industry.
 - [Banking and Finance Sector](banking-and-finance.md) — The directed-credit banking system that financed chaebol expansion and the 1997 crisis it helped trigger.
+- [Lee Kun-hee](../people/lee-kun-hee.md) — The Samsung chairman (1987–2020) whose leadership exemplifies the chaebol model of concentrated family control and long-horizon investment.
 - [Park Geun-hye](../people/park-geun-hye.md) — The 2016–2017 scandal in which Samsung, Lotte, and Hyundai were coerced into foundation donations.
 - [Energy and Resources Policy](energy-resources-policy.md) — Hanwha, Samsung SDI, and LG Energy Solution as renewable-energy and battery conglomerates.
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — Samsung, Hanwha, and Hyundai Rotem as major defense contractors.

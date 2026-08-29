@@ -212,6 +212,7 @@ Goryeo's contributions shaped Korean civilization across multiple dimensions:
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 - [Three Kingdoms Period](three-kingdoms-period.md) — The preceding era of Goguryeo, Baekje, and Silla, whose Later Three Kingdoms fragmentation Goryeo reunified in 936.
+- [Unified Silla Period](unified-silla-period.md) — The immediately preceding dynasty (668–935), whose territory, institutions, and Buddhist culture Goryeo inherited.
 - [Japanese Colonial Period](japanese-colonial-period.md) — Later Korea–Japan relations, in contrast with Goryeo's medieval exchange (Buddhist art transmission) and conflict (Waegu piracy, the Mongol invasions of Japan).
 - [Korean Independence Movement](korean-independence-movement.md) — The modern retrieval of Goryeo's name and heritage as a source of national identity under and after colonial rule.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The gwageo civil-service examination and the Seonggyungwan academy, institutionalized in Goryeo, as the deep roots of Korea's meritocratic education culture.

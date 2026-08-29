@@ -21,4 +21,5 @@ Topics on the land, regions, cities, and physical setting of South Korea.
 - [Suwon](suwon.md) — The capital of Gyeonggi Province and largest non-metropolitan city; home to Samsung's Digital City R&D complex and the UNESCO-listed Hwaseong Fortress, a microcosm of Korea's Joseon-heritage-to-semiconductor arc.
 - [Gangwon Province](gangwon-province.md) — South Korea's mountainous northeastern province; site of the 2018 PyeongChang Winter Olympics, the country's primary forestry and hydroelectric zone, and a heavily militarized DMZ frontier facing North Korea.
 - [Gyeongju](gyeongju.md) — The ancient capital of the Silla kingdom in North Gyeongsang Province; a UNESCO-listed "museum without walls" of royal tumuli, Bulguksa, Seokguram, and Cheomseongdae, and Korea's premier heritage-tourism destination.
+- [North Gyeongsang Province](north-gyeongsang-province.md) — South Korea's largest province by area, in the southeast; the ancient Silla heartland around Gyeongju, POSCO's steel city of Pohang, the Gumi electronics complex, and the conservative "TK" bloc anchored by adjacent Daegu.
 <!-- END GENERATED: category-index -->
