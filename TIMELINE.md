@@ -180,6 +180,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1970 | Samsung begins consumer-electronics manufacturing at its Suwon plant | Geography | [Suwon](geography/suwon.md) |
 | 1970-07 | The Seoul–Busan (Gyeongbu) Expressway is completed, South Korea's first limited-access highway | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 1970-11-13 | Garment worker Jeon Tae-il self-immolates, demanding enforcement of the Labor Standards Act | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
+| 1970-11-27 | Han Kang, later the first Korean Nobel laureate in literature, is born in Gwangju | People | [Han Kang](people/han-kang.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1972 | South Korea's first naphtha cracker starts up at the Ulsan Petrochemical Complex | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
@@ -238,6 +239,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1989 | Lotte World opens in Seoul, becoming a flagship domestic tourist attraction | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1989 | Daejeon is elevated to a direct-jurisdiction city as KAIST relocates to Daedeok | Geography | [Daejeon](geography/daejeon.md) |
 | 1990-01 | The three-party merger forms the Democratic Liberal Party under Kim Young-sam | People | [Kim Young-sam](people/kim-young-sam.md) |
+| 1990-01 | The three-party merger consolidates the conservative bloc, entrenching the TK–Honam party divide | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
 | 1990-09-30 | South Korea and the Soviet Union establish diplomatic relations under Roh Tae-woo's Nordpolitik | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1991-09-17 | North and South Korea are simultaneously admitted to the United Nations | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1991-12 | The two Koreas sign the Basic Agreement on reconciliation, non-aggression, and exchange | People | [Roh Tae-woo](people/roh-tae-woo.md) |
@@ -265,14 +267,18 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1996-12-12 | South Korea joins the OECD as its 29th member | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1997 | Hwaseong Fortress in Suwon is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1997 | The Hunminjeongeum Haerye is inscribed on UNESCO's Memory of the World register | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
+| 1997-01 | Hanbo Steel collapses, the first major chaebol failure in a decade and a prelude to the crisis | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
 | 1997-03 | NCSoft is founded by Kim Taek-jin, becoming a leading MMORPG developer | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1997-07-15 | Ulsan is elevated to a Metropolitan City, separating from South Gyeongsang Province | Geography | [Ulsan](geography/ulsan.md) |
 | 1997-11 | Foreign banks refuse to roll over Korea's short-term debt, forcing an IMF rescue request | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1997-12 | South Korea accepts a record IMF bailout during the Asian Financial Crisis | Economy | [Chaebol](economy/chaebol.md) |
+| 1997-12-03 | Korea signs a $57 billion IMF standby agreement, the largest in the Fund's history to that date | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
 | 1997-12-18 | Kim Dae-jung elected president, the first peaceful transfer of power to an opposition party | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1997-12-22 | Kim Young-sam pardons Chun Doo-hwan and Roh Tae-woo before leaving office | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1998 | Se Ri Pak wins the U.S. Women's Open, inspiring the "Se Ri Kids" golf generation | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1998-01 | The Tripartite Commission is established to negotiate IMF-era labor reforms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
+| 1998-01 | The Gold Collection Campaign gathers some 226 tonnes of gold from millions of Koreans to help replenish reserves | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
+| 1998-02 | The Labor Standards Act is revised to legalize layoffs for managerial reasons, entrenching labor-market dualism | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
 | 1998-02-25 | Kim Dae-jung inaugurated as the 15th president amid the IMF crisis | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1998-03 | *StarCraft* launches and spreads through PC bangs, igniting Korea's professional esports scene | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1998-04 | Park Geun-hye enters the National Assembly, winning a by-election in Daegu | People | [Park Geun-hye](people/park-geun-hye.md) |
@@ -280,6 +286,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1998-11-18 | Mount Kumgang tourism from the South begins under Hyundai | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 1998-12 | Hyundai acquires the bankrupt Kia Motors, forming Hyundai Motor Group | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1999 | Daewoo Group collapses in the largest corporate bankruptcy of its time | Economy | [Chaebol](economy/chaebol.md) |
+| 1999-07 | Daewoo Group collapses with about $80 billion in debt, among the largest corporate failures in world history | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
 | 1999 | Brain Korea 21 (BK21) university research program launched | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1999 | Naver, later South Korea's dominant search portal, is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1999 | "Shiri" proves Korean cinema can rival Hollywood at the box office | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
@@ -287,6 +294,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2000-12 | UNESCO inscribes the Gyeongju Historic Areas as a World Heritage Site | Geography | [Gyeongju](geography/gyeongju.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
+| 2001-08 | Korea repays its IMF loans nearly three years ahead of schedule | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
 | 2002 | Naver merges with the game company Hangame to form NHN and launches the Knowledge iN Q&A service | Economy | [Naver](economy/naver.md) |
 | 2002 | Smilegate is founded by Kwon Hyuk-bin, later maker of *Crossfire* and *Lost Ark* | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2002 | Gravity's *Ragnarok Online* launches, a hit across Southeast Asia | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -323,6 +331,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2007 | Bluehole Studio, later Krafton, is founded by Jang Byung-gyu | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2007 | Smilegate's *Crossfire* launches, becoming a massive hit in China | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2007 | Hanjin Heavy Industries delivers the ROKS *Dokdo* amphibious assault ship | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
+| 2007 | Han Kang publishes *The Vegetarian*, her breakthrough novel | People | [Han Kang](people/han-kang.md) |
 | 2007 | Jeju Volcanic Island and Lava Tubes inscribed as a UNESCO World Heritage Site | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2007-06-30 | Roh's government signs the Korea–United States Free Trade Agreement (KORUS FTA) | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2007-10-04 | Roh Moo-hyun holds the second inter-Korean summit in Pyongyang; the October 4 Declaration is issued | Government & Politics | [Roh Moo-hyun](people/roh-moo-hyun.md) |
@@ -390,6 +399,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
 | 2016-05 | Han Kang's "The Vegetarian" wins the International Booker Prize, a first for a Korean writer | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
+| 2016-05 | Han Kang and translator Deborah Smith share the Man Booker International Prize for *The Vegetarian* | People | [Han Kang](people/han-kang.md) |
 | 2016-07 | South Korea agrees to host a U.S. THAAD missile-defense battery at Seongju, drawing Chinese retaliation | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2016-08-08 | BLACKPINK debuts under YG Entertainment | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2016-09-12 | A magnitude-5.8 earthquake near Gyeongju is the strongest recorded in modern South Korea | Geography | [Gyeongju](geography/gyeongju.md) |
@@ -491,11 +501,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
 | 2024-03 | Mandatory loot-box probability disclosure takes legal effect for Korean games | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2024-04-10 | The Democratic bloc wins a second straight supermajority in the 22nd National Assembly election as TK–Honam voting patterns hold | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
 | 2024-04-10 | Opposition parties win a National Assembly supermajority in the legislative elections | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-06 | Webtoon Entertainment (Naver Webtoon) debuts in a U.S. IPO | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2024-07 | Kakao founder Kim Beom-su is arrested in the SM Entertainment share-price manipulation case | Economy | [Kakao](economy/kakao.md) |
 | 2024-10 | Hyundai opens its dedicated EV Metaplant (HMGMA) in Georgia | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2024-10 | Han Kang wins the Nobel Prize in Literature, the first Korean and first East Asian woman to do so | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
+| 2024-10-10 | The Swedish Academy awards Han Kang the Nobel Prize in Literature | People | [Han Kang](people/han-kang.md) |
 | 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2024-12-04 | The National Assembly votes 190-0 to lift martial law; Yoon rescinds the decree | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | Government & Politics | [Government Structure](government-politics/government-structure.md) |
@@ -503,5 +515,6 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2025-01-15 | Yoon Suk-yeol is detained, the first sitting South Korean president to be arrested | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2025-04-04 | Constitutional Court unanimously removes Yoon Suk-yeol from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2025-06-03 | Lee Jae-myung wins the snap presidential election following Yoon's removal | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2025-06-03 | Democrat Lee Jae-myung wins the snap presidential election, with regional voting blocs again dominant | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
 | 2025-06-10 | Lee Jae-myung is inaugurated as president | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 <!-- END GENERATED: timeline -->

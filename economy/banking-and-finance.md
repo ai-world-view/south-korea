@@ -161,6 +161,7 @@ The Bank of Korea and FSS have periodically implemented Loan-to-Value (LTV) and 
 - [Government Structure of South Korea](../government-politics/government-structure.md) — the FSC/FSS regulatory architecture for banking oversight.
 - [Kim Young-sam](../people/kim-young-sam.md) — the president whose capital-account liberalization and Real-Name Financial System preceded the 1997 IMF crisis.
 - [Kakao](kakao.md) — the platform group behind KakaoBank and KakaoPay in the internet-banking and fintech era.
+- [The 1997 Asian Financial Crisis](../history/asian-financial-crisis-1997.md) — the crisis that forced the deepest restructuring of the Korean banking system.
 <!-- END GENERATED: related -->
 
 ## Sources

@@ -130,6 +130,7 @@ Kim Dae-jung died on **August 18, 2009**, at Severance Hospital, Yonsei Universi
 - [Korean War](../history/korean-war.md) — The conflict that divided Korea and created the separated-family tragedy Kim worked to address
 - [Japanese Colonial Period](../history/japanese-colonial-period.md) — Kim was born and educated under Japanese colonial rule; the colonial legacy shaped Korean regional politics
 - [Chaebol](../economy/chaebol.md) — The conglomerates Kim's administration restructured during the IMF crisis; Daewoo's collapse and Hyundai Asan's role in the Sunshine Policy
+- [The 1997 Asian Financial Crisis](../history/asian-financial-crisis-1997.md) — The crisis Kim inherited on taking office and whose restructuring and IMF repayment defined his early presidency
 - [Hallyu — the Korean Wave](../culture-society/hallyu.md) — Kim's 1998 decision to lift the ban on Japanese popular-culture imports as cultural diplomacy
 - [Government Structure of South Korea](../government-politics/government-structure.md) — The presidential system Kim led; the single five-year term limit under the 1987 constitution
 - [Busan](../geography/busan.md) — The Bu-Ma Uprising of 1979 centered on Busan and Masan; the 2002 Busan Asian Games realized the inter-Korean opening of Kim's Sunshine Policy

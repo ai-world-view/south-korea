@@ -23,4 +23,5 @@ Topics on the individuals — leaders, thinkers, artists, and innovators — who
 - [Kim Young-sam](kim-young-sam.md) — The fourteenth president (1993–1998) and first civilian head of state in three decades; consolidated democracy through the Hanahoe purge and the prosecution of Chun and Roh, but saw his term end in the 1997 IMF crisis.
 - [Roh Tae-woo](roh-tae-woo.md) — The thirteenth president (1988–1993); a Hanahoe general and December 1979 coup participant whose June 29 Declaration opened the democratic transition before his later corruption conviction.
 - [Lee Kun-hee](lee-kun-hee.md) — Samsung Group chairman (1987–2020) who transformed the conglomerate into a global leader in semiconductors, displays, and smartphones; a central architect of South Korea's rise as a technology power.
+- [Han Kang](han-kang.md) — Novelist (b. 1970) and the first Korean winner of the Nobel Prize in Literature (2024); author of *The Vegetarian*, *Human Acts*, and *The White Book*, known for spare, philosophically intense prose confronting historical trauma and the body.
 <!-- END GENERATED: category-index -->

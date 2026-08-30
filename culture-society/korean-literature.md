@@ -180,4 +180,5 @@ Contemporary Korean literature grapples with the psychological costs of rapid in
 - [Democratization of South Korea](../history/democratization.md) — the Gwangju uprising and political transformation at the heart of Han Kang's and Hwang Sok-yong's fiction
 - [Film and Cinema Industry](film-cinema-industry.md) — the adaptation of literary works including *Chunhyang*, *The Vegetarian*, and *Kim Jiyoung*
 - [Hallyu (Korean Wave)](hallyu.md) — the Korean Wave, which encompasses literary translation and dramatic adaptations
+- [Han Kang](../people/han-kang.md) — the 2024 Nobel laureate who brought Korean literature to world-canonical standing
 <!-- END GENERATED: related -->

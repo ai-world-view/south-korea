@@ -101,4 +101,5 @@ Women's political representation has grown significantly since the 1990s but rem
 - [Park Geun-hye](../people/park-geun-hye.md) — the 2016–2017 impeachment and snap election
 - [Roh Moo-hyun](../people/roh-moo-hyun.md) — the 2004 impeachment reversed by the Constitutional Court
 - [Gwangju](../geography/gwangju.md) — the Honam–TK regionalism that structures voting blocs
+- [Political Parties and Regionalism in South Korea](political-parties-regionalism.md) — the party blocs and regional cleavages behind the vote
 <!-- END GENERATED: related -->

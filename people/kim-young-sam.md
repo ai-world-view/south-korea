@@ -137,5 +137,6 @@ Kim Young-sam died in Seoul on November 22, 2015, at the age of 87. A state fune
 - [Park Chung-hee](park-chung-hee.md) — the authoritarian developmental-state leader Kim Young-sam opposed in the 1970s
 - [Telecommunications Industry](../economy/telecommunications-industry.md) — the KT privatization and market liberalization accelerated under his administration
 - [Hallyu (Korean Wave)](../culture-society/hallyu.md) — the cultural-export drive whose foundations his *Segyehwa* policy helped lay
+- [The 1997 Asian Financial Crisis](../history/asian-financial-crisis-1997.md) — the crisis and IMF bailout that overtook the end of his term
 <!-- END GENERATED: related -->
 

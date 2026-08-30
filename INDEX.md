@@ -40,6 +40,7 @@ Index: [history/](history/index.md)
 - [Korean War](history/korean-war.md)
 - [Gwangju Uprising (May 18 Incident)](history/gwangju-uprising.md)
 - [Democratization of South Korea](history/democratization.md)
+- [The 1997 Asian Financial Crisis and Korean Economic Restructuring](history/asian-financial-crisis-1997.md)
 
 ## Government & Politics
 
@@ -51,6 +52,7 @@ Index: [government-politics/](government-politics/index.md)
 - [Military and Defense Policy](government-politics/military-defense-policy.md)
 - [Environmental Policy and Sustainability](government-politics/environmental-policy.md)
 - [Electoral System and the National Assembly](government-politics/electoral-system.md)
+- [Political Parties and Regionalism in South Korea](government-politics/political-parties-regionalism.md)
 
 ## Economy
 
@@ -112,4 +114,5 @@ Index: [people/](people/index.md)
 - [Kim Young-sam](people/kim-young-sam.md)
 - [Roh Tae-woo](people/roh-tae-woo.md)
 - [Lee Kun-hee](people/lee-kun-hee.md)
+- [Han Kang](people/han-kang.md)
 <!-- END GENERATED: index -->

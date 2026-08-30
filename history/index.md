@@ -19,4 +19,5 @@ Topics on the events and eras that shaped South Korea, from the ancient kingdoms
 - [Korean War](korean-war.md) — The 1950–1953 conflict that divided the Korean peninsula and shaped modern South Korea.
 - [Gwangju Uprising (May 18 Incident)](gwangju-uprising.md) — The May 1980 armed popular resistance in Gwangju and its brutal suppression under Chun Doo-hwan; a defining episode of the democracy movement.
 - [Democratization of South Korea](democratization.md) — The 1987–1993 transition from military-authoritarian rule to competitive democracy.
+- [The 1997 Asian Financial Crisis and Korean Economic Restructuring](asian-financial-crisis-1997.md) — The November 1997 currency collapse and $57 billion IMF bailout, the chaebol and labor restructuring under IMF conditionality, the Gold Collection Campaign and Daewoo's fall, and the crisis's lasting legacy of labor-market dualism and elevated household debt.
 <!-- END GENERATED: category-index -->
