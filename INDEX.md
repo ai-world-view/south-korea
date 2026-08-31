@@ -25,6 +25,7 @@ Index: [geography/](geography/index.md)
 - [Gangwon Province](geography/gangwon-province.md)
 - [Gyeongju](geography/gyeongju.md)
 - [North Gyeongsang Province](geography/north-gyeongsang-province.md)
+- [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md)
 
 ## History
 
@@ -73,6 +74,7 @@ Index: [economy/](economy/index.md)
 - [Telecommunications Industry](economy/telecommunications-industry.md)
 - [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md)
 - [Kakao](economy/kakao.md)
+- [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md)
 
 ## Culture & Society
 
@@ -115,4 +117,5 @@ Index: [people/](people/index.md)
 - [Roh Tae-woo](people/roh-tae-woo.md)
 - [Lee Kun-hee](people/lee-kun-hee.md)
 - [Han Kang](people/han-kang.md)
+- [Lee Jae-yong](people/lee-jae-yong.md)
 <!-- END GENERATED: index -->

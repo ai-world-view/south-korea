@@ -258,4 +258,6 @@ However, Hallyu's success model — heavy corporate control, manufactured aesthe
 - [Korean Literature and Literary Culture](korean-literature.md) — Korean fiction and poetry, whose global rise (Han Kang's 2024 Nobel) parallels the Korean Wave in translation.
 - [Tourism Industry in South Korea](../economy/tourism-industry.md) — The inbound visitor economy that the Korean Wave has done much to drive.
 - [Korean Broadcast Television Industry](korean-broadcast-television.md) — The terrestrial networks whose dramas and music shows launched the Korean Wave in Asia.
+- [K-beauty and Cosmetics Industry](../economy/kbeauty-cosmetics-industry.md) — The cosmetics export sector that the Korean Wave carries into global markets.
+- [Korean Diaspora and Overseas Korean Communities](../geography/korean-diaspora-overseas-communities.md) — The overseas Korean communities and global fandoms that amplify the Korean Wave.
 <!-- END GENERATED: related -->

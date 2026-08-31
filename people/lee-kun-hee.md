@@ -148,6 +148,7 @@ However, Lee's legacy is also tied to the continuation and adaptation of the cha
 - **[Semiconductors and Technology Leadership](../economy/semiconductors.md)** — Samsung's dominance and Lee's pivotal role
 - **[Technology Sector and ICT Innovation](../economy/technology-sector.md)** — Samsung's contribution to Korea's tech economy
 - **Lee Byung-chul** — Lee Kun-hee's father and the founder of Samsung
+- **[Lee Jae-yong](lee-jae-yong.md)** — Lee Kun-hee's son and successor as head of Samsung Electronics
 - **[Park Chung-hee](park-chung-hee.md)** — South Korean president during much of Lee's early rise; shaped developmental-state policy
 - **[Park Geun-hye](park-geun-hye.md)** — President during Samsung's OLED and smartphone expansion; later implicated in the bribery case involving Lee Jae-yong
 - **[North Gyeongsang Province](../geography/north-gyeongsang-province.md)** — Lee's ancestral and corporate heartland; POSCO (Samsung's industrial-era counterpart) also based here

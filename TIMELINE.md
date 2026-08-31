@@ -92,6 +92,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1896 | Gwangju becomes the provincial capital of the newly created South Jeolla Province | Geography | [Gwangju](geography/gwangju.md) |
 | 1897 | Gojong proclaims the Empire of Korea (Daehan Jeguk), ending the Joseon kingdom's old order | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1899 | The Gyeongin Line, Korea's first railway, opens between Seoul and Incheon | Geography | [Incheon](geography/incheon.md) |
+| 1903 | The first organized Korean emigration to the Americas begins as laborers ship to Hawaii's plantations (1903–1905) | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1905-01-01 | The Gyeongbu Line opens, establishing the railway junction that becomes Daejeon | Geography | [Daejeon](geography/daejeon.md) |
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1907 | Emperor Gojong is forced to abdicate and the Korean army is disbanded | History | [Korean Independence Movement](history/korean-independence-movement.md) |
@@ -118,11 +119,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1932-04-29 | Yun Bong-gil bombs a Japanese ceremony at Shanghai's Hongkou Park | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1933 | The Korean Language Society issues the Unified Hangul Orthography, the basis of modern spelling | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1936 | Yi Sang's modernist novella "Wings" appears, pioneering Korean stream-of-consciousness prose | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
+| 1937 | Stalin deports some 172,000 Soviet Koreans from the Far East to Central Asia, creating the Koryo-saram diaspora | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1938 | Lee Byung-chul founds Samsung as a trading company | Economy | [Chaebol](economy/chaebol.md) |
 | 1940-02 | Sōshi-kaimei policy pressures Koreans to adopt Japanese-style names | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1940-09-17 | The Korean Liberation Army is founded in Chongqing | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1941-12-19 | Lee Myung-bak born to a Korean family in Osaka, Japan | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1942 | The Korean Language Society Incident: colonial authorities arrest and torture Hangul scholars | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
+| 1945 | Pacific Chemical Industrial, the predecessor of Amorepacific, is founded, later anchoring the K-beauty industry | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
 | 1945-02-16 | Poet Yun Dong-ju dies in Fukuoka Prison under Japanese detention | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1945-08-15 | Liberation from Japan; the peninsula is divided at the 38th parallel | History | [Korean War](history/korean-war.md) |
 | 1945-09-08 | U.S. forces land at Incheon and establish the military government (USMGIK) in the south | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
@@ -167,6 +170,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1961-12-02 | Munhwa Broadcasting Corporation (MBC) is founded | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1962 | Ulsan is designated South Korea's first Special Industrial District | Geography | [Ulsan](geography/ulsan.md) |
 | 1962 | The Korea Tourism Organization is founded to promote inbound tourism | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
+| 1963 | Korean miners and nurses begin migrating to West Germany under a labor agreement, and agricultural emigration to Brazil starts | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1967 | The Yeosu National Industrial Complex is established on the south coast | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
@@ -175,6 +179,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1968 | The Gyeongju area is designated a national park, the only Korean national park centered on cultural heritage | Geography | [Gyeongju](geography/gyeongju.md) |
 | 1968 | POSCO (Pohang Iron and Steel) is founded to build an integrated steel mill at Pohang | Geography | [North Gyeongsang Province](geography/north-gyeongsang-province.md) |
 | 1968-01-21 | North Korean commandos raid to within reach of the Blue House, spurring rearmament | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
+| 1968-01-25 | Lee Jae-yong, later chairman of Samsung Electronics, is born in Seoul | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 1969 | Samsung Electronics is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1969 | The Electronics Industry Promotion Law designates electronics a strategic sector | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 1970 | Samsung begins consumer-electronics manufacturing at its Suwon plant | Geography | [Suwon](geography/suwon.md) |
@@ -246,6 +251,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1991-12 | SBS begins television broadcasting, ending the KBS–MBC duopoly | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 1992-04-29 | The Los Angeles riots ("Sa-I-Gu") devastate Korean-owned businesses, galvanizing Korean-American civic politics | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1992-08-24 | South Korea normalizes diplomatic relations with the People's Republic of China | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1992-12-18 | Kim Young-sam elected, the first civilian president since 1961 | History | [Democratization](history/democratization.md) |
 | 1993 | Lee Kun-hee's "Frankfurt Declaration" launches Samsung's "New Management" quality drive | People | [Lee Kun-hee](people/lee-kun-hee.md) |
@@ -267,6 +273,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1996-12-12 | South Korea joins the OECD as its 29th member | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1997 | Hwaseong Fortress in Suwon is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1997 | The Hunminjeongeum Haerye is inscribed on UNESCO's Memory of the World register | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
+| 1997 | The Overseas Koreans Foundation is established to coordinate ties with the global Korean diaspora | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1997-01 | Hanbo Steel collapses, the first major chaebol failure in a decade and a prelude to the crisis | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
 | 1997-03 | NCSoft is founded by Kim Taek-jin, becoming a leading MMORPG developer | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 1997-07-15 | Ulsan is elevated to a Metropolitan City, separating from South Gyeongsang Province | Geography | [Ulsan](geography/ulsan.md) |
@@ -290,6 +297,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1999 | Brain Korea 21 (BK21) university research program launched | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1999 | Naver, later South Korea's dominant search portal, is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1999 | "Shiri" proves Korean cinema can rival Hollywood at the box office | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
+| 2000 | Missha launches the "price-innovation" cosmetics model, a precursor of the global K-beauty e-commerce boom | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
 | 2000-06-15 | First inter-Korean summit; June 15 Joint Declaration signed in Pyongyang | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2000-12 | UNESCO inscribes the Gyeongju Historic Areas as a World Heritage Site | Geography | [Gyeongju](geography/gyeongju.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
@@ -337,6 +345,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2007-10-04 | Roh Moo-hyun holds the second inter-Korean summit in Pyongyang; the October 4 Declaration is issued | Government & Politics | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2007-12-19 | Lee Myung-bak elected president with 48.7% of the vote | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008 | Hyundai launches the Genesis luxury sedan, moving upmarket | Economy | [Automotive Industry](economy/automotive-industry.md) |
+| 2008 | Amorepacific's IOPE introduces the cushion compact, a signature K-beauty format later copied by Western luxury brands | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
 | 2008-02-25 | Lee Myung-bak inaugurated as president | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-06 | Candlelight protests over U.S. beef imports draw hundreds of thousands | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-08 | Lee Myung-bak unveils the "Low Carbon, Green Growth" national strategy | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
@@ -387,6 +396,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 2014-03-21 | Zaha Hadid's Dongdaemun Design Plaza opens in Seoul | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2014-04-16 | The MV Sewol ferry sinks, killing 304 and devastating Park Geun-hye's presidency | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2014-05 | Lee Jae-yong becomes Samsung's de facto leader after his father Lee Kun-hee's heart attack | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 2014-09-19 | Incheon hosts the 17th Asian Games | Geography | [Incheon](geography/incheon.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2015 | The Gyeongju low- and intermediate-level nuclear-waste repository opens | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
@@ -408,6 +418,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2016-12-09 | The National Assembly votes 234–56 to impeach President Park Geun-hye | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2017 | Samsung Heavy Industries delivers Shell's Prelude FLNG, the largest floating structure ever built | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
+| 2017 | China's post-THAAD boycott cuts Korean cosmetics exports to China sharply, pushing K-beauty brands to diversify markets | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
+| 2017-02-17 | Samsung heir Lee Jae-yong is arrested in the Park Geun-hye bribery scandal | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 2017-03 | Krafton's *PUBG* enters Steam Early Access, igniting the global battle-royale boom | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2017-03 | China halts new game-license approvals for Korean titles amid the THAAD dispute | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2017-03 | China's post-THAAD travel restrictions sharply cut Chinese tourist arrivals to South Korea | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
@@ -454,6 +466,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021 | Naver acquires the web-fiction platform Wattpad as Kakao's Piccoma tops Japan's app-revenue charts | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2021 | "Squid Game" becomes a global Netflix phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2021 | Naver unveils HyperCLOVA, one of the largest non-English AI language models | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 2021 | Samsung commits about $17 billion to a new advanced-chip foundry in Taylor, Texas, under Lee Jae-yong | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 2021-02 | Yoon Suk-yeol resigns as prosecutor-general amid clashes with the Moon government | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2021-03 | Big Hit Entertainment rebrands as HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-04 | HYBE acquires Ithaca Holdings, establishing HYBE America | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
@@ -485,12 +498,16 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-07 | The domestically developed KF-21 Boramae fighter completes its first flight | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2022-07 | Poland signs a landmark deal for K2 tanks, K9 howitzers, and FA-50 jets, South Korea's largest defense export | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2022-08-01 | NewJeans debuts under HYBE's ADOR label | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
+| 2022-08-15 | President Yoon Suk-yeol pardons Lee Jae-yong on Liberation Day, restoring his eligibility to lead Samsung | People | [Lee Jae-yong](people/lee-jae-yong.md) |
+| 2022-10 | Lee Jae-yong is named chairman of Samsung Electronics | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 2022-10-15 | A datacenter fire in Pangyo takes Kakao's services offline nationwide for hours, exposing digital-infrastructure risk | Economy | [Kakao](economy/kakao.md) |
 | 2022-10-29 | The Itaewon Halloween crowd crush kills 159 people in Seoul | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2022-12-27 | President Yoon Suk-yeol pardons Lee Myung-bak, citing age and health | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2023 | Ground-breaking begins on the S-Oil Shaheen petrochemical complex at Ulsan | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
 | 2023 | International tourist arrivals rebound to about 11 million after COVID entry curbs are lifted | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2023 | Naver releases HyperCLOVA X, a multimodal Korean-first large language model | Economy | [Naver](economy/naver.md) |
+| 2023 | Amorepacific agrees to acquire a majority stake in the fast-growing skincare brand Cosrx | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
+| 2023 | The Overseas Koreans Act consolidates diaspora policy under a new state agency | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 2023-01 | The 10th electricity plan raises nuclear to 32.4% of the mix by 2036, reversing the phase-out | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2023-03 | Yoon's government announces a third-party fund for wartime forced-labor victims, unfreezing ties with Japan | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-04 | The Washington Declaration establishes a U.S.–South Korea Nuclear Consultative Group | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |

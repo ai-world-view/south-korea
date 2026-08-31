@@ -24,4 +24,5 @@ Topics on the individuals — leaders, thinkers, artists, and innovators — who
 - [Roh Tae-woo](roh-tae-woo.md) — The thirteenth president (1988–1993); a Hanahoe general and December 1979 coup participant whose June 29 Declaration opened the democratic transition before his later corruption conviction.
 - [Lee Kun-hee](lee-kun-hee.md) — Samsung Group chairman (1987–2020) who transformed the conglomerate into a global leader in semiconductors, displays, and smartphones; a central architect of South Korea's rise as a technology power.
 - [Han Kang](han-kang.md) — Novelist (b. 1970) and the first Korean winner of the Nobel Prize in Literature (2024); author of *The Vegetarian*, *Human Acts*, and *The White Book*, known for spare, philosophically intense prose confronting historical trauma and the body.
+- [Lee Jae-yong](lee-jae-yong.md) — Samsung Electronics chairman and third-generation head of the Samsung Group; his semiconductor, biopharma, and foundry strategy, the Park Geun-hye bribery case and 2022 presidential pardon, and the debate over chaebol succession and governance.
 <!-- END GENERATED: category-index -->
