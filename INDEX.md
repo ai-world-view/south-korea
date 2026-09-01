@@ -26,6 +26,8 @@ Index: [geography/](geography/index.md)
 - [Gyeongju](geography/gyeongju.md)
 - [North Gyeongsang Province](geography/north-gyeongsang-province.md)
 - [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md)
+- [South Gyeongsang Province](geography/south-gyeongsang-province.md)
+- [South Jeolla Province](geography/south-jeolla-province.md)
 
 ## History
 
@@ -42,6 +44,7 @@ Index: [history/](history/index.md)
 - [Gwangju Uprising (May 18 Incident)](history/gwangju-uprising.md)
 - [Democratization of South Korea](history/democratization.md)
 - [The 1997 Asian Financial Crisis and Korean Economic Restructuring](history/asian-financial-crisis-1997.md)
+- [December 2024 Martial Law Crisis and Constitutional Crisis](history/martial-law-crisis-2024.md)
 
 ## Government & Politics
 

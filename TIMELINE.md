@@ -358,6 +358,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-01 | The Framework Act on Low Carbon, Green Growth is enacted | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2010-03-18 | KakaoTalk launches, soon becoming South Korea's dominant mobile messenger | Economy | [Kakao](economy/kakao.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2010-07-01 | Masan and Jinhae merge into Changwon, the largest municipal merger in Korean history | Geography | [South Gyeongsang Province](geography/south-gyeongsang-province.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-01 | KTX high-speed rail service reaches Ulsan on the Gyeongbu line | Geography | [Ulsan](geography/ulsan.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
@@ -381,6 +382,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2012 | The National Assembly is enlarged to 300 seats and overseas absentee voting is first used | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 2012-05 | The Gyeongin Ara Waterway opens, linking the Han River to the Yellow Sea at Incheon | Geography | [Incheon](geography/incheon.md) |
+| 2012-05 | Yeosu hosts the World Expo on the theme "The Living Ocean and Coast" | Geography | [South Jeolla Province](geography/south-jeolla-province.md) |
 | 2012-12-19 | Park Geun-hye is elected president, the first woman and first popular-vote majority since 1987 | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2012-12-31 | South Korea completes its transition from analog to digital terrestrial broadcasting | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 2013 | Lezhin Comics launches a paid-only webtoon platform for mature content | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
@@ -525,13 +527,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2024-10 | Hyundai opens its dedicated EV Metaplant (HMGMA) in Georgia | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2024-10 | Han Kang wins the Nobel Prize in Literature, the first Korean and first East Asian woman to do so | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 2024-10-10 | The Swedish Academy awards Han Kang the Nobel Prize in Literature | People | [Han Kang](people/han-kang.md) |
-| 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2024-12-03 | President Yoon Suk-yeol declares martial law, quickly overturned | History | [December 2024 Martial Law Crisis](history/martial-law-crisis-2024.md) |
 | 2024-12-04 | The National Assembly votes 190-0 to lift martial law; Yoon rescinds the decree | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
-| 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2024-12-14 | National Assembly impeaches President Yoon Suk-yeol | History | [December 2024 Martial Law Crisis](history/martial-law-crisis-2024.md) |
 | 2024-12-26 | The National Assembly passes the AI Basic Act, Korea's first comprehensive AI law | Government & Politics | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2025-01-15 | Yoon Suk-yeol is detained, the first sitting South Korean president to be arrested | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
-| 2025-04-04 | Constitutional Court unanimously removes Yoon Suk-yeol from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2025-04-04 | Constitutional Court unanimously removes Yoon Suk-yeol from office | History | [December 2024 Martial Law Crisis](history/martial-law-crisis-2024.md) |
 | 2025-06-03 | Lee Jae-myung wins the snap presidential election following Yoon's removal | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2025-06-03 | Democrat Lee Jae-myung wins the snap presidential election, with regional voting blocs again dominant | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
-| 2025-06-10 | Lee Jae-myung is inaugurated as president | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2025-06-04 | Lee Jae-myung is inaugurated as South Korea's twenty-first president | History | [December 2024 Martial Law Crisis](history/martial-law-crisis-2024.md) |
 <!-- END GENERATED: timeline -->
