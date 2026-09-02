@@ -94,4 +94,5 @@ Architecturally, South Korea has made distinctive contributions to global practi
 - [Chaebol (Korean Conglomerates)](../economy/chaebol.md) — Corporate investment in landmark architecture and real-estate development.
 - [Park Chung-hee](../people/park-chung-hee.md) — Developmental-state policies shaping urban form and mass housing.
 - [Democratization of South Korea](../history/democratization.md) — The opening of architectural culture after 1987.
+- [Korean Royal Palaces and Heritage Sites](korean-royal-palaces.md) — The Joseon palace architecture, geomancy, and dancheong that anchor Korea's built heritage.
 <!-- END GENERATED: related -->

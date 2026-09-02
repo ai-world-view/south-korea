@@ -102,4 +102,5 @@ As Korean popular culture gained international traction through K-dramas, K-pop,
 - [Gyeongju](../geography/gyeongju.md) — Ancient Silla capital and major cultural pilgrimage destination during Chuseok
 - [Korean Drama Industry](korean-drama-industry.md) — Chuseok storylines and seasonal themes in Korean television dramas
 - [Architecture and Urban Design in South Korea](architecture-urban-design.md) — Traditional hanok homes and village structures where ancestral rites take place
+- [Seollal — Korea's Lunar New Year](seollal.md) — Korea's other great family holiday, sharing the ancestral rite and return-migration structure
 <!-- END GENERATED: related -->

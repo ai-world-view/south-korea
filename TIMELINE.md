@@ -53,6 +53,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1392 | Yi Seong-gye founds the Joseon dynasty, ending Goryeo after 474 years | History | [Goryeo Period](history/goryeo-period.md) |
 | 1394 | Hanyang (Seoul) designated permanent capital of the Joseon Dynasty | Geography | [Seoul](geography/seoul.md) |
 | 1395 | Gyeongbokgung Palace and Jongmyo Shrine completed in Hanyang | Geography | [Seoul](geography/seoul.md) |
+| 1405 | King Taejong completes Changdeokgung, later the principal Joseon palace | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 1398 | The First Strife of Princes; Jeong Do-jeon, architect of Joseon's institutions, is killed | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1418 | Sejong the Great accedes to the Joseon throne | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1419 | Joseon's Gihae Expedition strikes the waegu pirate base on Tsushima | People | [Sejong the Great](people/sejong-the-great.md) |
@@ -83,6 +84,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1796 | Hwaseong Fortress is completed, a landmark of Joseon military architecture | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1801 | The Sinyu Persecution executes hundreds of Korean Catholics | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1866 | The Byeongin Persecution kills thousands of Catholics; a French expedition is repulsed at Ganghwa | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 1868 | The Heungseon Daewongun completes the reconstruction of Gyeongbokgung, ruined since the Imjin War | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 1875-03-26 | Syngman Rhee, the founding president of the Republic of Korea, is born in Hwanghae Province | People | [Syngman Rhee](people/syngman-rhee.md) |
 | 1876 | Japan-Korea Treaty of Ganghwa forces Korea to open its ports to Japan | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1876 | Busan opened as Korea's first treaty port under the Ganghwa Treaty | Geography | [Busan](geography/busan.md) |
@@ -91,6 +93,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1894 | The Donghak Peasant Revolt rises against taxation and foreign encroachment | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1896 | Gwangju becomes the provincial capital of the newly created South Jeolla Province | Geography | [Gwangju](geography/gwangju.md) |
 | 1897 | Gojong proclaims the Empire of Korea (Daehan Jeguk), ending the Joseon kingdom's old order | History | [Joseon Dynasty](history/joseon-dynasty.md) |
+| 1897 | Emperor Gojong makes Deoksugung the seat of the new Korean Empire after his return from the Russian legation | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 1899 | The Gyeongin Line, Korea's first railway, opens between Seoul and Incheon | Geography | [Incheon](geography/incheon.md) |
 | 1903 | The first organized Korean emigration to the Americas begins as laborers ship to Hawaii's plantations (1903–1905) | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1905-01-01 | The Gyeongbu Line opens, establishing the railway junction that becomes Daejeon | Geography | [Daejeon](geography/daejeon.md) |
@@ -98,6 +101,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1907 | Emperor Gojong is forced to abdicate and the Korean army is disbanded | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1907 | The Pyongyang Great Revival shapes the character of Korean Protestantism | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1908 | Choe Nam-seon's "From the Sea to Children" inaugurates modern Korean free verse | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
+| 1909 | Japanese authorities convert Changgyeonggung into a zoo and botanical garden, renaming it Changgyeongwon | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 1909-10-26 | An Jung-geun assassinates Itō Hirobumi at Harbin Station | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1910 | Japan annexes Korea; the capital is renamed Keijō | History | [Seoul](geography/seoul.md) |
 | 1910-03-26 | An Jung-geun is executed at Lüshun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
@@ -154,6 +158,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1953 | The Labor Standards Act is enacted, setting basic worker protections long left unenforced | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1953-01-24 | Moon Jae-in is born on Geoje Island to refugee parents from the North | People | [Moon Jae-in](people/moon-jae-in.md) |
 | 1953-07-27 | Korean Armistice Agreement signed at Panmunjom | History | [Korean War](history/korean-war.md) |
+| 1953-07-27 | The armistice establishes the Demilitarized Zone along the Military Demarcation Line | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 1953-10-01 | U.S.–ROK Mutual Defense Treaty signed | History | [Korean War](history/korean-war.md) |
 | 1954 | The Korea Development Bank is founded to channel long-term industrial credit | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1954 | A Buddhist purification drive consolidates the Jogye Order; the Unification Church is founded | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
@@ -209,8 +214,10 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1975 | Hyundai launches the Pony, Korea's first domestically designed car | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1975 | Seoul National University relocates to its purpose-built Gwanak campus in southern Seoul | Culture & Society | [Seoul National University](culture-society/seoul-national-university.md) |
 | 1976 | The Export-Import Bank of Korea (KEXIM) is established to finance exports | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
+| 1976-08-18 | The Panmunjom Axe Murder Incident kills two U.S. officers; Operation Paul Bunyan follows | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 1977 | Lee Myung-bak becomes CEO of Hyundai Engineering & Construction at 35 | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1978-04 | Kori-1, South Korea's first commercial nuclear reactor, begins operation near Busan | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
+| 1978-10 | South Korea discovers the Third Infiltration Tunnel dug under the DMZ near Panmunjom | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 1979-10-16 | Bu-Ma Democratic Uprising erupts in Busan against the Yushin system | History | [Busan](geography/busan.md) |
 | 1979-10-26 | Park Chung-hee assassinated by KCIA director Kim Jae-gyu | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1979-12-12 | Chun Doo-hwan seizes military control in the December 12 coup | History | [Democratization](history/democratization.md) |
@@ -243,6 +250,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1989 | The First Generation New Towns of Bundang and Ilsan are launched around Seoul | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
 | 1989 | Lotte World opens in Seoul, becoming a flagship domestic tourist attraction | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1989 | Daejeon is elevated to a direct-jurisdiction city as KAIST relocates to Daedeok | Geography | [Daejeon](geography/daejeon.md) |
+| 1989 | Seollal is reinstated as a three-day national holiday, restoring the Lunar New Year | Culture & Society | [Seollal — Korea's Lunar New Year](culture-society/seollal.md) |
 | 1990-01 | The three-party merger forms the Democratic Liberal Party under Kim Young-sam | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1990-01 | The three-party merger consolidates the conservative bloc, entrenching the TK–Honam party divide | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
 | 1990-09-30 | South Korea and the Soviet Union establish diplomatic relations under Roh Tae-woo's Nordpolitik | People | [Roh Tae-woo](people/roh-tae-woo.md) |
@@ -272,6 +280,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1996-10 | Busan International Film Festival, Asia's first major film festival, is inaugurated | Culture & Society | [Busan](geography/busan.md) |
 | 1996-12-12 | South Korea joins the OECD as its 29th member | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1997 | Hwaseong Fortress in Suwon is inscribed as a UNESCO World Heritage Site | Geography | [Gyeonggi Province](geography/gyeonggi-province.md) |
+| 1997 | Changdeokgung Palace and its Secret Garden are inscribed as a UNESCO World Heritage Site | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 1997 | The Hunminjeongeum Haerye is inscribed on UNESCO's Memory of the World register | Culture & Society | [Hangul and the Korean Alphabet](culture-society/hangul.md) |
 | 1997 | The Overseas Koreans Foundation is established to coordinate ties with the global Korean diaspora | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1997-01 | Hanbo Steel collapses, the first major chaebol failure in a decade and a prelude to the crisis | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
@@ -331,6 +340,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2004-05 | Park Chan-wook's "Oldboy" wins the Grand Prix at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2005 | Bang Si-hyuk founds Big Hit Entertainment, later HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2005 | Pangyo Techno Valley development begins near Seoul as a high-tech cluster | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
+| 2005 | The Kaesong Industrial Complex begins production just north of the DMZ | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 2005-04 | NCSoft's ArenaNet studio releases *Guild Wars*, a "buy-to-play" MMO hit in the West | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
@@ -359,6 +369,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-03-18 | KakaoTalk launches, soon becoming South Korea's dominant mobile messenger | Economy | [Kakao](economy/kakao.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-07-01 | Masan and Jinhae merge into Changwon, the largest municipal merger in Korean history | Geography | [South Gyeongsang Province](geography/south-gyeongsang-province.md) |
+| 2010-08 | Gwanghwamun Gate is restored to its original position before Gyeongbokgung | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-01 | KTX high-speed rail service reaches Ulsan on the Gyeongbu line | Geography | [Ulsan](geography/ulsan.md) |
 | 2010-11-23 | North Korea shells Yeonpyeong Island | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
@@ -442,6 +453,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-03-22 | Former president Lee Myung-bak arrested on bribery and embezzlement charges | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2018-04 | Park Geun-hye is convicted and sentenced to 24 years in prison (later finalized at 20) | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2018-04-27 | Panmunjom Declaration between the two Koreas | History | [Korean War](history/korean-war.md) |
+| 2018-09 | Under the inter-Korean military agreement, the two Koreas demine and disarm the Joint Security Area | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 2018-05 | BTS's *Love Yourself: Tear* becomes the first Korean-language album to top the Billboard 200 | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2018-06 | The three carriers pay about 3.6 trillion won at auction for 5G spectrum | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2018-06-12 | First U.S.–North Korea summit held in Singapore | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |

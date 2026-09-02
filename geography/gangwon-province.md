@@ -157,4 +157,5 @@ The provincial government's special autonomy designation (2023) was partly desig
 - [Seoul](seoul.md) — The metropolis whose weekend tourism and water supply depend on Gangwon's lakes and resorts.
 - [Korean War](../history/korean-war.md) — The conflict that made the Taebaek region one of its most contested battlefields.
 - [Park Chung-hee](../people/park-chung-hee.md) — The developmental-state leader whose expressways and dams first opened the province.
+- [The Korean Demilitarized Zone (DMZ)](demilitarized-zone.md) — The eastern, mountainous stretch of the DMZ frontier running through Gangwon to the coast.
 <!-- END GENERATED: related -->

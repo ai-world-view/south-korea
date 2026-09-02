@@ -135,6 +135,7 @@ Joseon's legacy is visible in contemporary Korean culture: in the Confucian reve
 - [Sejong the Great](../people/sejong-the-great.md) — Joseon's fourth king, whose reign produced Hangul, the Hall of Worthies, and the northern frontier.
 - [Korean Literature and Literary Culture](../culture-society/korean-literature.md) — the sijo, pansori, and vernacular fiction that crystallized during the dynasty.
 - [Korean Traditional Visual Arts](../culture-society/traditional-visual-arts.md) — literati ink painting, Kim Jeong-hui's calligraphy, and the white porcelain that embodied Neo-Confucian aesthetics.
+- [Korean Royal Palaces and Heritage Sites](../culture-society/korean-royal-palaces.md) — the five grand Seoul palaces built as the seats of Joseon courtly and Confucian statecraft.
 <!-- END GENERATED: related -->
 
 ## Sources

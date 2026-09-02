@@ -178,6 +178,7 @@ For South Korea, inter-Korean relations are inseparable from its relationships w
 - [Park Geun-hye](../people/park-geun-hye.md) — President (2013–2017) whose Trust-Building Process, 2016 Kaesong closure, and THAAD deployment defined a hardening posture.
 - [Military and Defense Policy](military-defense-policy.md) — The deterrence posture, missile defense, and OPCON arrangements that structure the response to the North.
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — The Kaesong Industrial Complex energy supply and North Korea's coal and mineral exports.
+- [The Korean Demilitarized Zone (DMZ)](../geography/demilitarized-zone.md) — The fortified frontier and Panmunjom, the physical stage of inter-Korean confrontation and dialogue.
 <!-- END GENERATED: related -->
 
 ## Sources

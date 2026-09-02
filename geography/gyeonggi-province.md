@@ -132,4 +132,5 @@ Gyeonggi Province has become increasingly politically diverse, reflecting Seoul'
 - [Korean War and Armistice](../history/korean-war.md) — DMZ border in northern Gyeonggi, wartime significance of the province
 - [Chaebol](../economy/chaebol.md) — Samsung, SK, and LG facilities concentrated in Gyeonggi industrial zones
 - [Suwon](suwon.md) — the provincial capital, home of Samsung Digital City and Hwaseong Fortress
+- [The Korean Demilitarized Zone (DMZ)](demilitarized-zone.md) — the fortified northern frontier of Gyeonggi and the Panmunjom Joint Security Area
 <!-- END GENERATED: related -->

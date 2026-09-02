@@ -144,5 +144,6 @@ The city's emergence as South Korea's semiconductor and consumer-electronics R&D
 - [Joseon Dynasty](../history/joseon-dynasty.md) — the political and cultural era that produced Hwaseong Fortress
 - [Architecture and Urban Design in South Korea](../culture-society/architecture-urban-design.md) — Hwaseong as an architectural and engineering model
 - [Park Chung-hee](../people/park-chung-hee.md) — the developmental-state industrialization that seeded Suwon's factories
+- [Korean Royal Palaces and Heritage Sites](../culture-society/korean-royal-palaces.md) — Hwaseong Fortress as the fortified palace city extending Joseon royal power beyond Seoul
 <!-- END GENERATED: related -->
 

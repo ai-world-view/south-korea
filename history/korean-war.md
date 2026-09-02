@@ -192,4 +192,5 @@ The Korean War's most profound legacy is its incompleteness. The armistice creat
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The armistice, the U.S. alliance, and the deterrence posture the unfinished war bequeathed.
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — The post-war reconstruction energy deficit and the U.S.-aligned supply strategy.
 - [Daegu](../geography/daegu.md) — The city inside the Pusan Perimeter that served as a wartime rear base and staging area.
+- [The Korean Demilitarized Zone (DMZ)](../geography/demilitarized-zone.md) — The buffer strip the 1953 armistice created along the front line, still dividing the peninsula.
 <!-- END GENERATED: related -->
