@@ -120,4 +120,5 @@ His case joins Park Geun-hye (impeached 2017, convicted of corruption) and Lee M
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The Freedom Shield exercises, the Camp David framework, and the Washington Declaration that Yoon advanced.
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — Yoon's nuclear restart and the K-Energy Mix framework.
 - [Electoral System and the National Assembly](../government-politics/electoral-system.md) — The elections, impeachment procedure, and legislature at the center of the 2024–2025 crisis.
+- [Lee Jae-myung](lee-jae-myung.md) — Yoon's 2022 opponent and the progressive who won the June 2025 snap election triggered by Yoon's removal.
 <!-- END GENERATED: related -->

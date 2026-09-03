@@ -93,4 +93,5 @@ The evolution of Korean labor policy from state repression to contested democrat
 - [Government Structure of South Korea](../government-politics/government-structure.md) — Labor-policy regulation and the Ministry of Employment and Labor.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — Credential competition and labor-market entry.
 - [Daegu](../geography/daegu.md) — Regional labor history, including the 1946 Daegu Uprising.
+- [Women's Movements and Gender Equality](../culture-society/womens-movements-and-gender-equality.md) — Women factory workers, the gendered labor market, and the OECD's largest gender pay gap.
 <!-- END GENERATED: related -->

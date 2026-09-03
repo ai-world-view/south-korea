@@ -103,6 +103,7 @@ The Choi Soon-sil scandal exposed the structural vulnerability of the Korean pre
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The THAAD decision and deterrence posture
 - [Chaebol](../economy/chaebol.md) — Samsung, Lotte, and Hyundai as central actors in the corruption scandal
 - [Democratization of South Korea](../history/democratization.md) — The democratic context of the candlelight protests that removed her
+- [Sewol Ferry Disaster](../history/sewol-ferry-disaster.md) — The April 2014 tragedy whose handling eroded trust in her government
 <!-- END GENERATED: related -->
 
 ## Sources

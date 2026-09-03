@@ -120,4 +120,5 @@ Moon remains an influential reference point in South Korean progressive politics
 - [Park Geun-hye](park-geun-hye.md) — The predecessor whose removal by the Candlelight movement brought Moon to office, and whom he later pardoned
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — Moon's nuclear phase-out policy and the Renewable Energy 3020 plan
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The 2018 inter-Korean military de-escalation agreements
+- [Lee Jae-myung](lee-jae-myung.md) — The Democratic successor who won the June 2025 election and revived Moon's dialogue-based North Korea approach
 <!-- END GENERATED: related -->

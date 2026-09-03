@@ -45,6 +45,7 @@ Index: [history/](history/index.md)
 - [Gwangju Uprising (May 18 Incident)](history/gwangju-uprising.md)
 - [Democratization of South Korea](history/democratization.md)
 - [The 1997 Asian Financial Crisis and Korean Economic Restructuring](history/asian-financial-crisis-1997.md)
+- [Sewol Ferry Disaster (2014)](history/sewol-ferry-disaster.md)
 - [December 2024 Martial Law Crisis and Constitutional Crisis](history/martial-law-crisis-2024.md)
 
 ## Government & Politics
@@ -103,6 +104,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Chuseok — Korea's Harvest Festival](culture-society/chuseok.md)
 - [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md)
 - [Seollal — Korea's Lunar New Year](culture-society/seollal.md)
+- [Women's Movements and Gender Equality in South Korea](culture-society/womens-movements-and-gender-equality.md)
 
 ## People
 
@@ -124,4 +126,5 @@ Index: [people/](people/index.md)
 - [Lee Kun-hee](people/lee-kun-hee.md)
 - [Han Kang](people/han-kang.md)
 - [Lee Jae-yong](people/lee-jae-yong.md)
+- [Lee Jae-myung](people/lee-jae-myung.md)
 <!-- END GENERATED: index -->

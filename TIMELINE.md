@@ -176,6 +176,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1962 | Ulsan is designated South Korea's first Special Industrial District | Geography | [Ulsan](geography/ulsan.md) |
 | 1962 | The Korea Tourism Organization is founded to promote inbound tourism | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1963 | Korean miners and nurses begin migrating to West Germany under a labor agreement, and agricultural emigration to Brazil starts | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
+| 1964-12-22 | Lee Jae-myung is born into a poor family in Andong, North Gyeongsang Province | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1967 | The Yeosu National Industrial Complex is established on the south coast | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
@@ -258,6 +259,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1991-12 | The two Koreas sign the Basic Agreement on reconciliation, non-aggression, and exchange | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1991-12 | SBS begins television broadcasting, ending the KBS–MBC duopoly | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1992 | Seo Taiji and Boys debut, launching modern Korean popular music | Culture & Society | [Hallyu](culture-society/hallyu.md) |
+| 1992-01-08 | The weekly Wednesday Demonstration for the "comfort women" begins outside Japan's embassy in Seoul | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
 | 1992-02 | Short-track speed skating becomes an Olympic medal event; Kim Ki-hoon wins South Korea's first gold at Albertville | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1992-04-29 | The Los Angeles riots ("Sa-I-Gu") devastate Korean-owned businesses, galvanizing Korean-American civic politics | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1992-08-24 | South Korea normalizes diplomatic relations with the People's Republic of China | People | [Roh Tae-woo](people/roh-tae-woo.md) |
@@ -341,6 +343,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2005 | Bang Si-hyuk founds Big Hit Entertainment, later HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2005 | Pangyo Techno Valley development begins near Seoul as a high-tech cluster | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2005 | The Kaesong Industrial Complex begins production just north of the DMZ | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
+| 2005 | Family-law reform abolishes the hoju household-head system, a landmark for women's legal equality | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
 | 2005-04 | NCSoft's ArenaNet studio releases *Guild Wars*, a "buy-to-play" MMO hit in the West | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
@@ -369,6 +372,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-03-18 | KakaoTalk launches, soon becoming South Korea's dominant mobile messenger | Economy | [Kakao](economy/kakao.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2010-07-01 | Masan and Jinhae merge into Changwon, the largest municipal merger in Korean history | Geography | [South Gyeongsang Province](geography/south-gyeongsang-province.md) |
+| 2010-07-01 | Lee Jae-myung takes office as mayor of Seongnam | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 | 2010-08 | Gwanghwamun Gate is restored to its original position before Gyeongbokgung | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 2010-11 | Seoul hosts the G20 summit under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2010-11-01 | KTX high-speed rail service reaches Ulsan on the Gyeongbu line | Geography | [Ulsan](geography/ulsan.md) |
@@ -409,8 +413,10 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2014 | Pope Francis beatifies 124 Korean Catholic martyrs during his visit to Seoul | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 2014-03-21 | Zaha Hadid's Dongdaemun Design Plaza opens in Seoul | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2014-04-16 | The MV Sewol ferry sinks, killing 304 and devastating Park Geun-hye's presidency | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2014-04-16 | The overloaded ferry MV Sewol capsizes off Jindo, killing 304 people, most of them Danwon High School students | History | [Sewol Ferry Disaster (2014)](history/sewol-ferry-disaster.md) |
 | 2014-05 | Lee Jae-yong becomes Samsung's de facto leader after his father Lee Kun-hee's heart attack | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 2014-09-19 | Incheon hosts the 17th Asian Games | Geography | [Incheon](geography/incheon.md) |
+| 2014-11 | The Sewol Special Law is enacted and captain Lee Joon-seok is sentenced (later raised to life imprisonment on appeal) | History | [Sewol Ferry Disaster (2014)](history/sewol-ferry-disaster.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2015 | The Gyeongju low- and intermediate-level nuclear-waste repository opens | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2015 | A Galerie Perrotin retrospective brings the Dansaekhwa monochrome movement to global attention | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
@@ -418,6 +424,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2015-04-02 | The Honam KTX high-speed line opens, cutting Seoul–Gwangju travel to about 1 hour 33 minutes | Geography | [Gwangju](geography/gwangju.md) |
 | 2015-11 | The Asia Culture Center opens in Gwangju on the site of the former South Jeolla Provincial Hall | Culture & Society | [Gwangju](geography/gwangju.md) |
 | 2015-11-22 | Kim Young-sam dies in Seoul at the age of 87 | People | [Kim Young-sam](people/kim-young-sam.md) |
+| 2015-12-28 | Seoul and Tokyo announce a "final and irreversible" comfort-women agreement, rejected by most survivors | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
 | 2016-01 | Netflix launches in South Korea, reshaping K-drama production and global distribution | Culture & Society | [Korean Drama Industry](culture-society/korean-drama-industry.md) |
 | 2016-02 | South Korea closes the Kaesong Industrial Complex after North Korea's fourth nuclear test | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2016-02 | The Jeju Naval Base at Gangjeong village is completed | Geography | [Jeju Island](geography/jeju-island.md) |
@@ -436,6 +443,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2017-03 | Krafton's *PUBG* enters Steam Early Access, igniting the global battle-royale boom | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2017-03 | China halts new game-license approvals for Korean titles amid the THAAD dispute | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2017-03 | China's post-THAAD travel restrictions sharply cut Chinese tourist arrivals to South Korea | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
+| 2017-03 | The Sewol wreck is raised from the seabed, nearly three years after the sinking, and towed to Mokpo | History | [Sewol Ferry Disaster (2014)](history/sewol-ferry-disaster.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
 | 2017-03-31 | Park Geun-hye is arrested on bribery and abuse-of-power charges | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2017-04-03 | Lotte World Tower opens in Seoul as South Korea's tallest building | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
@@ -449,13 +457,16 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018 | The 52-hour maximum workweek is enacted, phased in from the largest firms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 2018-01 | *PUBG* peaks at 3.2 million concurrent Steam players, a long-standing record | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2018-01 | China's National Sword import ban triggers a plastic-recycling crisis in South Korea | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
+| 2018-01 | Prosecutor Seo Ji-hyun's televised testimony ignites South Korea's #MeToo movement | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
 | 2018-02-09 | PyeongChang Winter Olympics open; the two Koreas march under a unified flag | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 2018-03-22 | Former president Lee Myung-bak arrested on bribery and embezzlement charges | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2018-04 | Park Geun-hye is convicted and sentenced to 24 years in prison (later finalized at 20) | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2018-04-27 | Panmunjom Declaration between the two Koreas | History | [Korean War](history/korean-war.md) |
 | 2018-09 | Under the inter-Korean military agreement, the two Koreas demine and disarm the Joint Security Area | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 2018-05 | BTS's *Love Yourself: Tear* becomes the first Korean-language album to top the Billboard 200 | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
+| 2018-05 | The Hyehwa Station rallies against spycam (molka) crimes draw tens of thousands of women over successive weekends | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
 | 2018-06 | The three carriers pay about 3.6 trillion won at auction for 5G spectrum | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
+| 2018-07-01 | Lee Jae-myung takes office as governor of Gyeonggi Province | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 | 2018-06-12 | First U.S.–North Korea summit held in Singapore | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2018-09-18 | Pyongyang inter-Korean summit; Moon addresses 150,000 at May Day Stadium | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -503,6 +514,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022-01-27 | The Serious Accidents Punishment Act takes effect, imposing criminal liability on executives for workplace deaths | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 2022-02 | *Lost Ark* launches in the West via Amazon Games, peaking at 1.3 million concurrent Steam players | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2022-03-09 | Yoon Suk-yeol wins the presidency by 0.73 points, the closest race since 1987 | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2022-03-09 | Lee Jae-myung narrowly loses the presidential election to Yoon Suk-yeol by 0.73 points | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 | 2022-05 | Presidential office relocated from the Blue House to Yongsan | Geography | [Seoul](geography/seoul.md) |
 | 2022-05 | Park Chan-wook wins Best Director at Cannes for "Decision to Leave" | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2022-05-10 | Moon Jae-in completes his single five-year term; Yoon Suk-yeol succeeds him | People | [Moon Jae-in](people/moon-jae-in.md) |
@@ -530,6 +542,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2023-06-11 | Gangwon becomes a Special Autonomous Province with expanded administrative powers | Geography | [Gangwon Province](geography/gangwon-province.md) |
 | 2023-08-18 | The Camp David summit establishes a US–Japan–South Korea trilateral security framework | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
+| 2024-01 | Lee Jae-myung survives a knife attack during a visit to Busan | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 | 2024-03 | Mandatory loot-box probability disclosure takes legal effect for Korean games | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2024-04-10 | The Democratic bloc wins a second straight supermajority in the 22nd National Assembly election as TK–Honam voting patterns hold | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
@@ -548,4 +561,5 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2025-06-03 | Lee Jae-myung wins the snap presidential election following Yoon's removal | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2025-06-03 | Democrat Lee Jae-myung wins the snap presidential election, with regional voting blocs again dominant | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
 | 2025-06-04 | Lee Jae-myung is inaugurated as South Korea's twenty-first president | History | [December 2024 Martial Law Crisis](history/martial-law-crisis-2024.md) |
+| 2025-06-04 | Lee Jae-myung takes office as the 21st president of South Korea | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 <!-- END GENERATED: timeline -->

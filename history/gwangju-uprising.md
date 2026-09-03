@@ -82,4 +82,5 @@ Gwangju's memory has generated a substantial body of Korean literature, film, an
 - [Gwangju](../geography/gwangju.md) — The city itself, whose history, culture, and identity were shaped by the uprising.
 - [Han Kang](../people/han-kang.md) — The novelist whose *Human Acts* reckons directly with the uprising she witnessed as a Gwangju native.
 - [Political Parties and Regionalism in South Korea](../government-politics/political-parties-regionalism.md) — The Honam oppositional identity the uprising crystallized into an enduring electoral cleavage.
+- [Sewol Ferry Disaster](sewol-ferry-disaster.md) — A later state-accountability crisis whose civic mobilization drew on the memory and repertoire of Gwangju.
 <!-- END GENERATED: related -->

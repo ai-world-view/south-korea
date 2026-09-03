@@ -181,4 +181,5 @@ Contemporary Korean literature grapples with the psychological costs of rapid in
 - [Film and Cinema Industry](film-cinema-industry.md) — the adaptation of literary works including *Chunhyang*, *The Vegetarian*, and *Kim Jiyoung*
 - [Hallyu (Korean Wave)](hallyu.md) — the Korean Wave, which encompasses literary translation and dramatic adaptations
 - [Han Kang](../people/han-kang.md) — the 2024 Nobel laureate who brought Korean literature to world-canonical standing
+- [Women's Movements and Gender Equality](womens-movements-and-gender-equality.md) — the feminist movement whose concerns animate contemporary women's writing, from *Kim Jiyoung* to Han Kang
 <!-- END GENERATED: related -->
