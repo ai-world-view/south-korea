@@ -164,6 +164,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1954 | A Buddhist purification drive consolidates the Jogye Order; the Unification Church is founded | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1954 | Kim Young-sam is elected to the National Assembly at 26, its youngest-ever member | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
+| 1959 | The Korea Taekwondo Association is founded, standardizing the newly named martial art | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 1956-05-12 | HLKZ-TV, South Korea's first television station, begins broadcasting in Seoul | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1960 | Kim Ki-young's "The Housemaid" is released, later hailed as a masterpiece | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 1960 | Choi In-hun's novel "Plaza" confronts the ideological division of Korea | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
@@ -198,6 +199,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1972 | The August 3 Emergency Decree freezes the informal curb-loan market | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1972 | Hyundai breaks ground on its Ulsan shipyard, the future world's largest | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 1972 | The Yushin constitution abolishes direct presidential elections in favor of an indirect electoral college | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
+| 1972 | Kukkiwon, the World Taekwondo headquarters and central *dan*-certification body, opens in Seoul | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 1972-08-09 | Bang Si-hyuk, founder of HYBE, is born in Seoul | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 1972-10-17 | Park declares martial law, ushering in the authoritarian Yushin system | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1973 | Busan Tower opens atop Yongdusan Park | Geography | [Busan](geography/busan.md) |
@@ -206,6 +208,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1973 | KBS is reorganized as a public corporation and launches its flagship 9 O'Clock News | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 1973 | The Soyang Dam is completed, creating Soyang Lake, South Korea's largest reservoir | Geography | [Gangwon Province](geography/gangwon-province.md) |
 | 1973 | POSCO's first blast furnace begins production at Pohang, launching integrated steelmaking in Korea | Geography | [North Gyeongsang Province](geography/north-gyeongsang-province.md) |
+| 1973 | The World Taekwondo Federation (later World Taekwondo) is established in Seoul | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 1973-08-08 | KCIA agents kidnap Kim Dae-jung from a Tokyo hotel | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974 | The Yulgok Project launches a decade-long armed-forces modernization drive | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
@@ -255,6 +258,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1990-01 | The three-party merger forms the Democratic Liberal Party under Kim Young-sam | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1990-01 | The three-party merger consolidates the conservative bloc, entrenching the TK–Honam party divide | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
 | 1990-09-30 | South Korea and the Soviet Union establish diplomatic relations under Roh Tae-woo's Nordpolitik | People | [Roh Tae-woo](people/roh-tae-woo.md) |
+| 1991 | The National Institute of the Korean Language is established as the state authority for language standardization | Culture & Society | [Korean Language and Linguistics](culture-society/korean-language.md) |
 | 1991-09-17 | North and South Korea are simultaneously admitted to the United Nations | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1991-12 | The two Koreas sign the Basic Agreement on reconciliation, non-aggression, and exchange | People | [Roh Tae-woo](people/roh-tae-woo.md) |
 | 1991-12 | SBS begins television broadcasting, ending the KBS–MBC duopoly | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
@@ -309,6 +313,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1999 | Naver, later South Korea's dominant search portal, is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1999 | "Shiri" proves Korean cinema can rival Hollywood at the box office | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
 | 2000 | Missha launches the "price-innovation" cosmetics model, a precursor of the global K-beauty e-commerce boom | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
+| 2000 | Taekwondo debuts as a full Olympic medal sport at the Sydney Games | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
+| 2000 | The Revised Romanization of Korean is adopted as the official system, replacing McCune–Reischauer in government use | Culture & Society | [Korean Language and Linguistics](culture-society/korean-language.md) |
 | 2000-06-15 | First inter-Korean summit; June 15 Joint Declaration signed in Pyongyang | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
 | 2000-12 | UNESCO inscribes the Gyeongju Historic Areas as a World Heritage Site | Geography | [Gyeongju](geography/gyeongju.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
@@ -344,6 +350,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2005 | Pangyo Techno Valley development begins near Seoul as a high-tech cluster | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2005 | The Kaesong Industrial Complex begins production just north of the DMZ | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 2005 | Family-law reform abolishes the hoju household-head system, a landmark for women's legal equality | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
+| 2005 | Kim Sung-joo's Sungjoo Group acquires the German luxury house MCM, bringing it under Korean ownership | Culture & Society | [Korean Fashion and Clothing Industry](culture-society/korean-fashion.md) |
 | 2005-04 | NCSoft's ArenaNet studio releases *Guild Wars*, a "buy-to-play" MMO hit in the West | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
@@ -354,6 +361,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2007 | Hanjin Heavy Industries delivers the ROKS *Dokdo* amphibious assault ship | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2007 | Han Kang publishes *The Vegetarian*, her breakthrough novel | People | [Han Kang](people/han-kang.md) |
 | 2007 | Jeju Volcanic Island and Lava Tubes inscribed as a UNESCO World Heritage Site | Geography | [Jeju Island](geography/jeju-island.md) |
+| 2007 | The first Sejong Institute opens, seeding the global network for overseas Korean-language teaching | Culture & Society | [Korean Language and Linguistics](culture-society/korean-language.md) |
 | 2007-06-30 | Roh's government signs the Korea–United States Free Trade Agreement (KORUS FTA) | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2007-10-04 | Roh Moo-hyun holds the second inter-Korean summit in Pyongyang; the October 4 Declaration is issued | Government & Politics | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2007-12-19 | Lee Myung-bak elected president with 48.7% of the vote | People | [Lee Myung-bak](people/lee-myung-bak.md) |
@@ -380,6 +388,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2011 | Samsung Biologics is founded in Incheon's Songdo, seeding Korea's biomanufacturing hub | Economy | [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md) |
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2011 | Naver's Japanese arm launches the LINE messaging app, which becomes dominant across East and Southeast Asia | Economy | [Naver](economy/naver.md) |
+| 2011 | Taekkyeon, the indigenous Korean kicking art, is inscribed on UNESCO's Intangible Cultural Heritage list | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 2011-07 | SK Telecom and LG U+ launch commercial 4G LTE service | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2011-07-06 | Pyeongchang is chosen to host the 2018 Winter Olympics on its third consecutive bid | Geography | [Gangwon Province](geography/gangwon-province.md) |
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
@@ -439,6 +448,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2017 | Samsung Heavy Industries delivers Shell's Prelude FLNG, the largest floating structure ever built | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2017 | China's post-THAAD boycott cuts Korean cosmetics exports to China sharply, pushing K-beauty brands to diversify markets | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
+| 2017 | The World Taekwondo Federation shortens its name to World Taekwondo, dropping the WTF acronym | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 2017-02-17 | Samsung heir Lee Jae-yong is arrested in the Park Geun-hye bribery scandal | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 2017-03 | Krafton's *PUBG* enters Steam Early Access, igniting the global battle-royale boom | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2017-03 | China halts new game-license approvals for Korean titles amid the THAAD dispute | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -455,6 +465,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018 | The Overwatch League launches with Korean players dominating its first seasons | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2018 | Smilegate's *Lost Ark* launches in South Korea | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2018 | The 52-hour maximum workweek is enacted, phased in from the largest firms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
+| 2018 | Ssireum (Korean wrestling) becomes the first heritage element jointly inscribed by both Koreas on UNESCO's Intangible Cultural Heritage list | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
+| 2018 | L'Oréal acquires the Korean fashion-and-beauty brand StyleNanda | Culture & Society | [Korean Fashion and Clothing Industry](culture-society/korean-fashion.md) |
 | 2018-01 | *PUBG* peaks at 3.2 million concurrent Steam players, a long-standing record | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2018-01 | China's National Sword import ban triggers a plastic-recycling crisis in South Korea | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2018-01 | Prosecutor Seo Ji-hyun's televised testimony ignites South Korea's #MeToo movement | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
