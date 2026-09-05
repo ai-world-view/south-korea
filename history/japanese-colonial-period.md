@@ -148,4 +148,5 @@ The Japanese Colonial Period fundamentally reshaped Korea. It accelerated modern
 - [Incheon](../geography/incheon.md) — The treaty port whose modern growth accelerated under colonial-era port and rail investment.
 - [Hangul and the Korean Alphabet](../culture-society/hangul.md) — The Korean script suppressed under late-colonial assimilation and preserved by the Korean Language Society.
 - [Korean Literature and Literary Culture](../culture-society/korean-literature.md) — The resistance poetry of Kim Sowol, Yun Dong-ju, and Yi Sang written under colonial censorship.
+- [Korean-Japanese Relations](../government-politics/korean-japanese-relations.md) — The bilateral relationship in which the colonial legacy and its unresolved disputes remain central.
 <!-- END GENERATED: related -->

@@ -75,4 +75,5 @@ Beyond region, two additional cleavage dimensions have emerged as analytically s
 - [Kim Dae-jung](../people/kim-dae-jung.md) — the defining Honam-based Democratic leader
 - [The 1997 Asian Financial Crisis](../history/asian-financial-crisis-1997.md) — the shock that ended Kim Young-sam's term and reshaped party competition
 - [Yoon Suk-yeol](../people/yoon-suk-yeol.md) — whose December 2024 martial-law crisis upended the party landscape
+- [North Jeolla Province](../geography/north-jeolla-province.md) — a Honam stronghold exemplifying the region's persistent progressive voting
 <!-- END GENERATED: related -->

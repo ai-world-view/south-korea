@@ -136,6 +136,7 @@ Joseon's legacy is visible in contemporary Korean culture: in the Confucian reve
 - [Korean Literature and Literary Culture](../culture-society/korean-literature.md) — the sijo, pansori, and vernacular fiction that crystallized during the dynasty.
 - [Korean Traditional Visual Arts](../culture-society/traditional-visual-arts.md) — literati ink painting, Kim Jeong-hui's calligraphy, and the white porcelain that embodied Neo-Confucian aesthetics.
 - [Korean Royal Palaces and Heritage Sites](../culture-society/korean-royal-palaces.md) — the five grand Seoul palaces built as the seats of Joseon courtly and Confucian statecraft.
+- [Confucianism and Neo-Confucianism in Korea](../culture-society/confucianism-and-neo-confucianism.md) — the Neo-Confucian orthodoxy that supplied Joseon's governing ideology and social order.
 <!-- END GENERATED: related -->
 
 ## Sources

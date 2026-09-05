@@ -123,4 +123,5 @@ South Korea's semiconductor success since the 1980s — from latecomer to global
 - [Lee Kun-hee](../people/lee-kun-hee.md) — The Samsung chairman whose sustained DRAM investment drove Korea's rise to memory-chip leadership.
 - [Telecommunications Industry](telecommunications-industry.md) — The 5G/6G networks and mobile devices that memory and logic chips power.
 - [Suwon](../geography/suwon.md) — Home to Samsung's Digital City and the Gyeonggi chip-fab belt that anchors the industry.
+- [Korean-Japanese Relations](../government-politics/korean-japanese-relations.md) — Japan's 2019 export controls on chipmaking materials that exposed the industry's supply-chain vulnerability.
 <!-- END GENERATED: related -->

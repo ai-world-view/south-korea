@@ -29,6 +29,7 @@ Index: [geography/](geography/index.md)
 - [South Gyeongsang Province](geography/south-gyeongsang-province.md)
 - [South Jeolla Province](geography/south-jeolla-province.md)
 - [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md)
+- [North Jeolla Province](geography/north-jeolla-province.md)
 
 ## History
 
@@ -59,6 +60,7 @@ Index: [government-politics/](government-politics/index.md)
 - [Environmental Policy and Sustainability](government-politics/environmental-policy.md)
 - [Electoral System and the National Assembly](government-politics/electoral-system.md)
 - [Political Parties and Regionalism in South Korea](government-politics/political-parties-regionalism.md)
+- [Korean-Japanese Relations](government-politics/korean-japanese-relations.md)
 
 ## Economy
 
@@ -108,6 +110,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Korean Language and Linguistics](culture-society/korean-language.md)
 - [Korean Fashion and Clothing Industry](culture-society/korean-fashion.md)
 - [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md)
+- [Confucianism and Neo-Confucianism in Korea](culture-society/confucianism-and-neo-confucianism.md)
 
 ## People
 

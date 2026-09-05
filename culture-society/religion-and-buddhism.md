@@ -155,6 +155,7 @@ Korean Buddhism has adapted to modernity through temple-stay programs, social me
 - [Korean Traditional Visual Arts](traditional-visual-arts.md) — Buddhist sculpture and painting, from Seokguram to Goryeo scroll paintings.
 - [Gyeongju](../geography/gyeongju.md) — the Silla Buddhist capital, home to Bulguksa and the Seokguram grotto.
 - [Chuseok](chuseok.md) — the harvest holiday whose ancestral rites express Confucian filial piety.
+- [Confucianism and Neo-Confucianism in Korea](confucianism-and-neo-confucianism.md) — the Confucian tradition that shaped Korean religious and ethical life alongside Buddhism.
 <!-- END GENERATED: related -->
 
 ## Sources

@@ -179,6 +179,7 @@ For South Korea, inter-Korean relations are inseparable from its relationships w
 - [Military and Defense Policy](military-defense-policy.md) — The deterrence posture, missile defense, and OPCON arrangements that structure the response to the North.
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — The Kaesong Industrial Complex energy supply and North Korea's coal and mineral exports.
 - [The Korean Demilitarized Zone (DMZ)](../geography/demilitarized-zone.md) — The fortified frontier and Panmunjom, the physical stage of inter-Korean confrontation and dialogue.
+- [Korean-Japanese Relations](korean-japanese-relations.md) — The other axis of South Korea's regional diplomacy and the U.S.-anchored trilateral security cooperation on North Korea.
 <!-- END GENERATED: related -->
 
 ## Sources

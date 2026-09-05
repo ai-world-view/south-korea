@@ -65,7 +65,9 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1446 | Sejong promulgates the Hangul alphabet in the Hunminjeongeum | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1447 | The Yongbi Eocheon Ga, the first major literary work in Hangul, is composed | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
 | 1450 | Sejong the Great dies after a thirty-two-year reign | People | [Sejong the Great](people/sejong-the-great.md) |
+| 1543 | Ju Se-bung founds Baegundong Seowon (later Sosu Seowon), Korea's first Confucian academy | Culture & Society | [Confucianism and Neo-Confucianism in Korea](culture-society/confucianism-and-neo-confucianism.md) |
 | 1545 | Yi Sun-sin, later Korea's foremost naval hero, is born in Hanseong (Seoul) | People | [Yi Sun-sin](people/yi-sun-sin.md) |
+| 1559 | The Four-Seven Debate begins between Yi Hwang (Toegye) and Gi Daeseung over the roots of the emotions (to 1566) | Culture & Society | [Confucianism and Neo-Confucianism in Korea](culture-society/confucianism-and-neo-confucianism.md) |
 | 1576 | Yi Sun-sin passes the military branch of the *gwageo* examination | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1591 | Yi Sun-sin is appointed Left Naval Commander of Jeolla Province | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1592 | Toyotomi Hideyoshi invades Korea, beginning the Imjin War | History | [Joseon Dynasty](history/joseon-dynasty.md) |
@@ -107,6 +109,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1910-03-26 | An Jung-geun is executed at Lüshun Prison | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1910-08-22 | Japan-Korea Annexation Treaty incorporates Korea into the Japanese Empire | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1911 | The colonial Temple Ordinance brings Korean Buddhist temples under state control | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
+| 1914 | The Honam Line railway (Daejeon–Mokpo) is completed, opening North Jeolla's rice plains to national markets | Geography | [North Jeolla Province](geography/north-jeolla-province.md) |
 | 1917-11-14 | Park Chung-hee born in Gumi, North Gyeongsang Province | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1919-03-01 | March 1st Movement against Japanese rule begins in Seoul | History | [Seoul](geography/seoul.md) |
 | 1919-04-11 | Korean Provisional Government established in exile in Shanghai | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
@@ -379,6 +382,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2010-01 | The Framework Act on Low Carbon, Green Growth is enacted | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2010-03-18 | KakaoTalk launches, soon becoming South Korea's dominant mobile messenger | Economy | [Kakao](economy/kakao.md) |
 | 2010-03-26 | ROKS Cheonan sinks in the Yellow Sea, killing 46 sailors | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2010-04-27 | The 33-km Saemangeum seawall is completed off North Jeolla, enclosing the Mangyeong and Dongjin estuaries | Geography | [North Jeolla Province](geography/north-jeolla-province.md) |
 | 2010-07-01 | Masan and Jinhae merge into Changwon, the largest municipal merger in Korean history | Geography | [South Gyeongsang Province](geography/south-gyeongsang-province.md) |
 | 2010-07-01 | Lee Jae-myung takes office as mayor of Seongnam | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 | 2010-08 | Gwanghwamun Gate is restored to its original position before Gyeongbokgung | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
@@ -485,6 +489,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-12-01 | South Korea activates its first limited (B2B) 5G service, claiming a world first | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2019 | International visitor arrivals peak at about 17.5 million, a pre-pandemic record | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2019 | wavve launches as the terrestrial broadcasters' streaming joint venture with SK Telecom | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
+| 2019-07 | Nine Korean seowon (Neo-Confucian academies) are inscribed as a UNESCO World Heritage Site | Culture & Society | [Confucianism and Neo-Confucianism in Korea](culture-society/confucianism-and-neo-confucianism.md) |
+| 2019-07 | Japan restricts exports of three chipmaking materials to South Korea, opening a trade dispute rooted in the forced-labor rulings | Government & Politics | [Korean-Japanese Relations](government-politics/korean-japanese-relations.md) |
 | 2019-04-03 | South Korea launches the world's first commercial 5G network | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2019-04-11 | The Constitutional Court rules the ban on abortion unconstitutional | Government & Politics | [Moon Jae-in](people/moon-jae-in.md) |
 | 2019-05 | Bong Joon-ho's "Parasite" wins the Palme d'Or at Cannes | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
@@ -555,6 +561,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2023-08-18 | The Camp David summit establishes a US–Japan–South Korea trilateral security framework | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
 | 2024-01 | Lee Jae-myung survives a knife attack during a visit to Busan | People | [Lee Jae-myung](people/lee-jae-myung.md) |
+| 2024-01-18 | North Jeolla becomes Jeonbuk Special Self-Governing Province, gaining expanded administrative autonomy | Geography | [North Jeolla Province](geography/north-jeolla-province.md) |
 | 2024-03 | Mandatory loot-box probability disclosure takes legal effect for Korean games | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2024-04-10 | The Democratic bloc wins a second straight supermajority in the 22nd National Assembly election as TK–Honam voting patterns hold | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |

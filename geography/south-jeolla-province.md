@@ -356,7 +356,7 @@ fishing moratoria are partially mitigating these pressures.
 
 ## See Also
 
-- [Geography]: North Jeolla Province · [Gwangju](gwangju.md) · [Jeju Island](jeju-island.md) · [South Gyeongsang Province](south-gyeongsang-province.md)
+- [Geography]: [North Jeolla Province](north-jeolla-province.md) · [Gwangju](gwangju.md) · [Jeju Island](jeju-island.md) · [South Gyeongsang Province](south-gyeongsang-province.md)
 - [History]: [Three Kingdoms Period](../history/three-kingdoms-period.md) · [Goryeo Period](../history/goryeo-period.md) · [Joseon Dynasty](../history/joseon-dynasty.md) · [Japanese Colonial Period](../history/japanese-colonial-period.md) · [Korean Independence Movement](../history/korean-independence-movement.md) · [Gwangju Uprising](../history/gwangju-uprising.md)
 - [Economy]: [Petrochemicals and Heavy Chemicals](../economy/petrochemicals-heavy-chemicals.md) · [Tourism Industry](../economy/tourism-industry.md) · [Energy Resources Policy](../economy/energy-resources-policy.md)
 - [Culture & Society]: [Korean Cuisine](../culture-society/korean-cuisine.md) · [Hallyu](../culture-society/hallyu.md) · [Chuseok](../culture-society/chuseok.md) · [Religion and Buddhism](../culture-society/religion-and-buddhism.md)

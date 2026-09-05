@@ -90,4 +90,5 @@ Recent national and municipal regional-balance initiatives aim to revitalize loc
 - [Korean Independence Movement](../history/korean-independence-movement.md) — including the 1929 Gwangju Student Independence Movement
 - [Electoral System and the National Assembly](../government-politics/electoral-system.md) — the Honam–TK regionalism shaping South Korean politics
 - [Daegu](daegu.md) — the conservative "TK" counterpart to Gwangju's progressive Honam identity
+- [North Jeolla Province](north-jeolla-province.md) — the northern half of the Honam region, sharing Gwangju's progressive political identity
 <!-- END GENERATED: related -->
