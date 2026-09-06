@@ -121,4 +121,5 @@ His case joins Park Geun-hye (impeached 2017, convicted of corruption) and Lee M
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — Yoon's nuclear restart and the K-Energy Mix framework.
 - [Electoral System and the National Assembly](../government-politics/electoral-system.md) — The elections, impeachment procedure, and legislature at the center of the 2024–2025 crisis.
 - [Lee Jae-myung](lee-jae-myung.md) — Yoon's 2022 opponent and the progressive who won the June 2025 snap election triggered by Yoon's removal.
+- [Healthcare System in South Korea](../economy/healthcare-system.md) — The Yoon government's 2024 medical-school-expansion policy and the trainee-doctor walkout it triggered.
 <!-- END GENERATED: related -->

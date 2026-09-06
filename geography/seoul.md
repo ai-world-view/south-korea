@@ -135,4 +135,5 @@ Seoul's transformation from a war-ravaged capital in 1953 to a global megacity i
 - [Gyeonggi Province](../geography/gyeonggi-province.md) — The industrial and residential ring surrounding Seoul, forming the greater capital region.
 - [Daejeon](daejeon.md) — The central science city whose Daedeok complex was meant to decentralize the capital's research talent.
 - [Construction Industry and Real Estate Development](../economy/construction-industry.md) — The industry behind the capital's apartment urbanism, Gangnam development, and landmark towers.
+- [Public Transportation and Urban Mobility](public-transportation.md) — The subway, bus, and KTX systems centered on Seoul that move the capital region.
 <!-- END GENERATED: related -->

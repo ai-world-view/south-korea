@@ -196,4 +196,5 @@ The global success of Korean beauty (K-beauty) has created spillover interest in
 - [Daejeon](../geography/daejeon.md) — The Daedeok research complex and KRIBB anchoring Korea's biotech R&D.
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The STEM and returning-scientist pipeline supplying the sector's talent.
 - [Park Chung-hee](../people/park-chung-hee.md) — Architect of the developmental state that first designated pharmaceuticals a strategic industry.
+- [Healthcare System in South Korea](healthcare-system.md) — The universal National Health Insurance market and drug-pricing regime that shape domestic demand for the sector.
 <!-- END GENERATED: related -->

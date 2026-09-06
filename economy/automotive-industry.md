@@ -200,4 +200,5 @@ Korean semiconductor companies (Samsung, SK Hynix) are developing automotive-gra
 - [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — The plastics, coatings, and synthetic rubber that supply vehicle and tire manufacturing.
 - [Shipbuilding Industry in South Korea](shipbuilding-industry.md) — A parallel developmental-state, chaebol-led heavy export industry sharing engineering and supply chains.
 - [Ulsan](../geography/ulsan.md) — Home to Hyundai Motor's Ulsan complex, the world's largest automobile factory by floor area.
+- [Public Transportation and Urban Mobility](../geography/public-transportation.md) — The EV buses, hydrogen buses, and autonomous-mobility programs that link the auto industry to the transit system.
 <!-- END GENERATED: related -->

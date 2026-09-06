@@ -125,4 +125,5 @@ In recent decades, Incheon has invested in cultural infrastructure:
 - [Architecture and Urban Design in South Korea](../culture-society/architecture-urban-design.md) — the Songdo smart-city district and the design of Incheon International Airport
 - [Gyeonggi Province](gyeonggi-province.md) — the surrounding province with which Incheon forms the western capital region
 - [Construction Industry and Real Estate Development](../economy/construction-industry.md) — the builders of Songdo, the Incheon Bridge, and Incheon International Airport
+- [Public Transportation and Urban Mobility](public-transportation.md) — the Incheon Metro, the AREX airport line, and the city's rail links to Seoul
 <!-- END GENERATED: related -->

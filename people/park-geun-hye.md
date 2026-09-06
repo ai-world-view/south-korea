@@ -102,6 +102,7 @@ The Choi Soon-sil scandal exposed the structural vulnerability of the Korean pre
 - [South Korea–North Korea Relations](../government-politics/north-korea-relations.md) — The Trust-Building Process, the Kaesong closure, and the THAAD deployment
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The THAAD decision and deterrence posture
 - [Chaebol](../economy/chaebol.md) — Samsung, Lotte, and Hyundai as central actors in the corruption scandal
+- [Candlelight Revolution (2016–2017)](../history/candlelight-revolution-2016-2017.md) — The mass movement over the Choi Soon-sil scandal that impeached and removed her
 - [Democratization of South Korea](../history/democratization.md) — The democratic context of the candlelight protests that removed her
 - [Sewol Ferry Disaster](../history/sewol-ferry-disaster.md) — The April 2014 tragedy whose handling eroded trust in her government
 <!-- END GENERATED: related -->

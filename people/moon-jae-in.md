@@ -118,6 +118,7 @@ Moon remains an influential reference point in South Korean progressive politics
 - [Yoon Suk-yeol](yoon-suk-yeol.md) — Moon's conservative successor, whose prosecutor-general tenure under Moon preceded their rupture and whose 2024 martial-law crisis ended his presidency
 - [Roh Moo-hyun](roh-moo-hyun.md) — Moon's Busan law partner and the president he served as Chief of Staff before succeeding to the office himself
 - [Park Geun-hye](park-geun-hye.md) — The predecessor whose removal by the Candlelight movement brought Moon to office, and whom he later pardoned
+- [Candlelight Revolution (2016–2017)](../history/candlelight-revolution-2016-2017.md) — The mass movement whose 2017 snap election carried Moon to the presidency
 - [Energy and Resources Policy](../economy/energy-resources-policy.md) — Moon's nuclear phase-out policy and the Renewable Energy 3020 plan
 - [Military and Defense Policy](../government-politics/military-defense-policy.md) — The 2018 inter-Korean military de-escalation agreements
 - [Lee Jae-myung](lee-jae-myung.md) — The Democratic successor who won the June 2025 election and revived Moon's dialogue-based North Korea approach

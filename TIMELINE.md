@@ -216,12 +216,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1974 | Samsung enters the semiconductor business, acquiring Korea Semiconductor | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1974 | The Yulgok Project launches a decade-long armed-forces modernization drive | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 1974-08-15 | Seoul Metro Line 1 opens | Geography | [Seoul](geography/seoul.md) |
+| 1974-08-15 | Seoul Subway Line 1 opens, the country's first metro line | Geography | [Public Transportation and Urban Mobility](geography/public-transportation.md) |
 | 1974-08-15 | First Lady Yuk Young-soo killed in an assassination attempt on Park | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1975 | Roh Moo-hyun passes the bar as a self-taught lawyer without a university degree | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 1975 | Hyundai launches the Pony, Korea's first domestically designed car | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1975 | Seoul National University relocates to its purpose-built Gwanak campus in southern Seoul | Culture & Society | [Seoul National University](culture-society/seoul-national-university.md) |
 | 1976 | The Export-Import Bank of Korea (KEXIM) is established to finance exports | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1976-08-18 | The Panmunjom Axe Murder Incident kills two U.S. officers; Operation Paul Bunyan follows | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
+| 1977 | The Medical Insurance System launches, mandating health coverage for large-firm employees and civil servants | Economy | [Healthcare System in South Korea](economy/healthcare-system.md) |
 | 1977 | Lee Myung-bak becomes CEO of Hyundai Engineering & Construction at 35 | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 1978-04 | Kori-1, South Korea's first commercial nuclear reactor, begins operation near Busan | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 1978-10 | South Korea discovers the Third Infiltration Tunnel dug under the DMZ near Panmunjom | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
@@ -319,6 +321,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2000 | Taekwondo debuts as a full Olympic medal sport at the Sydney Games | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 2000 | The Revised Romanization of Korean is adopted as the official system, replacing McCune–Reischauer in government use | Culture & Society | [Korean Language and Linguistics](culture-society/korean-language.md) |
 | 2000-06-15 | First inter-Korean summit; June 15 Joint Declaration signed in Pyongyang | Government & Politics | [North Korea Relations](government-politics/north-korea-relations.md) |
+| 2000-07-01 | All prior insurance schemes merge into a single National Health Insurance under the NHIS, reaching near-universal coverage | Economy | [Healthcare System in South Korea](economy/healthcare-system.md) |
 | 2000-12 | UNESCO inscribes the Gyeongju Historic Areas as a World Heritage Site | Geography | [Gyeongju](geography/gyeongju.md) |
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
@@ -345,6 +348,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2004 | The Leeum Museum of Art opens in Seoul with buildings by Botta, Nouvel, and Koolhaas | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2004 | A separate party-list ballot introduces two-vote proportional representation to National Assembly elections | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 2004-03-12 | The National Assembly impeaches President Roh Moo-hyun | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
+| 2004-04-01 | KTX high-speed rail service opens on the Gyeongbu Line between Seoul and Busan, Korea's first bullet train | Geography | [Public Transportation and Urban Mobility](geography/public-transportation.md) |
 | 2004-04 | KTX high-speed rail service launches from Seoul | Geography | [Seoul](geography/seoul.md) |
 | 2004-04 | Gwangju Metro Line 1 opens, the first subway in the Honam region | Geography | [Gwangju](geography/gwangju.md) |
 | 2004-05 | Constitutional Court dismisses President Roh Moo-hyun's impeachment | Government & Politics | [Government Structure](government-politics/government-structure.md) |
@@ -370,6 +374,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2007-12-19 | Lee Myung-bak elected president with 48.7% of the vote | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008 | Hyundai launches the Genesis luxury sedan, moving upmarket | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2008 | Amorepacific's IOPE introduces the cushion compact, a signature K-beauty format later copied by Western luxury brands | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
+| 2008-07 | Long-Term Care Insurance launches, adding a separate elder-care benefit alongside National Health Insurance | Economy | [Healthcare System in South Korea](economy/healthcare-system.md) |
 | 2008-02-25 | Lee Myung-bak inaugurated as president | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-06 | Candlelight protests over U.S. beef imports draw hundreds of thousands | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2008-08 | Lee Myung-bak unveils the "Low Carbon, Green Growth" national strategy | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
@@ -435,6 +440,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2015 | A Galerie Perrotin retrospective brings the Dansaekhwa monochrome movement to global attention | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
 | 2015-01 | South Korea launches the K-ETS, East Asia's first nationwide carbon cap-and-trade market | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2015-04-02 | The Honam KTX high-speed line opens, cutting Seoul–Gwangju travel to about 1 hour 33 minutes | Geography | [Gwangju](geography/gwangju.md) |
+| 2015-04-02 | The Honam KTX line opens, extending high-speed rail to the southwestern Honam region | Geography | [Public Transportation and Urban Mobility](geography/public-transportation.md) |
 | 2015-11 | The Asia Culture Center opens in Gwangju on the site of the former South Jeolla Provincial Hall | Culture & Society | [Gwangju](geography/gwangju.md) |
 | 2015-11-22 | Kim Young-sam dies in Seoul at the age of 87 | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 2015-12-28 | Seoul and Tokyo announce a "final and irreversible" comfort-women agreement, rejected by most survivors | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
@@ -446,9 +452,14 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2016-07 | South Korea agrees to host a U.S. THAAD missile-defense battery at Seongju, drawing Chinese retaliation | Government & Politics | [Military and Defense Policy](government-politics/military-defense-policy.md) |
 | 2016-08-08 | BLACKPINK debuts under YG Entertainment | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2016-09-12 | A magnitude-5.8 earthquake near Gyeongju is the strongest recorded in modern South Korea | Geography | [Gyeongju](geography/gyeongju.md) |
+| 2016-10 | JTBC broadcasts a leaked tablet computer, exposing Choi Soon-sil's influence over President Park Geun-hye | History | [Candlelight Revolution (2016–2017)](history/candlelight-revolution-2016-2017.md) |
+| 2016-10-29 | The first mass candlelight vigil gathers at Gwanghwamun Square in Seoul | History | [Candlelight Revolution (2016–2017)](history/candlelight-revolution-2016-2017.md) |
 | 2016-11 | UNESCO inscribes Jeju's haenyeo diving culture as Intangible Cultural Heritage | Culture & Society | [Jeju Island](geography/jeju-island.md) |
 | 2016-11-12 | Candlelight protests over the Choi Soon-sil scandal draw over a million to central Seoul | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2016-12-03 | The largest single-day candlelight rally draws an estimated 2.3 million people nationwide | History | [Candlelight Revolution (2016–2017)](history/candlelight-revolution-2016-2017.md) |
 | 2016-12-09 | The National Assembly votes 234–56 to impeach President Park Geun-hye | People | [Park Geun-hye](people/park-geun-hye.md) |
+| 2016-12-09 | Amid the candlelight movement, the National Assembly votes 234–56 to impeach President Park Geun-hye | History | [Candlelight Revolution (2016–2017)](history/candlelight-revolution-2016-2017.md) |
+| 2016-12-09 | SRT high-speed rail service launches from Suseo Station, giving KTX its first competitor | Geography | [Public Transportation and Urban Mobility](geography/public-transportation.md) |
 | 2017 | Samsung Heavy Industries delivers Shell's Prelude FLNG, the largest floating structure ever built | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2017 | KakaoBank and K-bank launch as Korea's first internet-only banks | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2017 | China's post-THAAD boycott cuts Korean cosmetics exports to China sharply, pushing K-beauty brands to diversify markets | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
@@ -459,6 +470,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2017-03 | China's post-THAAD travel restrictions sharply cut Chinese tourist arrivals to South Korea | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2017-03 | The Sewol wreck is raised from the seabed, nearly three years after the sinking, and towed to Mokpo | History | [Sewol Ferry Disaster (2014)](history/sewol-ferry-disaster.md) |
 | 2017-03-10 | Constitutional Court removes President Park Geun-hye from office | Government & Politics | [Government Structure](government-politics/government-structure.md) |
+| 2017-03-10 | The Constitutional Court unanimously (8–0) upholds the impeachment and removes President Park Geun-hye, ending the Candlelight Revolution | History | [Candlelight Revolution (2016–2017)](history/candlelight-revolution-2016-2017.md) |
 | 2017-03-31 | Park Geun-hye is arrested on bribery and abuse-of-power charges | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2017-04-03 | Lotte World Tower opens in Seoul as South Korea's tallest building | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
 | 2017-05-09 | Moon Jae-in is elected president after Park Geun-hye's impeachment | People | [Moon Jae-in](people/moon-jae-in.md) |
@@ -562,7 +574,9 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2023-11-28 | Busan loses the 2030 World Expo bid to Riyadh | Geography | [Busan](geography/busan.md) |
 | 2024-01 | Lee Jae-myung survives a knife attack during a visit to Busan | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 | 2024-01-18 | North Jeolla becomes Jeonbuk Special Self-Governing Province, gaining expanded administrative autonomy | Geography | [North Jeolla Province](geography/north-jeolla-province.md) |
+| 2024-02-20 | Thousands of trainee doctors begin a mass walkout protesting the government's medical-school-enrollment expansion | Economy | [Healthcare System in South Korea](economy/healthcare-system.md) |
 | 2024-03 | Mandatory loot-box probability disclosure takes legal effect for Korean games | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 2024-03-30 | The first GTX-A express-rail segment (Suseo–Dongtan) opens beneath the Seoul metropolitan area | Geography | [Public Transportation and Urban Mobility](geography/public-transportation.md) |
 | 2024-04 | The HYBE–Min Hee-jin dispute over ADOR and NewJeans erupts publicly | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2024-04-10 | The Democratic bloc wins a second straight supermajority in the 22nd National Assembly election as TK–Honam voting patterns hold | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
 | 2024-04-10 | Opposition parties win a National Assembly supermajority in the legislative elections | Government & Politics | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |

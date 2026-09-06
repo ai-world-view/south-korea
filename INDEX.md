@@ -30,6 +30,7 @@ Index: [geography/](geography/index.md)
 - [South Jeolla Province](geography/south-jeolla-province.md)
 - [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md)
 - [North Jeolla Province](geography/north-jeolla-province.md)
+- [Public Transportation and Urban Mobility](geography/public-transportation.md)
 
 ## History
 
@@ -47,6 +48,7 @@ Index: [history/](history/index.md)
 - [Democratization of South Korea](history/democratization.md)
 - [The 1997 Asian Financial Crisis and Korean Economic Restructuring](history/asian-financial-crisis-1997.md)
 - [Sewol Ferry Disaster (2014)](history/sewol-ferry-disaster.md)
+- [Candlelight Revolution (2016–2017)](history/candlelight-revolution-2016-2017.md)
 - [December 2024 Martial Law Crisis and Constitutional Crisis](history/martial-law-crisis-2024.md)
 
 ## Government & Politics
@@ -82,6 +84,7 @@ Index: [economy/](economy/index.md)
 - [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md)
 - [Kakao](economy/kakao.md)
 - [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md)
+- [Healthcare System in South Korea](economy/healthcare-system.md)
 
 ## Culture & Society
 
