@@ -140,4 +140,5 @@ The esports dimension represents a new frontier of cultural soft power. South Ko
 - [Seoul](../geography/seoul.md) — Host city of the 1988 Summer Olympics and the urban transformation the Games accelerated.
 - [Busan](../geography/busan.md) — Host of the 2002 Asian Games and a second hub of sports infrastructure outside the capital.
 - [Lee Myung-bak](../people/lee-myung-bak.md) — President (2008–2013) during whose administration PyeongChang secured the 2018 Winter Olympics.
+- [Korean Football and Professional Leagues](korean-football-and-professional-leagues.md) — The K League, the 2002 World Cup run, and football's place in Korean sporting culture.
 <!-- END GENERATED: related -->

@@ -165,4 +165,5 @@ As of 2025–2026, Korean-Japanese relations are in a cautiously improved phase 
 - [Yi Sun-sin](../people/yi-sun-sin.md) — the Imjin War admiral emblematic of Korean resistance to Japan
 - [Hallyu (Korean Wave)](../culture-society/hallyu.md) — the cultural exchange reshaping Korean–Japanese people-to-people ties
 - [Semiconductors](../economy/semiconductors.md) — the industry exposed by Japan's 2019 materials export controls
+- [South Korea–United States Relations and Alliance](south-korea-united-states-relations.md) — the U.S. alliance that anchors the Camp David trilateral framework with Japan
 <!-- END GENERATED: related -->

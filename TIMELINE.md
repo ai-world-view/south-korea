@@ -140,6 +140,8 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1946-08 | Seoul National University established in Seoul | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1946-09-01 | Roh Moo-hyun is born in Gimhae, South Gyeongsang Province | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 1946-10 | The Daegu Autumn Uprising spreads across the southern provinces | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
+| 1947-01-05 | Koo In-hwoi founds the Lucky (Lak-Hui) chemical company in Busan, the origin of the LG Group | Economy | [LG Group and LG Electronics](economy/lg-group.md) |
+| 1948 | The Korea Football Association is founded and admitted to FIFA | Culture & Society | [Korean Football and Professional Leagues](culture-society/korean-football-and-professional-leagues.md) |
 | 1948-04-03 | The Jeju April 3 Incident begins; suppression continues into 1954 | History | [Jeju Island](geography/jeju-island.md) |
 | 1948-05-10 | Koreans in the south elect a constituent National Assembly under UN observation | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
 | 1948-07-17 | The Constitution of the Republic of Korea is promulgated | History | [Korean Liberation and Founding](history/liberation-and-founding.md) |
@@ -166,6 +168,9 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1954 | The Korea Development Bank is founded to channel long-term industrial credit | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1954 | A Buddhist purification drive consolidates the Jogye Order; the Unification Church is founded | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1954 | Kim Young-sam is elected to the National Assembly at 26, its youngest-ever member | People | [Kim Young-sam](people/kim-young-sam.md) |
+| 1954 | South Korea makes its first FIFA World Cup appearance, at the tournament in Switzerland | Culture & Society | [Korean Football and Professional Leagues](culture-society/korean-football-and-professional-leagues.md) |
+| 1954-11-17 | The U.S.–ROK Mutual Defense Treaty enters into force, formalizing the alliance | Government & Politics | [South Korea–United States Relations and Alliance](government-politics/south-korea-united-states-relations.md) |
+| 1958 | GoldStar Co. is established as LG's electronics arm | Economy | [LG Group and LG Electronics](economy/lg-group.md) |
 | 1959 | GoldStar (now LG) produces Korea's first domestically made radio | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1959 | The Korea Taekwondo Association is founded, standardizing the newly named martial art | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 1956-05-12 | HLKZ-TV, South Korea's first television station, begins broadcasting in Seoul | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
@@ -239,6 +244,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1982 | The Korea Baseball Organization (KBO) is founded with six teams | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
 | 1983 | Hyundai Electronics, later SK Hynix, is founded | Economy | [Semiconductors](economy/semiconductors.md) |
 | 1983 | The Korea Gas Corporation (KOGAS) is established to import and distribute LNG | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
+| 1983 | The Korean Super League, the country's first professional football division, is founded; Hallelujah FC wins the inaugural title | Culture & Society | [Korean Football and Professional Leagues](culture-society/korean-football-and-professional-leagues.md) |
 | 1983-05 | Kim Young-sam stages a 23-day hunger strike against the Chun regime | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1984 | Korea Mobile Telecommunications, later SK Telecom, launches the first cellular network | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 1986 | The government-led VLSI project (1986–1990) accelerates Korea's DRAM catch-up | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
@@ -279,11 +285,13 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1993-08-07 | Daejeon hosts the World Exposition (Expo '93), drawing some 14 million visitors | Geography | [Daejeon](geography/daejeon.md) |
 | 1993-08-12 | The Real-Name Financial Transaction System is introduced by emergency decree | People | [Kim Young-sam](people/kim-young-sam.md) |
 | 1994 | Nexon is founded by Kim Jung-ju and Jake Song, pioneering online free-to-play gaming | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
+| 1994-12 | South Korea regains peacetime operational control (OPCON) of its forces from the U.S.-led command | Government & Politics | [South Korea–United States Relations and Alliance](government-politics/south-korea-united-states-relations.md) |
 | 1995 | Bulguksa Temple and the Seokguram Grotto in Gyeongju are inscribed as UNESCO World Heritage Sites | Geography | [Gyeongju](geography/gyeongju.md) |
 | 1995 | Daegu is redesignated a Metropolitan City | Geography | [Daegu](geography/daegu.md) |
 | 1995 | Lee Kun-hee orders defective Samsung phones publicly burned at the Gumi plant | People | [Lee Kun-hee](people/lee-kun-hee.md) |
 | 1995 | The first Gwangju Biennale opens, Asia's first major international contemporary-art biennale | Culture & Society | [Gwangju](geography/gwangju.md) |
 | 1995 | The colonial Government-General Building is demolished on the 50th anniversary of liberation | Culture & Society | [Architecture and Urban Design](culture-society/architecture-urban-design.md) |
+| 1995 | Lucky-Goldstar adopts the LG brand and a new corporate identity | Economy | [LG Group and LG Electronics](economy/lg-group.md) |
 | 1995-11-11 | The Korean Confederation of Trade Unions (KCTU) is founded as an independent labor federation | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1996 | H.O.T. debuts as the first fully managed K-pop idol group | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 1996 | South Korea launches the world's first commercial CDMA mobile network | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
@@ -317,6 +325,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1999 | Brain Korea 21 (BK21) university research program launched | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1999 | Naver, later South Korea's dominant search portal, is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1999 | "Shiri" proves Korean cinema can rival Hollywood at the box office | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
+| 1999 | LG Display is established (as the LG.Philips LCD joint venture) | Economy | [LG Group and LG Electronics](economy/lg-group.md) |
 | 2000 | Missha launches the "price-innovation" cosmetics model, a precursor of the global K-beauty e-commerce boom | Economy | [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md) |
 | 2000 | Taekwondo debuts as a full Olympic medal sport at the Sydney Games | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 2000 | The Revised Romanization of Korean is adopted as the official system, replacing McCune–Reischauer in government use | Culture & Society | [Korean Language and Linguistics](culture-society/korean-language.md) |
@@ -398,6 +407,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2011 | The Institute for Basic Science (IBS) is founded to fund curiosity-driven research | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2011 | Naver's Japanese arm launches the LINE messaging app, which becomes dominant across East and Southeast Asia | Economy | [Naver](economy/naver.md) |
 | 2011 | Taekkyeon, the indigenous Korean kicking art, is inscribed on UNESCO's Intangible Cultural Heritage list | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
+| 2011 | A major K League match-fixing scandal leads to lifetime bans for dozens of players and officials | Culture & Society | [Korean Football and Professional Leagues](culture-society/korean-football-and-professional-leagues.md) |
 | 2011-07 | SK Telecom and LG U+ launch commercial 4G LTE service | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2011-07-06 | Pyeongchang is chosen to host the 2018 Winter Olympics on its third consecutive bid | Geography | [Gangwon Province](geography/gangwon-province.md) |
 | 2011-08-27 | Daegu hosts the IAAF World Championships in Athletics, the first held in Korea | Culture & Society | [Daegu](geography/daegu.md) |
@@ -414,6 +424,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2012 | PSY's "Gangnam Style" becomes a global viral phenomenon | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2012 | The Four Major Rivers Project is completed under President Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2012 | The National Assembly is enlarged to 300 seats and overseas absentee voting is first used | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
+| 2012-03-15 | The Korea–U.S. Free Trade Agreement (KORUS FTA) enters into force | Government & Politics | [South Korea–United States Relations and Alliance](government-politics/south-korea-united-states-relations.md) |
 | 2012-05 | The Gyeongin Ara Waterway opens, linking the Han River to the Yellow Sea at Incheon | Geography | [Incheon](geography/incheon.md) |
 | 2012-05 | Yeosu hosts the World Expo on the theme "The Living Ocean and Coast" | Geography | [South Jeolla Province](geography/south-jeolla-province.md) |
 | 2012-12-19 | Park Geun-hye is elected president, the first woman and first popular-vote majority since 1987 | People | [Park Geun-hye](people/park-geun-hye.md) |
@@ -421,6 +432,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2013 | Lezhin Comics launches a paid-only webtoon platform for mature content | Culture & Society | [Webtoons and Digital Comics](culture-society/webtoons.md) |
 | 2013 | Yi Sun-sin's War Diary (*Nanjung Ilgi*) is inscribed in UNESCO's Memory of the World register | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 2013 | Samsung commercializes the world's first 3D V-NAND flash memory | Economy | [Semiconductors](economy/semiconductors.md) |
+| 2013 | LG Electronics ships one of the world's first commercially available 55-inch OLED televisions | Economy | [LG Group and LG Electronics](economy/lg-group.md) |
 | 2013-02-25 | Park Geun-hye is inaugurated as the 18th president | People | [Park Geun-hye](people/park-geun-hye.md) |
 | 2013-06-13 | BTS debuts, becoming the decade's most globally successful K-pop act | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2013-09 | Celltrion's CT-P13 (Remsima) wins EU approval as the world's first monoclonal-antibody biosimilar | Economy | [Pharmaceutical and Biotech Industry](economy/pharmaceutical-biotech-industry.md) |
@@ -483,6 +495,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018 | The 52-hour maximum workweek is enacted, phased in from the largest firms | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 2018 | Ssireum (Korean wrestling) becomes the first heritage element jointly inscribed by both Koreas on UNESCO's Intangible Cultural Heritage list | Culture & Society | [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md) |
 | 2018 | L'Oréal acquires the Korean fashion-and-beauty brand StyleNanda | Culture & Society | [Korean Fashion and Clothing Industry](culture-society/korean-fashion.md) |
+| 2018 | The relocation of U.S. forces to Camp Humphreys in Pyeongtaek is substantially completed, creating the largest U.S. overseas base | Government & Politics | [South Korea–United States Relations and Alliance](government-politics/south-korea-united-states-relations.md) |
 | 2018-01 | *PUBG* peaks at 3.2 million concurrent Steam players, a long-standing record | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2018-01 | China's National Sword import ban triggers a plastic-recycling crisis in South Korea | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2018-01 | Prosecutor Seo Ji-hyun's televised testimony ignites South Korea's #MeToo movement | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
@@ -528,6 +541,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021-04 | The Barakah plant's Unit 1 in the UAE begins commercial operation, a first for a Korean-built reactor abroad | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2021-05 | The government announces the K-Semiconductor Strategy | Economy | [Technology and Innovation Policy](government-politics/technology-innovation-policy.md) |
 | 2021-07 | An San wins three archery golds at the Tokyo Olympics, an Olympic first | Culture & Society | [Sports and the Olympic Games](culture-society/sports-and-olympics.md) |
+| 2021-07-31 | LG Electronics shuts down its mobile-phone business after 26 years | Economy | [LG Group and LG Electronics](economy/lg-group.md) |
 | 2021-08 | Krafton raises about 4.3 trillion won in the year's largest Korean IPO | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2021-08 | The Carbon Neutrality and Green Growth Act enshrines the 2050 net-zero target in law | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2021-08-06 | KakaoBank's stock-market debut is the year's largest South Korean IPO, briefly valuing it above major legacy banks | Economy | [Kakao](economy/kakao.md) |
@@ -540,6 +554,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2022 | The European Commission blocks Hyundai Heavy Industries' acquisition of DSME | Economy | [Shipbuilding Industry](economy/shipbuilding-industry.md) |
 | 2022 | The Terra/Luna cryptocurrency collapse wipes out roughly $40 billion and spurs Korean regulation | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2022 | A project-finance (PF) crunch grips construction as rate hikes stall real-estate projects | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
+| 2022 | Son Heung-min shares the Premier League Golden Boot, the first Asian player to win the scoring title | Culture & Society | [Korean Football and Professional Leagues](culture-society/korean-football-and-professional-leagues.md) |
 | 2022-01 | LG Energy Solution's record $10.8 billion IPO becomes Korea's largest | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2022-01-27 | The Serious Accidents Punishment Act takes effect, imposing criminal liability on executives for workplace deaths | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 2022-02 | *Lost Ark* launches in the West via Amazon Games, peaking at 1.3 million concurrent Steam players | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -595,4 +610,5 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2025-06-03 | Democrat Lee Jae-myung wins the snap presidential election, with regional voting blocs again dominant | Government & Politics | [Political Parties and Regionalism](government-politics/political-parties-regionalism.md) |
 | 2025-06-04 | Lee Jae-myung is inaugurated as South Korea's twenty-first president | History | [December 2024 Martial Law Crisis](history/martial-law-crisis-2024.md) |
 | 2025-06-04 | Lee Jae-myung takes office as the 21st president of South Korea | People | [Lee Jae-myung](people/lee-jae-myung.md) |
+| 2025-08 | Son Heung-min transfers from Tottenham Hotspur to Los Angeles FC of Major League Soccer | Culture & Society | [Korean Football and Professional Leagues](culture-society/korean-football-and-professional-leagues.md) |
 <!-- END GENERATED: timeline -->

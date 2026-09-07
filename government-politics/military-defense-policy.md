@@ -104,6 +104,7 @@ The future trajectory hinges on three uncertainties: (1) the nuclear standoff wi
 - [Moon Jae-in](../people/moon-jae-in.md) — Inter-Korean military de-escalation agreements
 - [Shipbuilding Industry in South Korea](../economy/shipbuilding-industry.md) — Domestic naval construction and the defense-industrial base behind the ROK fleet
 - [Yi Sun-sin](../people/yi-sun-sin.md) — The 16th-century admiral whose legacy anchors the Korean naval tradition and destroyer nomenclature
+- [South Korea–United States Relations and Alliance](south-korea-united-states-relations.md) — The alliance, USFK, extended deterrence, and arms cooperation that frame defense policy
 <!-- END GENERATED: related -->
 
 ## Sources

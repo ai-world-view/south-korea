@@ -63,6 +63,7 @@ Index: [government-politics/](government-politics/index.md)
 - [Electoral System and the National Assembly](government-politics/electoral-system.md)
 - [Political Parties and Regionalism in South Korea](government-politics/political-parties-regionalism.md)
 - [Korean-Japanese Relations](government-politics/korean-japanese-relations.md)
+- [South Korea–United States Relations and Alliance](government-politics/south-korea-united-states-relations.md)
 
 ## Economy
 
@@ -85,6 +86,7 @@ Index: [economy/](economy/index.md)
 - [Kakao](economy/kakao.md)
 - [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md)
 - [Healthcare System in South Korea](economy/healthcare-system.md)
+- [LG Group and LG Electronics](economy/lg-group.md)
 
 ## Culture & Society
 
@@ -114,6 +116,7 @@ Index: [culture-society/](culture-society/index.md)
 - [Korean Fashion and Clothing Industry](culture-society/korean-fashion.md)
 - [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md)
 - [Confucianism and Neo-Confucianism in Korea](culture-society/confucianism-and-neo-confucianism.md)
+- [Korean Football and Professional Leagues](culture-society/korean-football-and-professional-leagues.md)
 
 ## People
 

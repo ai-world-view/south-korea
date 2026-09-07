@@ -249,4 +249,5 @@ Future chaebol evolution will likely involve gradual professionalisation of gove
 - [Petrochemicals and Heavy Chemical Industry](petrochemicals-heavy-chemicals.md) — The chemical divisions of LG, SK, Lotte, Hanwha, and other chaebol.
 - [Shipbuilding Industry in South Korea](shipbuilding-industry.md) — The chaebol-integrated "Big Three" yards of HD Hyundai, Hanwha, and Samsung Heavy Industries.
 - [Construction Industry and Real Estate Development](construction-industry.md) — The chaebol construction arms (Hyundai E&C, Samsung C&T, GS, Lotte) that build the country's megaprojects and apartments.
+- [LG Group and LG Electronics](lg-group.md) — One of the Big Four chaebol, profiled from its Lucky/GoldStar origins to its electronics, display, and battery businesses.
 <!-- END GENERATED: related -->
