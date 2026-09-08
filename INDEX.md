@@ -87,6 +87,7 @@ Index: [economy/](economy/index.md)
 - [K-beauty and Cosmetics Industry](economy/kbeauty-cosmetics-industry.md)
 - [Healthcare System in South Korea](economy/healthcare-system.md)
 - [LG Group and LG Electronics](economy/lg-group.md)
+- [Korean Tech Startups and Venture Capital Ecosystem](economy/tech-startups-venture-capital.md)
 
 ## Culture & Society
 
@@ -117,6 +118,8 @@ Index: [culture-society/](culture-society/index.md)
 - [Taekwondo and Korean Martial Arts](culture-society/taekwondo-martial-arts.md)
 - [Confucianism and Neo-Confucianism in Korea](culture-society/confucianism-and-neo-confucianism.md)
 - [Korean Football and Professional Leagues](culture-society/korean-football-and-professional-leagues.md)
+- [Korean Traditional Music and Performing Arts](culture-society/korean-traditional-music.md)
+- [Korean Shamanism and Muism](culture-society/shamanism-and-muism.md)
 
 ## People
 

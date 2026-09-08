@@ -185,6 +185,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1962 | Ulsan is designated South Korea's first Special Industrial District | Geography | [Ulsan](geography/ulsan.md) |
 | 1962 | The Korea Tourism Organization is founded to promote inbound tourism | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 1963 | Korean miners and nurses begin migrating to West Germany under a labor agreement, and agricultural emigration to Brazil starts | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
+| 1964 | Pansori is designated Important Intangible Cultural Property No. 5 | Culture & Society | [Korean Traditional Music and Performing Arts](culture-society/korean-traditional-music.md) |
 | 1964-12-22 | Lee Jae-myung is born into a poor family in Andong, North Gyeongsang Province | People | [Lee Jae-myung](people/lee-jae-myung.md) |
 | 1965-06-22 | Treaty on Basic Relations normalizes South Korea–Japan ties | People | [Park Chung-hee](people/park-chung-hee.md) |
 | 1967 | Hyundai Motor Company is founded by Chung Ju-yung | Economy | [Automotive Industry](economy/automotive-industry.md) |
@@ -230,6 +231,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1976-08-18 | The Panmunjom Axe Murder Incident kills two U.S. officers; Operation Paul Bunyan follows | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 1977 | The Medical Insurance System launches, mandating health coverage for large-firm employees and civil servants | Economy | [Healthcare System in South Korea](economy/healthcare-system.md) |
 | 1977 | Lee Myung-bak becomes CEO of Hyundai Engineering & Construction at 35 | People | [Lee Myung-bak](people/lee-myung-bak.md) |
+| 1978 | Kim Duk-soo's quartet creates samulnori, a staged concert form of Korean folk percussion | Culture & Society | [Korean Traditional Music and Performing Arts](culture-society/korean-traditional-music.md) |
 | 1978-04 | Kori-1, South Korea's first commercial nuclear reactor, begins operation near Busan | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 1978-10 | South Korea discovers the Third Infiltration Tunnel dug under the DMZ near Panmunjom | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 1979-10-16 | Bu-Ma Democratic Uprising erupts in Busan against the Yushin system | History | [Busan](geography/busan.md) |
@@ -347,6 +349,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2002-12-19 | Roh Moo-hyun wins the presidential election with 48.9% of the vote | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2003 | The credit-card bubble bursts, leaving millions of Koreans delinquent | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 2003 | Construction begins on Incheon's Songdo International Business District on reclaimed tidal flats | Geography | [Incheon](geography/incheon.md) |
+| 2003 | Pansori is proclaimed a UNESCO Masterpiece of the Oral and Intangible Heritage of Humanity | Culture & Society | [Korean Traditional Music and Performing Arts](culture-society/korean-traditional-music.md) |
 | 2003-02-18 | An arson fire at Daegu's Jungang-ro subway station kills 192 people | History | [Daegu](geography/daegu.md) |
 | 2003-02-25 | Roh Moo-hyun is inaugurated as the 16th president | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2003-04 | Nexon's *MapleStory* launches, popularizing the item-shop free-to-play model | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -367,6 +370,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2005 | The Kaesong Industrial Complex begins production just north of the DMZ | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 2005 | Family-law reform abolishes the hoju household-head system, a landmark for women's legal equality | Culture & Society | [Women's Movements and Gender Equality](culture-society/womens-movements-and-gender-equality.md) |
 | 2005 | Kim Sung-joo's Sungjoo Group acquires the German luxury house MCM, bringing it under Korean ownership | Culture & Society | [Korean Fashion and Clothing Industry](culture-society/korean-fashion.md) |
+| 2005 | The Gangneung Danoje Festival, incorporating shamanic rites, is inscribed on the UNESCO Intangible Cultural Heritage list | Culture & Society | [Korean Shamanism and Muism](culture-society/shamanism-and-muism.md) |
 | 2005-04 | NCSoft's ArenaNet studio releases *Guild Wars*, a "buy-to-play" MMO hit in the West | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2005-09 | Cheonggyecheon stream restoration completed under Seoul Mayor Lee Myung-bak | People | [Lee Myung-bak](people/lee-myung-bak.md) |
 | 2005-11 | Busan hosts the APEC Leaders' Summit at Bexco | Government & Politics | [Busan](geography/busan.md) |
@@ -389,6 +393,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2008-08 | Lee Myung-bak unveils the "Low Carbon, Green Growth" national strategy | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2009 | The Four Major Rivers Restoration Project begins, later faulted for ecological harm | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |
 | 2009 | UNESCO inscribes the Ganggangsullae circle dance, performed on Chuseok night, as Intangible Cultural Heritage | Culture & Society | [Chuseok](culture-society/chuseok.md) |
+| 2009 | The Jeju Chilmeori-dang Yeongdeung-gut shamanic ritual is inscribed on the UNESCO Intangible Cultural Heritage list | Culture & Society | [Korean Shamanism and Muism](culture-society/shamanism-and-muism.md) |
 | 2009-05-23 | Former president Roh Moo-hyun dies by suicide near his home in Gimhae | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 2009-08-18 | Kim Dae-jung dies in Seoul at 85 | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 2009-10 | The Incheon Bridge opens, linking Songdo to Yeongjong Island and Incheon International Airport | Geography | [Incheon](geography/incheon.md) |
@@ -536,6 +541,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2021 | Naver unveils HyperCLOVA, one of the largest non-English AI language models | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 2021 | Samsung commits about $17 billion to a new advanced-chip foundry in Taylor, Texas, under Lee Jae-yong | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 2021-02 | Yoon Suk-yeol resigns as prosecutor-general amid clashes with the Moon government | People | [Yoon Suk-yeol](people/yoon-suk-yeol.md) |
+| 2021-03 | Coupang lists on the New York Stock Exchange in the largest U.S. IPO by a Korean company | Economy | [Korean Tech Startups and Venture Capital Ecosystem](economy/tech-startups-venture-capital.md) |
 | 2021-03 | Big Hit Entertainment rebrands as HYBE | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-04 | HYBE acquires Ithaca Holdings, establishing HYBE America | People | [Bang Si-hyuk](people/bang-si-hyuk.md) |
 | 2021-04 | The Barakah plant's Unit 1 in the UAE begins commercial operation, a first for a Korean-built reactor abroad | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
