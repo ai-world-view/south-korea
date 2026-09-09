@@ -159,4 +159,5 @@ Archaeological investigation continues: major tomb excavations in Gyeongju, ongo
 - [Religion and Buddhism in Korea](../culture-society/religion-and-buddhism.md) — Buddhism's arrival in Goguryeo, Baekje, and Silla during this era and its long subsequent history.
 - [Joseon Dynasty](joseon-dynasty.md) — The later dynasty whose Neo-Confucian order supplanted the Buddhist statecraft rooted in this period.
 - [Gyeongju](../geography/gyeongju.md) — Silla's capital and the preserved heart of Three Kingdoms and Unified Silla material culture.
+- [Baekje Kingdom](baekje.md) — a dedicated account of the southwestern kingdom (18 BCE–660 CE) and its cultural transmission to Japan.
 <!-- END GENERATED: related -->

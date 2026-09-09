@@ -99,4 +99,5 @@ Future development plans include expanded logistics infrastructure, clean-energy
 - [Confucianism and Neo-Confucianism in Korea](../culture-society/confucianism-and-neo-confucianism.md) — the yangban scholarly heritage of the Jeonju region
 - [Political Parties and Regionalism in South Korea](../government-politics/political-parties-regionalism.md) — the Honam bloc's progressive voting pattern that North Jeolla anchors
 - [Gwangju Uprising](../history/gwangju-uprising.md) — the 1980 event that shaped the region's political consciousness
+- [Baekje Kingdom](../history/baekje.md) — the ancient kingdom whose Iksan sites (Mireuksa, Wanggung-ri) lie in the province
 <!-- END GENERATED: related -->

@@ -158,6 +158,7 @@ International recognition of Korean traditional arts has grown substantially in 
 - [Korean Literature and Literary Culture](../culture-society/korean-literature.md) — the literati world that integrated poetry and painting
 - [Hallyu (Korean Wave)](../culture-society/hallyu.md) — the contemporary culture that draws on traditional aesthetics
 - [Gyeongju](../geography/gyeongju.md) — the Silla capital where the gold crowns, Seokguram Buddha, and Silla stoneware originate
+- [Baekje Kingdom](../history/baekje.md) — the Baekje aesthetic, gilt-bronze incense burner, and Muryeong-tomb artifacts
 <!-- END GENERATED: related -->
 
 ## Sources

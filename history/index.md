@@ -10,6 +10,7 @@ Topics on the events and eras that shaped South Korea, from the ancient kingdoms
 
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
 - [Three Kingdoms Period](three-kingdoms-period.md) — The era of Goguryeo, Baekje, and Silla (1st century BCE–668 CE) and Silla's unification of the peninsula; the foundational phase of Korean civilization.
+- [Baekje Kingdom](baekje.md) — One of the Three Kingdoms (18 BCE–660 CE) in the southwestern peninsula; a sophisticated maritime and cultural power that served as the primary conduit for Chinese civilization and Buddhism into Korea and Japan, until its fall to the Silla–Tang alliance in 660.
 - [Unified Silla Period](unified-silla-period.md) — The first political unification of the Korean peninsula (668–935); a nearly three-century golden age of Buddhist civilization centered on the capital Gyeongju before its decline into the Later Three Kingdoms.
 - [Goryeo Period](goryeo-period.md) — The medieval kingdom (918–1392) that unified the peninsula, gave Korea its name, and produced celadon, the Tripitaka Koreana, and metal movable type.
 - [Joseon Dynasty](joseon-dynasty.md) — Korea's longest dynasty (1392–1910); a Neo-Confucian state that created Hangul, the gwageo examination order, and the yangban society, and endured the Imjin and Manchu invasions.

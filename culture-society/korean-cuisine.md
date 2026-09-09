@@ -144,4 +144,6 @@ Traditional Korean food philosophy draws on Donguibogam (동의보감, 1613), th
 - [Seoul](../geography/seoul.md) — The capital whose markets, café districts, and delivery networks shape modern Korean food geography.
 - [Chaebol (Korean Conglomerates)](../economy/chaebol.md) — The conglomerates behind major food companies such as CJ CheilJedang, Nongshim, and Lotte.
 - [Chuseok](chuseok.md) — The harvest holiday whose songpyeon, feasting, and kimjang preparations center on food.
+- [Coffee Culture in South Korea](coffee-culture.md) — The cafe and coffee culture that reshaped modern Korean beverage habits.
+- [Korean Ginseng Industry and Herbal Medicine](../economy/ginseng-industry.md) — Ginseng in Korean foodways, from samgyetang to tonic teas.
 <!-- END GENERATED: related -->

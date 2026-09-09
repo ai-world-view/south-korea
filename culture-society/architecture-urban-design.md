@@ -95,4 +95,5 @@ Architecturally, South Korea has made distinctive contributions to global practi
 - [Park Chung-hee](../people/park-chung-hee.md) — Developmental-state policies shaping urban form and mass housing.
 - [Democratization of South Korea](../history/democratization.md) — The opening of architectural culture after 1987.
 - [Korean Royal Palaces and Heritage Sites](korean-royal-palaces.md) — The Joseon palace architecture, geomancy, and dancheong that anchor Korea's built heritage.
+- [Coffee Culture in South Korea](coffee-culture.md) — Cafe interiors and the dense "third place" ecosystem shaping neighborhood commercial space.
 <!-- END GENERATED: related -->

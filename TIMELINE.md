@@ -14,15 +14,21 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | c. 37 BCE | Goguryeo is founded by Jumong in the northern peninsula | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | c. 18 BCE | Baekje establishes its first capital, Wiryeseong, near present-day Seoul | Geography | [Seoul](geography/seoul.md) |
 | c. 18 BCE | Baekje is founded by Onjo in the southwestern peninsula | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 346 | King Geunchogo accedes, opening Baekje's era of greatest military and cultural power | History | [Baekje Kingdom](history/baekje.md) |
+| 371 | Baekje storms Pyongyang and kills Goguryeo's King Gogugwon under King Geunchogo | History | [Baekje Kingdom](history/baekje.md) |
 | 372 | Buddhism reaches Goguryeo and the Taehak national academy is founded | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 384 | Buddhism reaches Baekje through the monk Malananda | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 414 | The Gwanggaeto Stele is erected, commemorating Goguryeo's expansion | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 427 | Goguryeo moves its capital to Pyongyang under King Jangsu | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 475 | Goguryeo sacks Wiryeseong and kills King Gaero; Baekje moves its capital south to Ungjin | History | [Baekje Kingdom](history/baekje.md) |
 | 528 | Silla adopts Buddhism as a state religion after Ichadon's martyrdom | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 538 | Baekje moves its capital to Sabi (modern Buyeo) | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 538 | King Seong sends Buddhist images and scriptures to Japan's Yamato court | History | [Baekje Kingdom](history/baekje.md) |
+| 554 | King Seong is killed at the Battle of Gwansanseong after Silla seizes the Han River basin | History | [Baekje Kingdom](history/baekje.md) |
 | 612 | Goguryeo's Eulji Mundeok destroys a Sui army at the Salsu River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 647 | The Cheomseongdae astronomical observatory is built in Gyeongju under Queen Seondeok | Geography | [Gyeongju](geography/gyeongju.md) |
 | 660 | A Tang–Silla alliance conquers Baekje | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
+| 660 | Gyebaek's five thousand defenders make their last stand at Hwangsanbeol as Baekje falls to the Silla–Tang alliance | History | [Baekje Kingdom](history/baekje.md) |
 | 663 | Tang–Silla naval forces destroy a Baekje-restoration and Yamato fleet at the Battle of Baekgang | History | [Unified Silla Period](history/unified-silla-period.md) |
 | 668 | Goguryeo falls, ending the Three Kingdoms period | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
 | 676 | Silla expels Tang forces, unifying the peninsula south of the Taedong River | History | [Three Kingdoms Period](history/three-kingdoms-period.md) |
@@ -77,6 +83,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1597 | Restored to command with only 13 warships, Yi Sun-sin routs a far larger fleet at Myeongnyang | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1598 | Yi Sun-sin is killed in victory at the Battle of Noryang as the Imjin War ends | People | [Yi Sun-sin](people/yi-sun-sin.md) |
 | 1601 | Daegu becomes the seat of the Gyeongsang provincial government | History | [Daegu](geography/daegu.md) |
+| 1613 | Heo Jun's *Dongui Bogam* systematizes ginseng within Korean medicine | Economy | [Korean Ginseng Industry and Herbal Medicine](economy/ginseng-industry.md) |
 | 1637 | King Injo surrenders to the Qing at Samjeondo after the Byeongja Horan | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1658 | Daegu's Yangnyeong herbal-medicine market is established by royal decree | Culture & Society | [Daegu](geography/daegu.md) |
 | 1751 | Jeong Seon paints "Inwang jesaekdo," a landmark of True-View landscape painting | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
@@ -94,15 +101,19 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1885 | American Protestant missionaries Underwood and Appenzeller arrive in Korea | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1894 | The Donghak Peasant Revolt rises against taxation and foreign encroachment | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1896 | Gwangju becomes the provincial capital of the newly created South Jeolla Province | Geography | [Gwangju](geography/gwangju.md) |
+| 1896 | King Gojong takes to coffee while sheltering at the Russian legation in Seoul | Culture & Society | [Coffee Culture in South Korea](culture-society/coffee-culture.md) |
 | 1897 | Gojong proclaims the Empire of Korea (Daehan Jeguk), ending the Joseon kingdom's old order | History | [Joseon Dynasty](history/joseon-dynasty.md) |
 | 1897 | Emperor Gojong makes Deoksugung the seat of the new Korean Empire after his return from the Russian legation | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 1899 | The Gyeongin Line, Korea's first railway, opens between Seoul and Incheon | Geography | [Incheon](geography/incheon.md) |
+| 1899 | The Korean government establishes a red-ginseng monopoly, the origin of the Korea Ginseng Corporation | Economy | [Korean Ginseng Industry and Herbal Medicine](economy/ginseng-industry.md) |
+| 1902 | The Sontag Hotel, Korea's first Western-style coffeehouse, opens in Seoul | Culture & Society | [Coffee Culture in South Korea](culture-society/coffee-culture.md) |
 | 1903 | The first organized Korean emigration to the Americas begins as laborers ship to Hawaii's plantations (1903–1905) | Geography | [Korean Diaspora and Overseas Korean Communities](geography/korean-diaspora-overseas-communities.md) |
 | 1905-01-01 | The Gyeongbu Line opens, establishing the railway junction that becomes Daejeon | Geography | [Daejeon](geography/daejeon.md) |
 | 1905-11-17 | Eulsa Treaty strips Korea of diplomatic sovereignty under Japanese duress | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 1907 | Emperor Gojong is forced to abdicate and the Korean army is disbanded | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1907 | The Pyongyang Great Revival shapes the character of Korean Protestantism | Culture & Society | [Religion and Buddhism in Korea](culture-society/religion-and-buddhism.md) |
 | 1908 | Choe Nam-seon's "From the Sea to Children" inaugurates modern Korean free verse | Culture & Society | [Korean Literature and Literary Culture](culture-society/korean-literature.md) |
+| 1908 | A standardized red-ginseng processing house is established at Gaeseong under colonial administration | Economy | [Korean Ginseng Industry and Herbal Medicine](economy/ginseng-industry.md) |
 | 1909 | Japanese authorities convert Changgyeonggung into a zoo and botanical garden, renaming it Changgyeongwon | Culture & Society | [Korean Royal Palaces and Heritage Sites](culture-society/korean-royal-palaces.md) |
 | 1909-10-26 | An Jung-geun assassinates Itō Hirobumi at Harbin Station | History | [Korean Independence Movement](history/korean-independence-movement.md) |
 | 1910 | Japan annexes Korea; the capital is renamed Keijō | History | [Seoul](geography/seoul.md) |
@@ -202,6 +213,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1970-07 | The Seoul–Busan (Gyeongbu) Expressway is completed, South Korea's first limited-access highway | Economy | [Construction Industry and Real Estate Development](economy/construction-industry.md) |
 | 1970-11-13 | Garment worker Jeon Tae-il self-immolates, demanding enforcement of the Labor Standards Act | Economy | [Labor and Employment Policy](economy/labor-employment-policy.md) |
 | 1970-11-27 | Han Kang, later the first Korean Nobel laureate in literature, is born in Gwangju | People | [Han Kang](people/han-kang.md) |
+| 1971 | The intact Muryeong Royal Tomb of Baekje is discovered in Gongju | History | [Baekje Kingdom](history/baekje.md) |
 | 1971 | KAIST founded in Daejeon as a state-directed research university | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1971-04-27 | Kim Dae-jung wins 45% of the vote against Park Chung-hee in the presidential election | People | [Kim Dae-jung](people/kim-dae-jung.md) |
 | 1972 | South Korea's first naphtha cracker starts up at the Ulsan Petrochemical Complex | Economy | [Petrochemicals and Heavy Chemical Industry](economy/petrochemicals-heavy-chemicals.md) |
@@ -227,6 +239,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1975 | Roh Moo-hyun passes the bar as a self-taught lawyer without a university degree | People | [Roh Moo-hyun](people/roh-moo-hyun.md) |
 | 1975 | Hyundai launches the Pony, Korea's first domestically designed car | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1975 | Seoul National University relocates to its purpose-built Gwanak campus in southern Seoul | Culture & Society | [Seoul National University](culture-society/seoul-national-university.md) |
+| 1976 | Dongsuh launches its "Maxim" instant coffee-mix brand | Culture & Society | [Coffee Culture in South Korea](culture-society/coffee-culture.md) |
 | 1976 | The Export-Import Bank of Korea (KEXIM) is established to finance exports | Economy | [Banking and Finance Sector](economy/banking-and-finance.md) |
 | 1976-08-18 | The Panmunjom Axe Murder Incident kills two U.S. officers; Operation Paul Bunyan follows | Geography | [The Korean Demilitarized Zone (DMZ)](geography/demilitarized-zone.md) |
 | 1977 | The Medical Insurance System launches, mandating health coverage for large-firm employees and civil servants | Economy | [Healthcare System in South Korea](economy/healthcare-system.md) |
@@ -324,6 +337,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 1998-12 | Hyundai acquires the bankrupt Kia Motors, forming Hyundai Motor Group | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 1999 | Daewoo Group collapses in the largest corporate bankruptcy of its time | Economy | [Chaebol](economy/chaebol.md) |
 | 1999-07 | Daewoo Group collapses with about $80 billion in debt, among the largest corporate failures in world history | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
+| 1999-07 | Starbucks opens its first Korean store near Ewha Womans University in Seoul | Culture & Society | [Coffee Culture in South Korea](culture-society/coffee-culture.md) |
 | 1999 | Brain Korea 21 (BK21) university research program launched | Culture & Society | [Education and Universities](culture-society/education-and-universities.md) |
 | 1999 | Naver, later South Korea's dominant search portal, is founded | Economy | [Technology Sector and ICT Innovation](economy/technology-sector.md) |
 | 1999 | "Shiri" proves Korean cinema can rival Hollywood at the box office | Culture & Society | [Film and Cinema Industry](culture-society/film-cinema-industry.md) |
@@ -337,6 +351,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2000-12-10 | Kim Dae-jung awarded the Nobel Peace Prize | History | [Democratization](history/democratization.md) |
 | 2001-03 | Incheon International Airport opens | Geography | [Seoul](geography/seoul.md) |
 | 2001-08 | Korea repays its IMF loans nearly three years ahead of schedule | History | [The 1997 Asian Financial Crisis](history/asian-financial-crisis-1997.md) |
+| 2002 | The state red-ginseng monopoly ends and the Korea Ginseng Corporation is privatized | Economy | [Korean Ginseng Industry and Herbal Medicine](economy/ginseng-industry.md) |
 | 2002 | Naver merges with the game company Hangame to form NHN and launches the Knowledge iN Q&A service | Economy | [Naver](economy/naver.md) |
 | 2002 | Smilegate is founded by Kwon Hyuk-bin, later maker of *Crossfire* and *Lost Ark* | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
 | 2002 | Gravity's *Ragnarok Online* launches, a hit across Southeast Asia | Culture & Society | [Gaming Industry](culture-society/gaming-industry.md) |
@@ -452,6 +467,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2014-05 | Lee Jae-yong becomes Samsung's de facto leader after his father Lee Kun-hee's heart attack | People | [Lee Jae-yong](people/lee-jae-yong.md) |
 | 2014-09-19 | Incheon hosts the 17th Asian Games | Geography | [Incheon](geography/incheon.md) |
 | 2014-11 | The Sewol Special Law is enacted and captain Lee Joon-seok is sentenced (later raised to life imprisonment on appeal) | History | [Sewol Ferry Disaster (2014)](history/sewol-ferry-disaster.md) |
+| 2015 | The Baekje Historic Areas are inscribed as a UNESCO World Heritage Site | History | [Baekje Kingdom](history/baekje.md) |
 | 2015 | Hyundai spins off Genesis as a standalone luxury brand | Economy | [Automotive Industry](economy/automotive-industry.md) |
 | 2015 | The Gyeongju low- and intermediate-level nuclear-waste repository opens | Economy | [Energy and Resources Policy](economy/energy-resources-policy.md) |
 | 2015 | A Galerie Perrotin retrospective brings the Dansaekhwa monochrome movement to global attention | Culture & Society | [Korean Traditional Visual Arts](culture-society/traditional-visual-arts.md) |
@@ -518,6 +534,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2018-10-30 | South Korean Supreme Court orders Japanese firms to compensate wartime forced-labor victims | History | [Japanese Colonial Period](history/japanese-colonial-period.md) |
 | 2018-12-01 | South Korea activates its first limited (B2B) 5G service, claiming a world first | Economy | [Telecommunications Industry](economy/telecommunications-industry.md) |
 | 2019 | International visitor arrivals peak at about 17.5 million, a pre-pandemic record | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
+| 2019 | Jeon Joo-yeon becomes the first Korean to win the World Barista Championship | Culture & Society | [Coffee Culture in South Korea](culture-society/coffee-culture.md) |
 | 2019 | wavve launches as the terrestrial broadcasters' streaming joint venture with SK Telecom | Culture & Society | [Korean Broadcast Television Industry](culture-society/korean-broadcast-television.md) |
 | 2019-07 | Nine Korean seowon (Neo-Confucian academies) are inscribed as a UNESCO World Heritage Site | Culture & Society | [Confucianism and Neo-Confucianism in Korea](culture-society/confucianism-and-neo-confucianism.md) |
 | 2019-07 | Japan restricts exports of three chipmaking materials to South Korea, opening a trade dispute rooted in the forced-labor rulings | Government & Politics | [Korean-Japanese Relations](government-politics/korean-japanese-relations.md) |
@@ -531,6 +548,7 @@ A chronological index of dated events drawn from the knowledge base. Regenerated
 | 2020 | COVID-19 collapses international tourist arrivals to roughly 2.5 million | Economy | [Tourism Industry in South Korea](economy/tourism-industry.md) |
 | 2020-02-09 | "Parasite" wins the Academy Award for Best Picture | Culture & Society | [Hallyu](culture-society/hallyu.md) |
 | 2020-02-18 | A COVID-19 cluster at Daegu's Shincheonji Church triggers Korea's "K-quarantine" response | People | [Moon Jae-in](people/moon-jae-in.md) |
+| 2020-04 | Whipped "dalgona coffee" goes viral worldwide during the pandemic | Culture & Society | [Coffee Culture in South Korea](culture-society/coffee-culture.md) |
 | 2020-04-15 | A semi-linked proportional system debuts, prompting both major parties to field satellite lists | Government & Politics | [Electoral System and the National Assembly](government-politics/electoral-system.md) |
 | 2020-08 | BTS's "Dynamite" tops the Billboard Hot 100, a first for a K-pop song | Culture & Society | [K-pop Industry](culture-society/kpop-industry.md) |
 | 2020-10 | Moon Jae-in announces a 2050 carbon-neutrality goal, among Asia's first | Government & Politics | [Environmental Policy and Sustainability](government-politics/environmental-policy.md) |

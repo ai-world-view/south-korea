@@ -134,4 +134,6 @@ Knowledge derived from industry publications, Amorepacific and LG H&H annual rep
 - [Korean Cuisine and Food Culture](../culture-society/korean-cuisine.md) — The fermentation traditions underlying K-beauty's ingredient philosophy.
 - [Technology Sector and ICT Innovation](technology-sector.md) — The advanced manufacturing and supply-chain innovation behind cosmetics OEM/ODM.
 - [Chaebol (Korean Conglomerates)](chaebol.md) — The conglomerate model behind Amorepacific and LG Household & Health Care.
+- [Korean Ginseng Industry and Herbal Medicine](ginseng-industry.md) — The traditional-ingredient heritage (ginseng extracts) drawn on in Korean cosmetics.
+- [Coffee Culture in South Korea](../culture-society/coffee-culture.md) — A parallel Instagram-era Korean lifestyle-and-export phenomenon.
 <!-- END GENERATED: related -->

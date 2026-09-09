@@ -156,6 +156,7 @@ Korean Buddhism has adapted to modernity through temple-stay programs, social me
 - [Gyeongju](../geography/gyeongju.md) — the Silla Buddhist capital, home to Bulguksa and the Seokguram grotto.
 - [Chuseok](chuseok.md) — the harvest holiday whose ancestral rites express Confucian filial piety.
 - [Confucianism and Neo-Confucianism in Korea](confucianism-and-neo-confucianism.md) — the Confucian tradition that shaped Korean religious and ethical life alongside Buddhism.
+- [Baekje Kingdom](../history/baekje.md) — the kingdom that adopted Buddhism in 384 and transmitted it to Japan.
 <!-- END GENERATED: related -->
 
 ## Sources

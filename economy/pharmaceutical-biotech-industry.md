@@ -197,4 +197,5 @@ The global success of Korean beauty (K-beauty) has created spillover interest in
 - [Education and Universities in South Korea](../culture-society/education-and-universities.md) — The STEM and returning-scientist pipeline supplying the sector's talent.
 - [Park Chung-hee](../people/park-chung-hee.md) — Architect of the developmental state that first designated pharmaceuticals a strategic industry.
 - [Healthcare System in South Korea](healthcare-system.md) — The universal National Health Insurance market and drug-pricing regime that shape domestic demand for the sector.
+- [Korean Ginseng Industry and Herbal Medicine](ginseng-industry.md) — The traditional-medicine and ginsenoside research that feeds into standardized botanical pharmaceuticals.
 <!-- END GENERATED: related -->

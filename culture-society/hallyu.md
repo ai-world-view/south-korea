@@ -260,4 +260,5 @@ However, Hallyu's success model — heavy corporate control, manufactured aesthe
 - [Korean Broadcast Television Industry](korean-broadcast-television.md) — The terrestrial networks whose dramas and music shows launched the Korean Wave in Asia.
 - [K-beauty and Cosmetics Industry](../economy/kbeauty-cosmetics-industry.md) — The cosmetics export sector that the Korean Wave carries into global markets.
 - [Korean Diaspora and Overseas Korean Communities](../geography/korean-diaspora-overseas-communities.md) — The overseas Korean communities and global fandoms that amplify the Korean Wave.
+- [Coffee Culture in South Korea](coffee-culture.md) — Cafe aesthetics and the globally viral dalgona coffee as Korean lifestyle exports.
 <!-- END GENERATED: related -->

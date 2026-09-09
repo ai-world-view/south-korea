@@ -1,5 +1,6 @@
 ---
 title: Healthcare System in South Korea
+preview: /images/previews/healthcare-system-in-south-korea.svg
 date: 2026-09-06
 category: Economy
 ---
@@ -171,4 +172,5 @@ Policy discussions center on:
 - [Environmental Policy and Sustainability](../government-politics/environmental-policy.md) — air pollution and public-health dimensions
 - [Candlelight Revolution (2016–2017)](../history/candlelight-revolution-2016-2017.md) — the Moon Jae-in administration that expanded NHIS benefits
 - [Yoon Suk-yeol](../people/yoon-suk-yeol.md) — the 2024 medical-school-expansion policy and doctors' walkout
+- [Korean Ginseng Industry and Herbal Medicine](ginseng-industry.md) — the licensed Oriental-medicine (*hanbang*) track partly covered by National Health Insurance
 <!-- END GENERATED: related -->
