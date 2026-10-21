@@ -88,6 +88,7 @@ defaults:
 # (at /seed/ and /roadmap/) lets the links resolve. They are still kept out of
 # the navbar via _data/hub.yml `defaults.exclude` in the theme repo.
 exclude:
+  - PRD.md
   - CLAUDE.md
   - AGENTS.md
   - LIFECYCLE.md
