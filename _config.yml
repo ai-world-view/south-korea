@@ -100,3 +100,6 @@ exclude:
   - Gemfile.lock
   - vendor/
   - node_modules/
+  - docs/constitution.md
+  - docs/amendments/
+  - features/
