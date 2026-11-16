@@ -38,7 +38,7 @@ telemetry back here (see CLAUDE.md).
 
 ## 4. Core features (current)
 
-- Static site: Jekyll with `remote_theme: bamr87/zer0-mistakes@v1.26.0`, `baseurl: /south-korea`.
+- Static site: Jekyll with `remote_theme: bamr87/zer0-mistakes`, `baseurl: /south-korea`.
 - Content by taxonomy category (Markdown files with `title` / `date` / `category` front matter):
 
 | Category directory | Markdown files |

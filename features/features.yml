@@ -19,7 +19,7 @@ repo: ai-world-view/south-korea
 features:
   - id: AWV-SOUTH-KOREA-001
     title: "Static site: Jekyll with remote_theme:…"
-    description: "Static site: Jekyll with `remote_theme: bamr87/zer0-mistakes@v1.26.0`, `baseurl: /south-korea`."
+    description: "Static site: Jekyll with `remote_theme: bamr87/zer0-mistakes`, `baseurl: /south-korea`."
     implemented: true
     status: shipped
     prd: [FR2]
