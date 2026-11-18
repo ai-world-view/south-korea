@@ -6,7 +6,7 @@
 #
 # Publishing: GitHub Pages, "deploy from branch" (main, path /).
 # Site URL:   https://ai-world-view.github.io/south-korea/
-# Theme:      remote_theme bamr87/zer0-mistakes@v1.26.0 (no theme files vendored here).
+# Theme:      remote_theme bamr87/zer0-mistakes (no theme files vendored here).
 #
 # Content stays plain markdown in this repo. The GitHub Pages default plugins
 # (optional-front-matter, readme-index, default-layout, titles-from-headings,
@@ -24,7 +24,7 @@ repository: "ai-world-view/south-korea"
 
 url: "https://ai-world-view.github.io"
 baseurl: "/south-korea"
-remote_theme: "bamr87/zer0-mistakes@v1.26.0"
+remote_theme: "bamr87/zer0-mistakes"
 
 markdown: kramdown
 kramdown:
